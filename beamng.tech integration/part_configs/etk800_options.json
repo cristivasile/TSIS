@@ -1,0 +1,706 @@
+{
+    "etk800_quarterglass_L_wagon": [
+        "etk800_quarterglass_L_wagon"
+    ],
+    "etk800_wheeldata_R": [
+        "etk800_wheeldata_R"
+    ],
+    "etk800_hood": [
+        "etk800_hood",
+        "etk800_hood_ttsport",
+        "etk800_hood_race"
+    ],
+    "etk800_halfshafts_R": [
+        "etk800_halfshafts_R"
+    ],
+    "etk800_taillight_L": [
+        "etk800_taillight_L_usdm",
+        "etk800_taillight_L"
+    ],
+    "etk800_driveshaft_R": [
+        "etk800_driveshaft_R"
+    ],
+    "etk800_swaybar_R": [
+        "etk800_swaybar_R_tt",
+        "etk800_swaybar_R_race",
+        "etk800_swaybar_R"
+    ],
+    "etk800_steer": [
+        "etk800_steer_01a",
+        "etk800_steer_02a",
+        "etk800_steer_03a",
+        "etk800_steer_04a",
+        "etk800_steer_05a",
+        "etk800_steer_02c",
+        "etk800_steer_paddles",
+        "etk800_steer",
+        "etk800_steer_02b"
+    ],
+    "etk800_logo_bumper_F": [
+        "etk800_logo_F_rennspecht",
+        "etk800_logo_F"
+    ],
+    "etk800_bumper_F": [
+        "etk800_bumper_F",
+        "etk800_bumper_F_tt",
+        "etk800_bumper_F_alt",
+        "etk800_bumper_F_tt_wide"
+    ],
+    "etk800_mirror_R": [
+        "etk800_mirror_R"
+    ],
+    "pickup_engine_v8_ecu": [
+        "pickup_engine_v8_ecu",
+        "pickup_engine_v8_ecu_late",
+        "pickup_engine_v8_ecu_sport",
+        "pickup_engine_v8_ecu_race"
+    ],
+    "etk_engine_i4_2.0_diesel_ecu": [
+        "etk_engine_i4_2.0_diesel_ecu_190",
+        "etk_engine_i4_2.0_diesel_ecu_230_stage1",
+        "etk_engine_i4_2.0_diesel_ecu_150",
+        "etk_engine_i4_2.0_diesel_ecu_230"
+    ],
+    "etk800_backlight": [
+        "etk800_backlight"
+    ],
+    "pigeon_i4_transmission": [
+        "pigeon_i4_transmission_5M",
+        "pigeon_i4_transmission_5M_race"
+    ],
+    "etk800_licenseplate_F_alt": [
+        "etk800_licenseplate_F_alt",
+        "etk800_licenseplate_F_alt_EU"
+    ],
+    "etk800_doordetent_FL": [
+        "etk800_doordetent_FL"
+    ],
+    "etk800_swaybar_F": [
+        "etk800_swaybar_F_tt",
+        "etk800_swaybar_F_race",
+        "etk800_swaybar_F"
+    ],
+    "etk800_door_RL_wagon": [
+        "etk800_door_RL_wagon_wide",
+        "etk800_door_RL_wagon"
+    ],
+    "etk800_licenseplate_R_alt2": [
+        "etk800_licenseplate_R_alt2",
+        "etk800_licenseplate_R_alt2_EU"
+    ],
+    "etk_engine_v8_4.4_petrol_ecu": [
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage2",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage1",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_630",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_470",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_550",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_500"
+    ],
+    "etk800_lettering_85x": [
+        "etk800_lettering_856",
+        "etk800_lettering_854",
+        "etk800_lettering_rennspecht_wagon"
+    ],
+    "etk_engine_i4_2.0_ecu": [
+        "etk_engine_i4_2.0_ecu_150",
+        "etk_engine_i4_2.0_ecu_190",
+        "etk_engine_i4_2.0_ecu_250",
+        "etk_engine_i4_2.0_ecu_250_stage1"
+    ],
+    "etk800_differential_F": [
+        "etk800_differential_F",
+        "etk800_differential_F_active_LSD",
+        "etk800_differential_F_race"
+    ],
+    "etk800_towhitch": [
+        "etk800_towhitch"
+    ],
+    "etk_engine_i4_2.0_internals": [
+        "etk_engine_i4_2.0_internals_heavy",
+        "etk_engine_i4_2.0_internals"
+    ],
+    "etk800_lip_F": [
+        "etk800_bumper_F_lip_rennspecht"
+    ],
+    "etk800_roof_accessory": [
+        "etk800_cargo_load_roofbars"
+    ],
+    "pigeon_engine": [
+        "pigeon_engine_i3_550",
+        "pigeon_engine_i4_1300"
+    ],
+    "etk800_shifter": [
+        "etk800_shifter_SQ",
+        "etk800_shifter_M",
+        "etk800_shifter_A"
+    ],
+    "etk800_steering": [
+        "etk800_steering_race",
+        "etk800_steering_drift",
+        "etk800_steering"
+    ],
+    "etk800_doorpanel_FR": [
+        "etk800_doorpanel_FR"
+    ],
+    "etk800_lettering_6": [
+        "etk800_lettering_xc300",
+        "etk800_lettering_xc260d",
+        "etk800_lettering_ttsport",
+        "etk800_lettering_ttsport_plus",
+        "etk800_lettering_x320d",
+        "etk800_lettering_320d",
+        "etk800_lettering_x340",
+        "etk800_lettering_340"
+    ],
+    "etk_engine_ecu_speedlimit": [
+        "etk_engine_ecu_speedlimit_270",
+        "etk_engine_ecu_speedlimit_off",
+        "etk_engine_ecu_speedlimit_250",
+        "etk_engine_ecu_speedlimit_330",
+        "etk_engine_ecu_speedlimit_230",
+        "etk_engine_ecu_speedlimit_310",
+        "etk_engine_ecu_speedlimit_210",
+        "etk_engine_ecu_speedlimit_290"
+    ],
+    "etk800_quarterglass_R": [
+        "etk800_quarterglass_R"
+    ],
+    "etk800_markerlights_F": [
+        "etk800_markerlights_F"
+    ],
+    "etk800_fender_R": [
+        "etk800_fender_R",
+        "etk800_fender_R_wide"
+    ],
+    "etk800_cladding_bumper_F": [
+        "etk800_markerlights_F_xc",
+        "etk800_cladding_bumper_F"
+    ],
+    "etk800_doorglass_FL": [
+        "etk800_doorglass_FL"
+    ],
+    "etk800_doorglass_RR": [
+        "etk800_doorglass_RR"
+    ],
+    "etk800_strut_F_wide": [
+        "etk800_strut_F_wide_tt",
+        "etk800_strut_F_wide_rally",
+        "etk800_strut_F_wide_adaptive",
+        "etk800_strut_F_wide_race"
+    ],
+    "etk800_strutbrace_F": [
+        "etk800_strutbrace_F_tt",
+        "etk800_strutbrace_F"
+    ],
+    "etk800_exhausttips_i6": [
+        "etk800_exhausttips_oval",
+        "etk800_exhausttips_i6_tt",
+        "etk800_exhausttips_i6"
+    ],
+    "etk800_dash": [
+        "etk800_dash_adas",
+        "etk800_dash_stripped",
+        "etk800_dash"
+    ],
+    "etk800_headliner_sedan_cf": [
+        "etk800_headliner_sedan_cf",
+        "etk800_headliner_sedan_stripped_cf"
+    ],
+    "etk800_door_FR": [
+        "etk800_door_FR"
+    ],
+    "etk800_mirror_L": [
+        "etk800_mirror_L"
+    ],
+    "etk800_seat_FR": [
+        "etk800_seat_FR",
+        "etk800_race_seat_FR",
+        "etk800_seat_FR_sport"
+    ],
+    "etk800_roof": [
+        "etk800_roof_sun",
+        "etk800_roof_cf",
+        "etk800_roof"
+    ],
+    "etk800_undertray": [
+        "etk800_undertray"
+    ],
+    "bastion_engine": [
+        "bastion_engine_v6",
+        "bastion_engine_v8_large",
+        "bastion_engine_v8"
+    ],
+    "etk800_spring_R": [
+        "etk800_spring_R_tt",
+        "etk800_spring_R_rally",
+        "etk800_spring_R_lifted",
+        "etk800_spring_R",
+        "etk800_spring_R_race"
+    ],
+    "etk800_rollcage": [
+        "etk800_rollcage"
+    ],
+    "etk_engine_i6_3.0_diesel_internals": [
+        "etk_engine_i6_3.0_diesel_internals_heavy",
+        "etk_engine_i6_3.0_diesel_internals"
+    ],
+    "etk800_doorglass_RR_wagon": [
+        "etk800_doorglass_RR_wagon"
+    ],
+    "etk800_headlight_L": [
+        "etk800_headlight_halogen_L",
+        "etk800_headlight_L"
+    ],
+    "etk800_diffuser_R_tt": [
+        "etk800_diffuser_R_tt_alt",
+        "etk800_diffuser_R_tt"
+    ],
+    "pickup_engine_v8_diesel_ecu": [
+        "pickup_engine_v8_diesel_ecu",
+        "pickup_engine_v8_diesel_ecu_race"
+    ],
+    "etk_transmission": [
+        "etk_transmission_8A",
+        "etk_transmission_6M_diesel",
+        "etk_transmission_6M_race",
+        "etk_transmission_6M_sq",
+        "etk_transmission_6M_sport",
+        "etk_transmission_7DCT",
+        "etk_transmission_8A_diesel",
+        "etk_transmission_6M"
+    ],
+    "etk800_differential_R": [
+        "etk800_differential_R_LSD",
+        "etk800_differential_R",
+        "etk800_differential_R_active_LSD",
+        "etk800_differential_R_race",
+        "etk800_differential_R_welded"
+    ],
+    "etk800_screen_branding": [
+        "etk800_screen_branding_default",
+        "etk800_screen_branding_ttsport"
+    ],
+    "etk800_headlight_R": [
+        "etk800_headlight_R",
+        "etk800_headlight_halogen_R"
+    ],
+    "etk800_windshield": [
+        "etk800_windshield"
+    ],
+    "etk800_trunk": [
+        "etk800_trunk"
+    ],
+    "etk800_doordetent_FR": [
+        "etk800_doordetent_FR"
+    ],
+    "etk800_fueltank": [
+        "etk800_fueltank",
+        "etk800_fueltank_diesel"
+    ],
+    "etk800_wheeldata_F": [
+        "etk800_wheeldata_F"
+    ],
+    "pickup_transmission": [
+        "pickup_transmission_3A_race",
+        "pickup_transmission_5M",
+        "pickup_transmission_4A_drag",
+        "pickup_transmission_5M_diesel",
+        "pickup_transmission_4A",
+        "pickup_transmission_6A",
+        "pickup_transmission_6M_race",
+        "pickup_transmission_6A_Diesel"
+    ],
+    "etk800_seat_FL": [
+        "etk800_seat_FL",
+        "etk800_race_seat_FL",
+        "etk800_seat_FL_sport"
+    ],
+    "etk800_door_FL": [
+        "etk800_door_FL"
+    ],
+    "pigeon_transmission": [
+        "pigeon_transmission_3M",
+        "pigeon_transmission_5M"
+    ],
+    "etk800_taillight_R": [
+        "etk800_taillight_R_usdm",
+        "etk800_taillight_R"
+    ],
+    "etk800_headlightpanel_L": [
+        "etk800_headlightpanel_L"
+    ],
+    "etk800_doorpanel_FL": [
+        "etk800_doorpanel_FL"
+    ],
+    "etk800_spoiler_sedan": [
+        "etk800_bigwing_02a",
+        "etk800_bigwing_03a",
+        "etk800_bigwing_01a",
+        "etk800_spoiler_sedan_cf",
+        "etk800_spoiler_sedan",
+        "etk800_spoiler_sedan_rennspecht"
+    ],
+    "etk800_licenseplate_R": [
+        "etk800_licenseplate_R",
+        "etk800_licenseplate_R_EU"
+    ],
+    "etk800_licenseplate_R_alt": [
+        "etk800_licenseplate_R_alt",
+        "etk800_licenseplate_R_alt_EU"
+    ],
+    "etk800_shock_R_wide": [
+        "etk800_shock_R_wide_adaptive",
+        "etk800_shock_R_wide_rally",
+        "etk800_shock_R_wide_tt",
+        "etk800_shock_R_wide_race"
+    ],
+    "etk800_doordetent_RR": [
+        "etk800_doordetent_RR"
+    ],
+    "etk800_brake_F": [
+        "etk800_brake_F_tt",
+        "etk800_brake_F_carbon",
+        "etk800_brake_F",
+        "etk800_brake_F_race"
+    ],
+    "etk800_sedan_roof_accessory": [
+        "etk800_cargo_load_roofbars_sedan"
+    ],
+    "etk800_tailgate": [
+        "etk800_tailgate"
+    ],
+    "etk800_doordetent_RL": [
+        "etk800_doordetent_RL"
+    ],
+    "etk800_suspension_R": [
+        "etk800_suspension_R",
+        "etk800_suspension_R_wide"
+    ],
+    "etk800_doorpanel_RR": [
+        "etk800_doorpanel_RR"
+    ],
+    "etk800_cladding_bumper_R": [
+        "etk800_cladding_bumper_R"
+    ],
+    "pickup_engine_v8_diesel_internals": [
+        "pickup_engine_v8_diesel_internals_stage1",
+        "pickup_engine_v8_diesel_internals_stage2",
+        "pickup_engine_v8_diesel_internals_ultra",
+        "pickup_engine_v8_diesel_internals_heavy",
+        "pickup_engine_v8_diesel_internals_stage3",
+        "pickup_engine_v8_diesel_internals"
+    ],
+    "pickup_suspension_F": [
+        "pickup_IFS",
+        "pickup_beamaxle_F",
+        "pickup_4link",
+        "pickup_SFA",
+        "pickup_IFS_offroad"
+    ],
+    "etk800_tailgateglass": [
+        "etk800_tailgateglass"
+    ],
+    "etk_engine": [
+        "etk_engine_i4_2.0_diesel",
+        "etk_engine_i4_2.0",
+        "etk_engine_i6_3.0_diesel",
+        "etk_engine_i6_3.0",
+        "etk_engine_v8_4.4_petrol"
+    ],
+    "etk800_body": [
+        "etk800_body_sedan",
+        "etk800_body_wagon"
+    ],
+    "etk800_dash_wagon": [
+        "etk800_dash_wagon_adas",
+        "etk800_dash_stripped_wagon",
+        "etk800_dash_wagon"
+    ],
+    "etk800_lettering_84x": [
+        "etk800_lettering_rennspecht_sedan",
+        "etk800_lettering_846",
+        "etk800_lettering_844"
+    ],
+    "pigeon_enginemounts": [
+        "pigeon_enginemounts",
+        "pigeon_enginemounts_heavy",
+        "pigeon_enginemounts_ultra"
+    ],
+    "etk800_wide_sideskirt": [
+        "etk800_wide_sideskirt"
+    ],
+    "pickup_enginemounts": [
+        "pickup_enginemounts",
+        "pickup_enginemounts_ultra",
+        "pickup_enginemounts_heavy"
+    ],
+    "etk800_strut_F": [
+        "etk800_strut_F",
+        "etk800_strut_F_race",
+        "etk800_strut_F_Rennspecht_adaptive",
+        "etk800_strut_F_lifted",
+        "etk800_strut_F_tt",
+        "etk800_strut_F_adaptive",
+        "etk800_strut_F_rally"
+    ],
+    "pickup_engine_i6_ecu": [
+        "pickup_engine_i6_ecu_late",
+        "pickup_engine_i6_ecu"
+    ],
+    "etk800_doorglass_RL_wagon": [
+        "etk800_doorglass_RL_wagon"
+    ],
+    "etk800_swaybar_F_wide": [
+        "etk800_swaybar_F_wide_tt",
+        "etk800_swaybar_F_wide_race"
+    ],
+    "etk800_bumper_R": [
+        "etk800_bumper_R",
+        "etk800_bumper_R_tt_wide",
+        "etk800_bumper_R_tt"
+    ],
+    "etk_engine_i6_3.0_diesel_ecu": [
+        "etk_engine_i6_3.0_diesel_ecu_260",
+        "etk_engine_i6_3.0_diesel_ecu_310_stage1",
+        "etk_engine_i6_3.0_diesel_ecu_310"
+    ],
+    "etk800_door_RR": [
+        "etk800_door_RR",
+        "etk800_door_RR_wide"
+    ],
+    "etk800_door_RR_wagon": [
+        "etk800_door_RR_wagon",
+        "etk800_door_RR_wagon_wide"
+    ],
+    "pickup_engine_i6_internals": [
+        "pickup_engine_i6_internals"
+    ],
+    "etk800_diffuser_R": [
+        "etk800_diffuser_R_854",
+        "etk800_diffuser_R_856_alt",
+        "etk800_diffuser_R_856"
+    ],
+    "etk800_innerfenders": [
+        "etk800_innerfenders_wide",
+        "etk800_innerfenders"
+    ],
+    "etk800_cladding": [
+        "etk800_cladding"
+    ],
+    "pickup_engine_v8_6.9_ecu": [
+        "pickup_engine_v8_6.9_ecu_sport",
+        "pickup_engine_v8_6.9_ecu_race",
+        "pickup_engine_v8_6.9_ecu"
+    ],
+    "etk800_lettering_4": [
+        "etk800_lettering_250",
+        "etk800_lettering_190d",
+        "etk800_lettering_150d",
+        "etk800_lettering_190",
+        "etk800_lettering_x190d",
+        "etk800_lettering_x250",
+        "etk800_lettering_150"
+    ],
+    "etk800_markerlights_F_cladding": [
+        "etk800_markerlights_F_cladding"
+    ],
+    "etk800_headliner_wagon_sunroof": [
+        "etk800_headliner_wagon_stripped_sunroof",
+        "etk800_headliner_wagon_sunroof"
+    ],
+    "etk800_trunk_load": [
+        "etk800_cargo_load_box_6M_trunk"
+    ],
+    "etk800_headliner_sedan_sunroof": [
+        "etk800_headliner_sedan_stripped_sunroof",
+        "etk800_headliner_sedan_sunroof"
+    ],
+    "etk800_spoiler": [
+        "etk800_bigwing_03b_wagon"
+    ],
+    "etk800_radiator": [
+        "etk800_radiator_race",
+        "etk800_radiator_ttsport",
+        "etk800_radiator_high_performance",
+        "etk800_radiator"
+    ],
+    "etk800_exhausttips_i4": [
+        "etk800_exhausttips_i4"
+    ],
+    "etk800_quarterglass_L": [
+        "etk800_quarterglass_L"
+    ],
+    "etk800_brake_R": [
+        "etk800_brake_R_race",
+        "etk800_brake_R_carbon",
+        "etk800_brake_R",
+        "etk800_brake_R_tt"
+    ],
+    "etk_engine_i6_3.0_petrol_ecu": [
+        "etk_engine_i6_3.0_petrol_ecu_360_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_460_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage3",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_340",
+        "etk_engine_i6_3.0_petrol_ecu_360_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_360",
+        "etk_engine_i6_3.0_petrol_ecu_300",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_na_270",
+        "etk_engine_i6_3.0_petrol_ecu_440_ttsport"
+    ],
+    "etk800_swaybar_R_wide": [
+        "etk800_swaybar_R_wide_tt",
+        "etk800_swaybar_R_wide_race"
+    ],
+    "etk800_doorpanel_RL": [
+        "etk800_doorpanel_RL"
+    ],
+    "etk800_ABS": [
+        "etk800_ABS"
+    ],
+    "etk_engine_v8_4.4_petrol_internals": [
+        "etk_engine_v8_4.4_petrol_internals_ttsport",
+        "etk_engine_v8_4.4_petrol_internals_heavy"
+    ],
+    "pickup_engine": [
+        "pickup_engine_i6_4.1",
+        "pickup_engine_v8_4.5",
+        "pickup_engine_v8_5.5",
+        "pickup_engine_v8_6.9",
+        "pickup_engine_v8_6.0_diesel"
+    ],
+    "etk800_licenseplate_F": [
+        "etk800_licenseplate_F",
+        "etk800_licenseplate_F_EU"
+    ],
+    "etk_engine_i4_2.0_diesel_internals": [
+        "etk_engine_i4_2.0_diesel_internals_heavy",
+        "etk_engine_i4_2.0_diesel_internals"
+    ],
+    "etk800_power_steering": [
+        "etk800_power_steering_adaptive",
+        "etk800_power_steering"
+    ],
+    "etk800_seats_R": [
+        "etk800_seats_R_cargo_load_floor",
+        "etk800_seats_R"
+    ],
+    "etk800_headliner_wagon": [
+        "etk800_headliner_wagon_stripped",
+        "etk800_headliner_wagon"
+    ],
+    "etk800_licenseplate_F_alt2": [
+        "etk800_licenseplate_F_alt2",
+        "etk800_licenseplate_F_alt2_EU"
+    ],
+    "etk800_lightbar": [
+        "etk800_lightbar"
+    ],
+    "pickup_engine_v8_internals": [
+        "pickup_engine_v8_internals_ultra",
+        "pickup_engine_v8_internals_stage1",
+        "pickup_engine_v8_internals",
+        "pickup_engine_v8_internals_heavy",
+        "pickup_engine_v8_internals_stage3",
+        "pickup_engine_v8_internals_stage2"
+    ],
+    "etk800_door_RL": [
+        "etk800_door_RL",
+        "etk800_door_RL_wide"
+    ],
+    "etk800_spring_R_wide": [
+        "etk800_spring_R_wide_race",
+        "etk800_spring_R_wide_tt",
+        "etk800_spring_R_wide_rally"
+    ],
+    "etk800_markerlights_F_wide": [
+        "etk800_markerlights_F_wide"
+    ],
+    "etk800_quarterglass_R_wagon": [
+        "etk800_quarterglass_R_wagon"
+    ],
+    "etk800_bumperbar_F": [
+        "etk800_bumperbar_F"
+    ],
+    "etk800_headlightpanel_R": [
+        "etk800_headlightpanel_R"
+    ],
+    "etk_engine_i6_3.0_petrol_internals": [
+        "etk_engine_i6_3.0_petrol_internals",
+        "etk_engine_i6_3.0_petrol_internals_heavy",
+        "etk_engine_i6_3.0_petrol_internals_ttsport"
+    ],
+    "etk800_sedan_trunk_load": [
+        "etk800_sedan_cargo_load_box_3M_trunk"
+    ],
+    "etk_enginelogo_v8.4.4": [
+        "etk_enginelogo_v8.4.4_rennspecht",
+        "etk_enginelogo_v8.4.4_etk"
+    ],
+    "etk800_quarterpanels_wagon": [
+        "etk800_quarterpanels_wagon_wide",
+        "etk800_quarterpanels_wagon"
+    ],
+    "etk800_suspension_F": [
+        "etk800_suspension_F",
+        "etk800_suspension_F_wide"
+    ],
+    "pickup_suspension_R": [
+        "pickup_axle_R",
+        "pickup_axle_R_4link",
+        "pickup_axle_R_heavy"
+    ],
+    "etk800_quarterpanels": [
+        "etk800_quarterpanels",
+        "etk800_quarterpanels_wide"
+    ],
+    "etk800_doorglass_RL": [
+        "etk800_doorglass_RL"
+    ],
+    "etk800_roof_wagon": [
+        "etk800_roof_wagon",
+        "etk800_roof_wagon_sun"
+    ],
+    "etk800_glass_sunroof_wagon": [
+        "etk800_glass_sunroof_wagon"
+    ],
+    "etk800_halfshafts_F": [
+        "etk800_halfshafts_F"
+    ],
+    "etk800_steering_wide": [
+        "etk800_steering_wide_race",
+        "etk800_steering_wide_drift",
+        "etk800_steering_wide"
+    ],
+    "etk800_fender_L": [
+        "etk800_fender_L",
+        "etk800_fender_L_wide"
+    ],
+    "etk800_shock_R": [
+        "etk800_shock_R_adaptive",
+        "etk800_shock_R_rally",
+        "etk800_shock_R_race",
+        "etk800_shock_R",
+        "etk800_shock_R_lifted",
+        "etk800_shock_R_Rennspecht_adaptive",
+        "etk800_shock_R_tt"
+    ],
+    "etk_enginemounts": [
+        "etk_enginemounts_ultra",
+        "etk_enginemounts_heavy",
+        "etk_enginemounts"
+    ],
+    "etk800_doorglass_FR": [
+        "etk800_doorglass_FR"
+    ],
+    "etk800_driveshaft_F": [
+        "etk800_driveshaft_F"
+    ],
+    "etk800_headliner_sedan": [
+        "etk800_headliner_sedan_stripped",
+        "etk800_headliner_sedan"
+    ]
+}

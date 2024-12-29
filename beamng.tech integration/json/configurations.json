@@ -1,0 +1,81 @@
+{
+    "bolide": {
+        "config": {
+            "engine": "bolide_engine_350",
+            "transmission": "bolide_transmission_5M",
+            "suspension": "bolide_suspension_sport"
+        }
+    },
+    "etk800": {
+        "config": {
+            "etk_engine": [
+                "etk_engine_i4_2.0_diesel",
+                "etk_engine_i4_2.0",
+                "etk_engine_i6_3.0_diesel",
+                "etk_engine_i6_3.0",
+                "etk_engine_v8_4.4_petrol"
+            ],
+            "etk_transmission": [
+                "etk_transmission_6M",
+                "etk_transmission_8A",
+                "etk_transmission_6M_diesel",
+                "etk_transmission_6M_race",
+                "etk_transmission_6M_sq",
+                "etk_transmission_6M_sport",
+                "etk_transmission_7DCT",
+                "etk_transmission_8A_diesel"
+            ],
+            "etk800_strut_F": [
+                "etk800_strut_F",
+                "etk800_strut_F_race",
+                "etk800_strut_F_Rennspecht_adaptive",
+                "etk800_strut_F_lifted",
+                "etk800_strut_F_tt",
+                "etk800_strut_F_adaptive",
+                "etk800_strut_F_rally"
+            ],
+            "etk800_strut_F_wide": [
+                "etk800_strut_F_wide_tt",
+                "etk800_strut_F_wide_rally",
+                "etk800_strut_F_wide_adaptive",
+                "etk800_strut_F_wide_race"
+            ],
+            "etk800_shock_R": [
+                "etk800_shock_R_adaptive",
+                "etk800_shock_R_rally",
+                "etk800_shock_R_race",
+                "etk800_shock_R",
+                "etk800_shock_R_lifted",
+                "etk800_shock_R_Rennspecht_adaptive",
+                "etk800_shock_R_tt"
+            ],
+            "etk800_shock_R_wide": [
+                "etk800_shock_R_wide_adaptive",
+                "etk800_shock_R_wide_rally",
+                "etk800_shock_R_wide_tt",
+                "etk800_shock_R_wide_race"
+            ]
+        }
+    },
+    "van": {
+        "config": {
+            "engine": "van_engine_i6_4.5",
+            "transmission": "van_transmission_4A",
+            "suspension": "van_suspension_heavy"
+        }
+    },
+    "pickup": {
+        "config": {
+            "engine": "pickup_engine_v8_5.5",
+            "transmission": "pickup_transmission_6A",
+            "suspension": "pickup_suspension_offroad"
+        }
+    },
+    "hatchback": {
+        "config": {
+            "engine": "hatchback_engine_i4_1.8",
+            "transmission": "hatchback_transmission_5M",
+            "suspension": "hatchback_suspension_sport"
+        }
+    }
+}

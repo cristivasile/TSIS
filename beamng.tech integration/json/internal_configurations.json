@@ -1,0 +1,39 @@
+{
+    "etk800": {
+        "parts": {
+            "etk800_fueltank": {
+                "etk_engine_i4_2.0_diesel": "etk800_fueltank_diesel",
+                "etk_engine_i4_2.0": "etk800_fueltank_gasoline",
+                "etk_engine_i6_3.0_diesel": "etk800_fueltank_diesel",
+                "etk_engine_i6_3.0": "etk800_fueltank_gasoline",
+                "etk_engine_v8_4.4_petrol": "etk800_fueltank_gasoline"
+            },
+            "etk800_suspension_F": {
+                "etk800_strut_F": "etk800_suspension_F",
+                "etk800_strut_F_race": "etk800_suspension_F",
+                "etk800_strut_F_Rennspecht_adaptive": "etk800_suspension_F",
+                "etk800_strut_F_lifted": "etk800_suspension_F",
+                "etk800_strut_F_tt": "etk800_suspension_F",
+                "etk800_strut_F_adaptive": "etk800_suspension_F",
+                "etk800_strut_F_rally": "etk800_suspension_F",
+                "etk800_strut_F_wide_tt": "etk800_suspension_F_wide",
+                "etk800_strut_F_wide_rally": "etk800_suspension_F_wide",
+                "etk800_strut_F_wide_adaptive": "etk800_suspension_F_wide",
+                "etk800_strut_F_wide_race": "etk800_suspension_F_wide"
+            },
+            "etk800_suspension_R": {
+                "etk800_shock_R_adaptive": "etk800_suspension_R",
+                "etk800_shock_R_rally": "etk800_suspension_R",
+                "etk800_shock_R_race": "etk800_suspension_R",
+                "etk800_shock_R": "etk800_suspension_R",
+                "etk800_shock_R_lifted": "etk800_suspension_R",
+                "etk800_shock_R_Rennspecht_adaptive": "etk800_suspension_R",
+                "etk800_shock_R_tt": "etk800_suspension_R",
+                "etk800_shock_R_wide_adaptive": "etk800_suspension_R_wide",
+                "etk800_shock_R_wide_rally": "etk800_suspension_R_wide",
+                "etk800_shock_R_wide_tt": "etk800_suspension_R_wide",
+                "etk800_shock_R_wide_race": "etk800_suspension_R_wide"
+            }
+        }
+    }
+}
