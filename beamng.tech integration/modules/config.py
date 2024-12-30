@@ -13,6 +13,7 @@ def load_configurations():
 def validate_and_adjust_configuration(input_config):
     # Load configurations
     configurations, internal_configurations = load_configurations()
+    available_parts = {}
     
     vehicle_name = input_config.get("vehicle", "etk800")
     parts = input_config.get("parts", {})
@@ -20,60 +21,117 @@ def validate_and_adjust_configuration(input_config):
     # Check if the vehicle exists
     if vehicle_name not in configurations:
         raise ValueError(f"Vehicle '{vehicle_name}' does not exist in configurations.")
-
-    # Handle default values for ETK800
+    else:
+        available_parts = configurations[vehicle_name]["config"]
+        
+    # Switch-like structure for different vehicles
     if vehicle_name == "etk800":
-        # Set default engine if not present
+        # Handle defaults and validations for ETK800
         if "etk_engine" not in parts:
-            parts["etk_engine"] = configurations["etk800"]["config"]["etk_engine"][0]
+            parts["etk_engine"] = available_parts["etk_engine"][0]
 
-        # Set default transmission if not present
         if "etk_transmission" not in parts:
-            parts["etk_transmission"] = configurations["etk800"]["config"]["etk_transmission"][0]
+            parts["etk_transmission"] = available_parts["etk_transmission"][0]
 
-        # Set default front suspension if not present
         if "etk800_strut_F" not in parts and "etk800_strut_F_wide" not in parts:
-            parts["etk800_strut_F"] = configurations["etk800"]["config"]["etk800_strut_F"][0]
+            parts["etk800_strut_F"] = available_parts["etk800_strut_F"][0]
 
-        # Set default rear suspension if not present
         if "etk800_shock_R" not in parts and "etk800_shock_R_wide" not in parts:
-            parts["etk800_shock_R"] = configurations["etk800"]["config"]["etk800_shock_R"][0]
+            parts["etk800_shock_R"] = available_parts["etk800_shock_R"][0]
+        
+        if "etk800_brake_F" not in parts:
+            parts["etk800_brake_F"] = available_parts["etk800_brake_F"][0]        
 
-        # Set the fuel tank based on the engine
-        fuel_tank_mapping = internal_configurations["etk800"]["parts"]["etk800_fueltank"]
+        if "etk800_brake_R" not in parts:
+            parts["etk800_brake_R"] = available_parts["etk800_brake_R"][0]
+
+        fuel_tank_mapping = internal_configurations[vehicle_name]["parts"]["etk800_fueltank"]
         if parts["etk_engine"] in fuel_tank_mapping:
             parts["etk800_fueltank"] = fuel_tank_mapping[parts["etk_engine"]]
 
-        # Set the front suspension based on strut configuration
-        suspension_f_mapping = internal_configurations["etk800"]["parts"]["etk800_suspension_F"]
+        suspension_f_mapping = internal_configurations[vehicle_name]["parts"]["etk800_suspension_F"]
         for strut in ["etk800_strut_F", "etk800_strut_F_wide"]:
             if strut in parts and parts[strut] in suspension_f_mapping:
                 parts["etk800_suspension_F"] = suspension_f_mapping[parts[strut]]
                 break
 
-        # Set the rear suspension based on shock configuration
-        suspension_r_mapping = internal_configurations["etk800"]["parts"]["etk800_suspension_R"]
+        suspension_r_mapping = internal_configurations[vehicle_name]["parts"]["etk800_suspension_R"]
         for shock in ["etk800_shock_R", "etk800_shock_R_wide"]:
             if shock in parts and parts[shock] in suspension_r_mapping:
                 parts["etk800_suspension_R"] = suspension_r_mapping[parts[shock]]
                 break
+            
+    elif vehicle_name == "van":
+        # Handle defaults and validations for Van
+        if "van_engine" not in parts:
+            parts["van_engine"] = available_parts["van_engine"][0]
 
-    # Check if the parts exist
+        if "van_transmission" not in parts:
+            parts["van_transmission"] = available_parts["van_transmission"][0]
+
+        if "van_suspension_F" not in parts:
+            parts["van_suspension_F"] = available_parts["van_suspension_F"][0]
+
+        if "van_suspension_R" not in parts:
+            parts["van_suspension_R"] = available_parts["van_suspension_R"][0]
+
+        if "van_brake_F" not in parts:
+            parts["van_brake_F"] = available_parts["van_brake_F"][0]        
+
+        if "van_brake_R" not in parts:
+            parts["van_brake_R"] = available_parts["van_brake_R"][0]
+
+        fuel_tank_mapping = internal_configurations[vehicle_name]["parts"]["van_fueltank"]
+        if parts["van_engine"] in fuel_tank_mapping:
+            parts["van_fueltank"] = fuel_tank_mapping[parts["van_engine"]]
+            
+    elif vehicle_name == "pickup":
+        # Handle defaults and validations for pickup
+        if "pickup_engine" not in parts:
+            parts["pickup_engine"] = available_parts["pickup_engine"][0]
+
+        if "pickup_transmission" not in parts:
+            parts["pickup_transmission"] = available_parts["pickup_transmission"][0]
+
+        if "pickup_suspension_F" not in parts:
+            parts["pickup_suspension_F"] = available_parts["pickup_suspension_F"][0]
+
+        if "pickup_suspension_R" not in parts:
+            parts["pickup_suspension_R"] = available_parts["pickup_suspension_R"][0]
+
+        if "pickup_brake_F" not in parts:
+            parts["pickup_brake_F"] = available_parts["pickup_brake_F"][0]        
+
+        if "pickup_brake_R" not in parts:
+            parts["pickup_brake_R"] = available_parts["pickup_brake_R"][0]
+            
+        fuel_tank_mapping = internal_configurations["pickup"]["parts"]["pickup_fueltank"]
+        if parts["pickup_engine"] in fuel_tank_mapping:
+            parts["pickup_fueltank"] = fuel_tank_mapping[parts["pickup_engine"]]
+    elif vehicle_name == "bolide":
+        # Handle defaults and validations for bolide
+        if "bolide_engine" not in parts:
+            parts["bolide_engine"] = available_parts["bolide_engine"][0]
+
+        if "bolide_coilover_F" not in parts:
+            parts["bolide_coilover_F"] = available_parts["bolide_coilover_F"][0]
+
+        if "bolide_coilover_R" not in parts:
+            parts["bolide_coilover_R"] = available_parts["bolide_coilover_R"][0]
+
+        if "bolide_brake_F" not in parts:
+            parts["bolide_brake_F"] = available_parts["bolide_brake_F"][0]
+
+        if "bolide_brake_R" not in parts:
+            parts["bolide_brake_R"] = available_parts["bolide_brake_R"][0]
+
+    # Validate parts against the configuration
     vehicle_config = configurations[vehicle_name].get("config", {})
     for part_name, part_value in parts.items():
-        if part_name not in vehicle_config and part_name not in internal_configurations["etk800"]["parts"]:
+        if part_name not in vehicle_config and part_name not in internal_configurations[vehicle_name]["parts"]:
             raise ValueError(f"Part '{part_name}' does not exist for vehicle '{vehicle_name}'.")
         if part_name in vehicle_config and part_value not in vehicle_config[part_name]:
             raise ValueError(f"Value '{part_value}' is not valid for part '{part_name}' in vehicle '{vehicle_name}'.")
 
-    # Additional validation for ETK800 (exclusivity of shocks and struts)
-    if vehicle_name == "etk800":
-        suspension_f_selected = [key for key in ["etk800_strut_F", "etk800_strut_F_wide"] if key in parts]
-        suspension_r_selected = [key for key in ["etk800_shock_R", "etk800_shock_R_wide"] if key in parts]
-
-        if len(suspension_f_selected) > 1:
-            raise ValueError("ETK800: 'strut_f' and 'strut_f_wide' configurations are exclusive.")
-        if len(suspension_r_selected) > 1:
-            raise ValueError("ETK800: 'shock_r' and 'shock_r_wide' configurations are exclusive.")
-
     return (vehicle_name, parts)
+

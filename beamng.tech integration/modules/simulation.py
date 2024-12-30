@@ -1,7 +1,7 @@
 from beamngpy import Scenario, Road
 import time, modules.track as track
 
-def start_scenario(beamng, vehicle, vehicle_parts):
+def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
 
     # Launch BeamNG.tech
     beamng.open()
@@ -28,19 +28,7 @@ def start_scenario(beamng, vehicle, vehicle_parts):
     beamng.scenario.start()
 
     # dump parts to files
-    """
-    with open("part_configs/etk800_parts.json", "w") as file:
-        file.write(str(vehicle.get_part_config()).replace("'", '"'))
-    
-    with open("part_configs/etk800_options.json", "w") as file:
-        dict = vehicle.get_part_options()
-        keywords = ["etk800", "engine", "transmission", "suspension"]
-        filtered_data = {key: value for key, value in dict.items() if any(k in key for k in keywords)}
-        file.write(str(filtered_data).replace("'", '"'))
-
-    """
-
-    beamng.set_time_scale(10)
+    dump_parts_config(vehicle, vehicle_name)
 
     configuration = vehicle.get_part_config()
     
@@ -52,7 +40,7 @@ def start_scenario(beamng, vehicle, vehicle_parts):
     vehicle.ai_set_mode('span')  # Let AI follow the road
     vehicle.ai_set_aggression(1)
 
-def run_scenario(vehicle):
+def run_scenario(vehicle, timeout=120):
     start_line = track.track[0][:2]  # Extract the (x, y, z) coordinates of the start line
 
     # Variables to track timing
@@ -60,7 +48,16 @@ def run_scenario(vehicle):
     finished = False
     crossed_start_line_once = False
 
+    # Record the starting point of the timeout
+    scenario_start_time = time.time()
+
     while not finished:
+        # Check if timeout has been reached
+        elapsed_time = time.time() - scenario_start_time
+        if elapsed_time > timeout:
+            print("Timeout reached. Scenario not completed.")
+            return None
+
         # Update vehicle position
         vehicle.poll_sensors()
         vehicle_pos = vehicle.state['pos']
@@ -74,7 +71,7 @@ def run_scenario(vehicle):
                 start_time = time.time()
                 crossed_start_line_once = True
                 print("Vehicle crossed the start line.. Start timing")
-                time.sleep(5) # The check will trigger again otherwise
+                time.sleep(5)  # The check will trigger again otherwise
             else:
                 # Stop the timer when the vehicle crosses the start line again
                 print("Finish!")
@@ -90,3 +87,13 @@ def run_scenario(vehicle):
 def end_simulation(beamng):
     beamng.close()
     beamng.disconnect()
+    
+def dump_parts_config(vehicle, vehicle_name):
+    with open(f"{vehicle_name}.json", "+w") as file:
+        file.write(str(vehicle.get_part_config()).replace("'", '"'))
+    
+    with open(f"{vehicle_name}_options.json", "+w") as file:
+        dict = vehicle.get_part_options()
+        keywords = [vehicle_name, "engine", "transmission", "suspension"]
+        filtered_data = {key: value for key, value in dict.items() if any(k in key for k in keywords)}
+        file.write(str(filtered_data).replace("'", '"'))

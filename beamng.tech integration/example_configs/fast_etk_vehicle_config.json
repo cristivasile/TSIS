@@ -1,0 +1,11 @@
+{
+    "vehicle": "etk800",
+    "parts": {
+        "etk_engine": "etk_engine_v8_4.4_petrol",
+        "etk_transmission": "etk_transmission_7DCT",
+        "etk800_strut_F_wide": "etk800_strut_F_wide_race",
+        "etk800_shock_R_wide": "etk800_shock_R_wide_race",
+        "etk800_brake_F": "etk800_brake_F_carbon",
+        "etk800_brake_R": "etk800_brake_R_carbon"
+    }
+}

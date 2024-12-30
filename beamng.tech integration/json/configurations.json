@@ -1,11 +1,4 @@
 {
-    "bolide": {
-        "config": {
-            "engine": "bolide_engine_350",
-            "transmission": "bolide_transmission_5M",
-            "suspension": "bolide_suspension_sport"
-        }
-    },
     "etk800": {
         "config": {
             "etk_engine": [
@@ -54,28 +47,189 @@
                 "etk800_shock_R_wide_rally",
                 "etk800_shock_R_wide_tt",
                 "etk800_shock_R_wide_race"
+            ],
+            "etk800_brake_F": [
+                "etk800_brake_F_tt",
+                "etk800_brake_F_carbon",
+                "etk800_brake_F",
+                "etk800_brake_F_race"
+            ],
+            "etk800_brake_R": [
+                "etk800_brake_R_race",
+                "etk800_brake_R_carbon",
+                "etk800_brake_R",
+                "etk800_brake_R_tt"
             ]
         }
     },
     "van": {
         "config": {
-            "engine": "van_engine_i6_4.5",
-            "transmission": "van_transmission_4A",
-            "suspension": "van_suspension_heavy"
+            "van_engine": [
+                "van_engine_i6_4.1",
+                "van_engine_v8_4.5",
+                "van_engine_v8_5.5",
+                "van_engine_v8_6.9",
+                "van_engine_v8_6.0_diesel"
+            ],
+            "van_transmission": [
+                "van_transmission_4A",
+                "van_transmission_5M_diesel",
+                "van_transmission_5M",
+                "van_transmission_6A_Diesel",
+                "van_transmission_6A"
+            ],
+            "van_suspension_R": [
+                "van_axle_R",
+                "van_axle_R_4link",
+                "van_axle_R_heavy"
+            ],
+            "van_suspension_F": [
+                "van_IFS",
+                "van_beamaxle_F",
+                "van_4link",
+                "van_SFA",
+                "van_IFS_offroad"
+            ],
+            "van_brake_F": [
+                "van_brake_F_offroad",
+                "van_brake_F_race",
+                "van_brake_F",
+                "van_brake_F_heavy"
+            ],
+            "van_brake_R": [
+                "van_brake_R_offroad",
+                "van_brake_R_drum",
+                "van_brake_R_race",
+                "van_brake_R",
+                "van_brake_R_drum_heavy",
+                "van_brake_R_heavy"
+            ]
         }
     },
     "pickup": {
         "config": {
-            "engine": "pickup_engine_v8_5.5",
-            "transmission": "pickup_transmission_6A",
-            "suspension": "pickup_suspension_offroad"
+            "pickup_engine": [
+                "pickup_engine_i6_4.1",
+                "pickup_engine_v8_4.5",
+                "pickup_engine_v8_5.5",
+                "pickup_engine_v8_6.9",
+                "pickup_engine_v8_6.0_diesel"
+            ],
+            "pickup_transmission": [
+                "pickup_transmission_3A_race",
+                "pickup_transmission_5M",
+                "pickup_transmission_4A_drag",
+                "pickup_transmission_5M_diesel",
+                "pickup_transmission_4A",
+                "pickup_transmission_6A",
+                "pickup_transmission_6M_race",
+                "pickup_transmission_6A_Diesel"
+            ],
+            "pickup_suspension_F": [
+                "pickup_IFS",
+                "pickup_beamaxle_F",
+                "pickup_4link",
+                "pickup_SFA",
+                "pickup_IFS_offroad"
+            ],
+            "pickup_suspension_R": [
+                "pickup_axle_R",
+                "pickup_axle_R_4link",
+                "pickup_axle_R_heavy"
+            ],
+            "pickup_brake_F": [
+                "pickup_brake_F",
+                "pickup_brake_F_offroad",
+                "pickup_brake_F_heavy",
+                "pickup_brake_F_race"
+            ],
+            "pickup_brake_R": [
+                "pickup_brake_R_drum_heavy",
+                "pickup_brake_R_race",
+                "pickup_brake_R",
+                "pickup_brake_R_heavy",
+                "pickup_brake_R_offroad",
+                "pickup_brake_R_drum"
+            ]
         }
     },
-    "hatchback": {
+    "covet": {
         "config": {
-            "engine": "hatchback_engine_i4_1.8",
-            "transmission": "hatchback_transmission_5M",
-            "suspension": "hatchback_suspension_sport"
+            "covet_engine": [
+                "covet_engine_sohc",
+                "covet_engine_dohc",
+                "covet_engine_sohc_small",
+                "covet_engine_2.0_dohc",
+                "covet_engine_1.8_sohc"
+            ],
+            "covet_transmission": [
+                "covet_transmission_5M",
+                "covet_transmission_4M",
+                "covet_transmission_5M_ee",
+                "covet_transmission_5M_sport",
+                "covet_transmission_4A",
+                "covet_transmission_5M_sequential",
+                "covet_transmission_6M_race"
+            ],
+            "covet_coilover_F": [
+                "covet_coilover_F_heavy",
+                "covet_coilover_F_gtz",
+                "covet_coilover_F",
+                "covet_coilover_F_race",
+                "covet_coilover_F_sport",
+                "covet_coilover_F_midengine",
+                "covet_coilover_F_rally"
+            ],
+            "covet_coilover_R": [
+                "covet_coilover_R",
+                "covet_coilover_R_race",
+                "covet_coilover_R_rally",
+                "covet_coilover_R_sport",
+                "covet_coilover_R_gtz"
+            ],
+            "covet_brake_F": [
+                "covet_brake_F",
+                "covet_brake_F_turbo",
+                "covet_brake_F_sport",
+                "covet_brake_F_race"
+            ],
+            "covet_brake_R": [
+                "covet_brake_R",
+                "covet_brake_R_sport",
+                "covet_brake_R_turbo",
+                "covet_brake_R_race"
+            ]
+        }
+    },
+    "bolide": {
+        "config": {
+            "bolide_engine": [
+                "bolide_engine_3.5_v8",
+                "bolide_engine_3.9_v8",
+                "bolide_engine_3.2_v8"
+            ],
+            "bolide_coilover_F": [
+                "bolide_coilover_F_lifted",
+                "bolide_coilover_F_sport",
+                "bolide_coilover_F_race",
+                "bolide_coilover_F_rally",
+                "bolide_coilover_F_tt"
+            ],
+            "bolide_coilover_R": [
+                "bolide_coilover_R_sport",
+                "bolide_coilover_R_race",
+                "bolide_coilover_R_rally",
+                "bolide_coilover_R_lifted",
+                "bolide_coilover_R_tt"
+            ],
+            "bolide_brake_F": [
+                "bolide_brake_F",
+                "bolide_brake_F_race"
+            ],
+            "bolide_brake_R": [
+                "bolide_brake_R_race",
+                "bolide_brake_R"
+            ]
         }
     }
 }

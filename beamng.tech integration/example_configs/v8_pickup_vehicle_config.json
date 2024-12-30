@@ -1,0 +1,11 @@
+{
+    "vehicle": "pickup",
+    "parts": {
+        "pickup_engine": "pickup_engine_v8_6.9",
+        "pickup_transmission": "pickup_transmission_6M_race",
+        "pickup_suspension_R": "pickup_axle_R_4link",
+        "pickup_suspension_F": "pickup_4link",
+        "pickup_brake_F": "pickup_brake_F_race",
+        "pickup_brake_R": "pickup_brake_R_race"
+    }
+}

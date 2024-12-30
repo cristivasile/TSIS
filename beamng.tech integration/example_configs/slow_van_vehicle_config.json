@@ -1,0 +1,11 @@
+{
+    "vehicle": "van",
+    "parts": {
+        "van_engine": "van_engine_i6_4.1",
+        "van_transmission": "van_transmission_4A",
+        "van_suspension_R": "van_axle_R_heavy",
+        "van_suspension_F": "van_4link",
+        "van_brake_F": "van_brake_F",
+        "van_brake_R": "van_brake_R"
+    }
+}

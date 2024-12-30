@@ -1,0 +1,1097 @@
+{
+    "covet_shiftknob_sq_b_padding": [
+        "covet_shiftknob_sq_b_padding"
+    ],
+    "covet_spoiler_midengine": [
+        "covet_spoiler_turbo"
+    ],
+    "covet_frunk": [
+        "covet_frunk"
+    ],
+    "covet_fueltank_3wheel": [
+        "covet_fueltank_3wheel"
+    ],
+    "covet_mirror_R": [
+        "covet_mirror_R_rhd",
+        "covet_mirror_R"
+    ],
+    "covet_lettering": [
+        "covet_lettering_mr_turbo_evo",
+        "covet_lettering_15zxi",
+        "covet_lettering_type_l",
+        "covet_lettering_lxi",
+        "covet_lettering_dx",
+        "covet_lettering_15ee",
+        "covet_lettering_zxi",
+        "covet_lettering_gtz",
+        "covet_lettering_gtz_turbo",
+        "covet_lettering_type_ls",
+        "covet_lettering_15le",
+        "covet_lettering_mr_turbo",
+        "covet_lettering_15se",
+        "covet_lettering_13s",
+        "covet_lettering_dxi",
+        "covet_lettering_gtz_turbo2"
+    ],
+    "covet_licenseplate_R": [
+        "covet_licenseplate_R",
+        "covet_licenseplate_R_EU"
+    ],
+    "covet_hub_FR": [
+        "covet_hub_FR_4"
+    ],
+    "covet_skidplate_R": [
+        "covet_skidplate_R"
+    ],
+    "covet_quarterglass_R": [
+        "covet_quarterglass_R",
+        "covet_quarterglass_R_light"
+    ],
+    "covet_engine": [
+        "covet_engine_sohc",
+        "covet_engine_dohc",
+        "covet_engine_sohc_small",
+        "covet_engine_2.0_dohc",
+        "covet_engine_1.8_sohc"
+    ],
+    "covet_windownet_R": [
+        "covet_windownet_R"
+    ],
+    "covet_differential_F": [
+        "covet_differential_F_LSD",
+        "covet_differential_F",
+        "covet_differential_F_race",
+        "covet_differential_F_welded"
+    ],
+    "covet_suspension_F": [
+        "covet_suspension_F",
+        "covet_suspension_F_components"
+    ],
+    "covet_boxutility_tailgate": [
+        "covet_boxutility_tailgate"
+    ],
+    "covet_transfercase": [
+        "covet_transfer_case_3WD",
+        "covet_transfercase_FWD"
+    ],
+    "covet_brake_F": [
+        "covet_brake_F",
+        "covet_brake_F_turbo",
+        "covet_brake_F_sport",
+        "covet_brake_F_race"
+    ],
+    "covet_sunstrip": [
+        "covet_sunstrip"
+    ],
+    "covet_sideskirts": [
+        "covet_sideskirts",
+        "covet_sideskirts_alt",
+        "covet_bodykit"
+    ],
+    "covet_header": [
+        "covet_header_tubular",
+        "covet_header_derby",
+        "covet_header"
+    ],
+    "covet_logo_F_grille": [
+        "covet_logo_F_grille"
+    ],
+    "pickup_engine_v8_ecu": [
+        "pickup_engine_v8_ecu",
+        "pickup_engine_v8_ecu_late",
+        "pickup_engine_v8_ecu_sport",
+        "pickup_engine_v8_ecu_race"
+    ],
+    "covet_bumperbar_F": [
+        "covet_ballast_F",
+        "covet_oilcooler",
+        "covet_bumperbar_F"
+    ],
+    "etk_engine_i4_2.0_diesel_ecu": [
+        "etk_engine_i4_2.0_diesel_ecu_190",
+        "etk_engine_i4_2.0_diesel_ecu_230_stage1",
+        "etk_engine_i4_2.0_diesel_ecu_150",
+        "etk_engine_i4_2.0_diesel_ecu_230"
+    ],
+    "covet_bumper_grille_F": [
+        "covet_bumper_grille_F",
+        "covet_bumper_grille_F_mesh"
+    ],
+    "covet_bumper_trim_F": [
+        "covet_bumper_trim_F"
+    ],
+    "pigeon_i4_transmission": [
+        "pigeon_i4_transmission_5M",
+        "pigeon_i4_transmission_5M_race"
+    ],
+    "covet_pedalbox": [
+        "covet_pedalbox_A",
+        "covet_pedalbox_M",
+        "covet_pedalbox_race"
+    ],
+    "covet_boxutility_fueltank_R": [
+        "covet_boxutility_fueltank_R"
+    ],
+    "covet_finaldrive_F": [
+        "covet_finaldrive_F_525",
+        "covet_finaldrive_F_389",
+        "covet_finaldrive_F_425",
+        "covet_finaldrive_F_race",
+        "covet_finaldrive_F_406"
+    ],
+    "covet_fascia_F": [
+        "covet_fascia_F_midengine",
+        "covet_fascia_F_fl",
+        "covet_fascia_F"
+    ],
+    "covet_boxutility_wheeldata_R": [
+        "covet_boxutility_wheeldata_R"
+    ],
+    "covet_trunk_load": [
+        "covet_cargo_load_box_3M_trunk"
+    ],
+    "etk_engine_v8_4.4_petrol_ecu": [
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage2",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage1",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_630",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_470",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_550",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_500"
+    ],
+    "covet_driveshaft_3wheel": [
+        "covet_driveshaft_3wheel"
+    ],
+    "covet_bumper_R": [
+        "covet_bumper_R_fl",
+        "covet_bumper_R_kit",
+        "covet_bumper_R_alt",
+        "covet_bumper_R_cut",
+        "covet_bumper_R"
+    ],
+    "covet_door_R": [
+        "covet_door_R"
+    ],
+    "covet_licenseplate_F": [
+        "covet_licenseplate_F",
+        "covet_licenseplate_F_EU"
+    ],
+    "covet_radiator": [
+        "covet_radiator_race",
+        "covet_radiator_ultra",
+        "covet_radiator"
+    ],
+    "covet_mudflap_R_wide": [
+        "covet_mudflap_R_wide"
+    ],
+    "covet_interior_midengine": [
+        "covet_interior_rhd_midengine",
+        "covet_interior_midengine",
+        "covet_interior_lightweight_rhd_midengine",
+        "covet_interior_midengine_race_rhd",
+        "covet_interior_midengine_race",
+        "covet_interior_lightweight_midengine"
+    ],
+    "covet_boxutility_licenseplate_R": [
+        "covet_boxutility_licenseplate_R",
+        "covet_boxutility_licenseplate_R_EU"
+    ],
+    "etk_engine_i4_2.0_internals": [
+        "etk_engine_i4_2.0_internals_heavy",
+        "etk_engine_i4_2.0_internals"
+    ],
+    "covet_differential_R": [
+        "covet_differential_R_race",
+        "covet_differential_R_LSD",
+        "covet_differential_R"
+    ],
+    "covet_intake_midengine": [
+        "covet_turbo_midengine_stage1",
+        "covet_turbo_midengine_stage2",
+        "covet_turbo_midengine_stage3"
+    ],
+    "covet_halfshaft_F": [
+        "covet_halfshaft_F"
+    ],
+    "covet_taillight_L": [
+        "covet_taillight_L",
+        "covet_taillight_L_jdm"
+    ],
+    "covet_trim_midengine": [
+        "covet_trim_midengine"
+    ],
+    "covet_tailgateglass_alt": [
+        "covet_tailgateglass_alt_light"
+    ],
+    "pigeon_engine": [
+        "pigeon_engine_i3_550",
+        "pigeon_engine_i4_1300"
+    ],
+    "etk_enginelogo_v8.4.4": [
+        "etk_enginelogo_v8.4.4_rennspecht",
+        "etk_enginelogo_v8.4.4_etk"
+    ],
+    "covet_shiftknob_sq": [
+        "covet_shiftknob_sq_b",
+        "covet_shiftknob_sq"
+    ],
+    "covet_bumper_trim_R": [
+        "covet_bumper_trim_R"
+    ],
+    "covet_lettering_fascia_R": [
+        "covet_lettering_fascia_R_dohc",
+        "covet_lettering_fascia_R"
+    ],
+    "covet_converter": [
+        "covet_converter"
+    ],
+    "covet_mudflap_FL": [
+        "covet_mudflap_FL"
+    ],
+    "covet_licenseplate_R_midengine": [
+        "covet_licenseplate_R_midengine",
+        "covet_licenseplate_R_EU_midengine"
+    ],
+    "covet_windownet_L": [
+        "covet_windownet_L"
+    ],
+    "covet_innerfender_FR_wide": [
+        "covet_innerfender_FR_wide"
+    ],
+    "covet_coilover_R_midengine": [
+        "covet_coilover_R_midengine",
+        "covet_coilover_R_midengine_rally",
+        "covet_coilover_R_midengine_race"
+    ],
+    "covet_bumperbar_F_midengine": [
+        "covet_bumperbar_F_midengine"
+    ],
+    "covet_gauges_race_lhd": [
+        "covet_gauges_turbo_race_imperial_lhd",
+        "covet_gauges_race_imperial_lhd",
+        "covet_gauges_race_lhd",
+        "covet_gauges_turbo_race_lhd"
+    ],
+    "covet_skidplate": [
+        "covet_skidplate"
+    ],
+    "covet_mirror_L": [
+        "covet_mirror_L",
+        "covet_mirror_L_rhd"
+    ],
+    "covet_underglow": [
+        "covet_underglow_blue",
+        "covet_underglow_cyan",
+        "covet_underglow_yellow",
+        "covet_underglow_red",
+        "covet_underglow_green",
+        "covet_underglow_white",
+        "covet_underglow_magenta"
+    ],
+    "covet_wheeldata_F": [
+        "covet_wheeldata_F"
+    ],
+    "covet_coilover_R_3wheel": [
+        "covet_coilover_R_3wheel"
+    ],
+    "covet_header_2.0": [
+        "covet_header_2_0_derby",
+        "covet_header_tubular_2.0",
+        "covet_header_2.0"
+    ],
+    "covet_halfshafts_R": [
+        "covet_halfshafts_R"
+    ],
+    "covet_interior": [
+        "covet_interior_rhd",
+        "covet_interior",
+        "covet_interior_lightweight_rhd",
+        "covet_interior_race_rhd",
+        "covet_interior_race",
+        "covet_interior_lightweight"
+    ],
+    "covet_enginemounts": [
+        "covet_enginemounts_ultra",
+        "covet_enginemounts_heavy",
+        "covet_enginemounts"
+    ],
+    "covet_towhitch": [
+        "covet_towhitch"
+    ],
+    "covet_swaybar_F": [
+        "covet_swaybar_F_gtz",
+        "covet_swaybar_F_race",
+        "covet_swaybar_F_sport",
+        "covet_swaybar_F_midengine",
+        "covet_swaybar_F"
+    ],
+    "covet_roof_accessory": [
+        "covet_lightbar",
+        "covet_cargo_load_roofbars"
+    ],
+    "covet_fueltank_midengine": [
+        "covet_fueltank_midengine"
+    ],
+    "covet_interior_accessory": [
+        "covet_interior_accesories_police"
+    ],
+    "covet_oilpan": [
+        "covet_oilpan",
+        "covet_oilpan_race"
+    ],
+    "covet_spoiler_lower": [
+        "covet_spoiler_lower"
+    ],
+    "covet_towhitch_3wheel": [
+        "covet_towhitch_3wheel"
+    ],
+    "covet_boxutility_towhitch": [
+        "covet_boxutility_towhitch"
+    ],
+    "bastion_engine": [
+        "bastion_engine_v6",
+        "bastion_engine_v8_large",
+        "bastion_engine_v8"
+    ],
+    "covet_boostgauge_rhd": [
+        "covet_boostgauge_rhd"
+    ],
+    "covet_bumper_F": [
+        "covet_bumper_F",
+        "covet_bumper_F_fl",
+        "covet_bumper_F_midengine",
+        "covet_bumper_F_alt",
+        "covet_bumper_F_kit",
+        "covet_tubularbumper_F"
+    ],
+    "covet_doorpanel_L": [
+        "covet_doorpanel_L",
+        "covet_doorpanel_L_race"
+    ],
+    "n2o_system_midengine": [
+        "n2o_system_midengine"
+    ],
+    "covet_swaybar_R": [
+        "covet_swaybar_R_gtz",
+        "covet_swaybar_R_sport",
+        "covet_swaybar_R_race",
+        "covet_swaybar_R"
+    ],
+    "etk_engine_i4_2.0_diesel_internals": [
+        "etk_engine_i4_2.0_diesel_internals_heavy",
+        "etk_engine_i4_2.0_diesel_internals"
+    ],
+    "covet_strut_bar_F": [
+        "covet_strut_bar_F"
+    ],
+    "covet_engine_internals": [
+        "covet_engine_internals_stage1",
+        "covet_engine_internals_heavy",
+        "covet_engine_internals_ultra",
+        "covet_engine_internals_stage2",
+        "covet_engine_internals"
+    ],
+    "etk_engine_i6_3.0_petrol_internals": [
+        "etk_engine_i6_3.0_petrol_internals",
+        "etk_engine_i6_3.0_petrol_internals_heavy",
+        "etk_engine_i6_3.0_petrol_internals_ttsport"
+    ],
+    "covet_mudflap_FL_wide": [
+        "covet_mudflap_FL_wide"
+    ],
+    "pickup_engine_v8_diesel_ecu": [
+        "pickup_engine_v8_diesel_ecu",
+        "pickup_engine_v8_diesel_ecu_race"
+    ],
+    "covet_boxutility_fender_R": [
+        "covet_boxutility_fender_R"
+    ],
+    "covet_fender_L": [
+        "covet_fender_L_midengine",
+        "covet_fender_L"
+    ],
+    "covet_spoiler": [
+        "covet_bigwing_03b",
+        "covet_spoiler_custom",
+        "covet_spoiler"
+    ],
+    "covet_fascia_R": [
+        "covet_fascia_R",
+        "covet_fascia_R_red",
+        "covet_fascia_R_alt"
+    ],
+    "covet_oilcooler_midengine": [
+        "covet_oilcooler_midengine"
+    ],
+    "covet_shiftlight": [
+        "covet_shiftlight_single"
+    ],
+    "covet_quaterpanel_L_3wheel": [
+        "covet_quaterpanel_L_3wheel"
+    ],
+    "covet_mudflap_R": [
+        "covet_mudflap_R"
+    ],
+    "covet_boxutility_fender_L": [
+        "covet_boxutility_fender_L"
+    ],
+    "pickup_engine_v8_diesel_internals": [
+        "pickup_engine_v8_diesel_internals_stage1",
+        "pickup_engine_v8_diesel_internals_stage2",
+        "pickup_engine_v8_diesel_internals_ultra",
+        "pickup_engine_v8_diesel_internals_heavy",
+        "pickup_engine_v8_diesel_internals_stage3",
+        "pickup_engine_v8_diesel_internals"
+    ],
+    "covet_pedalbox_rhd": [
+        "covet_pedalbox_M_rhd",
+        "covet_pedalbox_A_rhd",
+        "covet_pedalbox_race_rhd"
+    ],
+    "covet_3wheel_finaldrive": [
+        "covet_3wheel_finaldrive_425",
+        "covet_3wheel_finaldrive_389",
+        "covet_3wheel_finaldrive_race",
+        "covet_3wheel_finaldrive_525",
+        "covet_3wheel_finaldrive_406"
+    ],
+    "covet_enginemounts_midengine": [
+        "covet_enginemounts_midengine",
+        "covet_enginemounts_ultra_midengine"
+    ],
+    "covet_trailerback": [
+        "covet_trailerback_boxutility"
+    ],
+    "covet_steering": [
+        "covet_steering_rally",
+        "covet_steering_race",
+        "covet_steering",
+        "covet_steering_midengine",
+        "covet_steering_sport"
+    ],
+    "covet_doorglass_L": [
+        "covet_doorglass_L",
+        "covet_doorglass_L_light"
+    ],
+    "covet_door_L": [
+        "covet_door_L"
+    ],
+    "covet_boxutility_load": [
+        "covet_boxutility_couch",
+        "covet_boxutility_load_cargo_load_box_2XL",
+        "covet_boxutility_armchairs",
+        "covet_boxutility_woodcrate",
+        "covet_boxutility_woodplanks"
+    ],
+    "covet_turbo_airbox": [
+        "covet_turbo_headlightintake",
+        "covet_turbo_podfilter",
+        "covet_turbo_airbox"
+    ],
+    "covet_grille_F_fl": [
+        "covet_grille_F_fl"
+    ],
+    "covet_brake_R_3wheel": [
+        "covet_brake_R_3wheel"
+    ],
+    "etk_engine_i4_2.0_ecu": [
+        "etk_engine_i4_2.0_ecu_150",
+        "etk_engine_i4_2.0_ecu_190",
+        "etk_engine_i4_2.0_ecu_250",
+        "etk_engine_i4_2.0_ecu_250_stage1"
+    ],
+    "pickup_engine_i6_ecu": [
+        "pickup_engine_i6_ecu_late",
+        "pickup_engine_i6_ecu"
+    ],
+    "pigeon_transmission": [
+        "pigeon_transmission_3M",
+        "pigeon_transmission_5M"
+    ],
+    "pickup_engine": [
+        "pickup_engine_i6_4.1",
+        "pickup_engine_v8_4.5",
+        "pickup_engine_v8_5.5",
+        "pickup_engine_v8_6.9",
+        "pickup_engine_v8_6.0_diesel"
+    ],
+    "covet_strut_bar_R": [
+        "covet_strut_bar_R"
+    ],
+    "covet_shifter_lhd": [
+        "covet_shifter_A_lhd",
+        "covet_shifter_M_lhd",
+        "covet_shifter_M_race_lhd",
+        "covet_shifter_race_sq_lhd"
+    ],
+    "covet_intake": [
+        "covet_intake_sport",
+        "covet_intake",
+        "covet_turbo_stage3",
+        "covet_turbo_stage1",
+        "covet_turbo_stock",
+        "covet_turbo_stage2",
+        "covet_intake_carb",
+        "covet_intake_itb"
+    ],
+    "covet_fendersignal_FR": [
+        "covet_fendersignal_FR"
+    ],
+    "covet_seat_FL": [
+        "covet_seat_FL",
+        "covet_seat_FL_sport",
+        "covet_race_seat_FL"
+    ],
+    "etk_engine_i6_3.0_diesel_ecu": [
+        "etk_engine_i6_3.0_diesel_ecu_260",
+        "etk_engine_i6_3.0_diesel_ecu_310_stage1",
+        "etk_engine_i6_3.0_diesel_ecu_310"
+    ],
+    "covet_hub_FL": [
+        "covet_hub_FL_4"
+    ],
+    "pickup_engine_v8_internals": [
+        "pickup_engine_v8_internals_stage3",
+        "pickup_engine_v8_internals_ultra",
+        "pickup_engine_v8_internals_stage1",
+        "pickup_engine_v8_internals",
+        "pickup_engine_v8_internals_heavy",
+        "pickup_engine_v8_internals_stage2"
+    ],
+    "covet_rollcage_half": [
+        "covet_rollcage_half"
+    ],
+    "covet_3wheel_hub_gears": [
+        "covet_3wheel_hub_gears_race",
+        "covet_3wheel_hub_gears_254"
+    ],
+    "pickup_engine_i6_internals": [
+        "pickup_engine_i6_internals"
+    ],
+    "covet_rollcage": [
+        "covet_rollcage"
+    ],
+    "etk_transmission": [
+        "etk_transmission_8A",
+        "etk_transmission_6M_diesel",
+        "etk_transmission_6M_race",
+        "etk_transmission_6M_sq",
+        "etk_transmission_6M_sport",
+        "etk_transmission_7DCT",
+        "etk_transmission_8A_diesel",
+        "etk_transmission_6M"
+    ],
+    "covet_doorglass_R": [
+        "covet_doorglass_R",
+        "covet_doorglass_R_light"
+    ],
+    "covet_doordetent_L": [
+        "covet_doordetent_L"
+    ],
+    "covet_gauges_race_rhd": [
+        "covet_gauges_turbo_race_rhd",
+        "covet_gauges_turbo_race_imperial_rhd",
+        "covet_gauges_race_imperial_rhd",
+        "covet_gauges_race_rhd"
+    ],
+    "pickup_engine_v8_6.9_ecu": [
+        "pickup_engine_v8_6.9_ecu_sport",
+        "pickup_engine_v8_6.9_ecu_race",
+        "pickup_engine_v8_6.9_ecu"
+    ],
+    "covet_coilover_F": [
+        "covet_coilover_F_heavy",
+        "covet_coilover_F_gtz",
+        "covet_coilover_F",
+        "covet_coilover_F_race",
+        "covet_coilover_F_sport",
+        "covet_coilover_F_midengine",
+        "covet_coilover_F_rally"
+    ],
+    "pickup_suspension_F": [
+        "pickup_IFS",
+        "pickup_beamaxle_F",
+        "pickup_4link",
+        "pickup_SFA",
+        "pickup_IFS_offroad"
+    ],
+    "covet_boxutility_wheeldata_RR": [
+        "covet_boxutility_wheeldata_RR"
+    ],
+    "covet_shifter_rhd": [
+        "covet_shifter_M_rhd",
+        "covet_shifter_A_rhd",
+        "covet_shifter_M_race_rhd",
+        "covet_shifter_race_sq_rhd"
+    ],
+    "etk_engine": [
+        "etk_engine_i4_2.0_diesel",
+        "etk_engine_i4_2.0",
+        "etk_engine_i6_3.0_diesel",
+        "etk_engine_i6_3.0",
+        "etk_engine_v8_4.4_petrol"
+    ],
+    "covet_engine_ecu_2.0": [
+        "covet_engine_ecu_2.0_sport",
+        "covet_engine_ecu_2.0",
+        "covet_engine_ecu_2.0_race"
+    ],
+    "covet_engcover_midengine": [
+        "covet_engcover_midengine"
+    ],
+    "covet_foglights_fl": [
+        "covet_foglight_covers_fl",
+        "covet_foglights_fl"
+    ],
+    "covet_mudflap_FR": [
+        "covet_mudflap_FR"
+    ],
+    "covet_licenseplate_R_alt": [
+        "covet_licenseplate_R_alt",
+        "covet_licenseplate_R_EU_alt"
+    ],
+    "pigeon_enginemounts": [
+        "pigeon_enginemounts",
+        "pigeon_enginemounts_heavy",
+        "pigeon_enginemounts_ultra"
+    ],
+    "covet_hood": [
+        "covet_hood_cut",
+        "covet_hood_sport",
+        "covet_hood",
+        "covet_hood_fiberglass",
+        "covet_hood_sport_fiberglass",
+        "covet_hood_midengine",
+        "covet_hood_fiberglass_cut"
+    ],
+    "covet_mudflap_FR_wide": [
+        "covet_mudflap_FR_wide"
+    ],
+    "covet_lip_F_fl": [
+        "covet_lip_F_fl"
+    ],
+    "pickup_enginemounts": [
+        "pickup_enginemounts",
+        "pickup_enginemounts_ultra",
+        "pickup_enginemounts_heavy"
+    ],
+    "covet_shiftknob_sq_rhd": [
+        "covet_shiftknob_sq_rhd_b",
+        "covet_shiftknob_sq_rhd"
+    ],
+    "covet_turbo_downpipe": [
+        "covet_turbo_hoodexit",
+        "covet_turbo_downpipe"
+    ],
+    "covet_boxutility_couch_straps": [
+        "covet_boxutility_couch_straps"
+    ],
+    "covet_brake_FL": [
+        "covet_brake_FL"
+    ],
+    "covet_gauges": [
+        "covet_gauges_metric",
+        "covet_gauges"
+    ],
+    "covet_taillight_R_3wheel": [
+        "covet_taillight_R_3wheel"
+    ],
+    "covet_handbrake_padding": [
+        "covet_handbrake_padding"
+    ],
+    "covet_rallylights": [
+        "covet_rallylights_grille",
+        "covet_rallylights_cover",
+        "covet_rallylights"
+    ],
+    "covet_tailgate": [
+        "covet_tailgate_fiberglass",
+        "covet_tailgate",
+        "covet_tailgate_midengine"
+    ],
+    "covet_seat_FR": [
+        "covet_seat_FR",
+        "covet_seat_FR_sport",
+        "covet_race_seat_FR"
+    ],
+    "covet_grille_F": [
+        "covet_grille_F_aero",
+        "covet_grille_F_alt",
+        "covet_grille_F_mesh",
+        "covet_grille_F",
+        "covet_grillelights_F"
+    ],
+    "covet_pedalbox_clutch": [
+        "covet_pedalbox_clutch"
+    ],
+    "covet_boostgauge": [
+        "covet_boostgauge"
+    ],
+    "covet_steer": [
+        "covet_steer_01a",
+        "covet_steer_02a",
+        "covet_steer_05a",
+        "covet_steer_04a",
+        "covet_steer",
+        "covet_steer_02c",
+        "covet_steer_02b",
+        "covet_steer_03a",
+        "covet_steer_sport"
+    ],
+    "covet_oilpan_2.0": [
+        "covet_oilpan_2.0",
+        "covet_oilpan_2.0_race"
+    ],
+    "covet_suspension_R_3wheel": [
+        "covet_suspension_R_3wheel"
+    ],
+    "covet_transaxle_R": [
+        "covet_transaxle_R_5M_race",
+        "covet_transaxle_R_5SQ_race",
+        "covet_transaxle_R_5M"
+    ],
+    "covet_logo_F": [
+        "covet_logo_F"
+    ],
+    "covet_pedalbox_pads": [
+        "covet_pedalbox_pads",
+        "covet_pedalbox_pads_b"
+    ],
+    "covet_engine_midengine": [
+        "covet_engine_1.5_R"
+    ],
+    "covet_power_steering": [
+        "covet_power_steering"
+    ],
+    "covet_intake_2.0": [
+        "covet_intake_2.0",
+        "covet_turbo_2.0_stage3",
+        "covet_intake_2.0_itb",
+        "covet_turbo_2.0_stage1",
+        "covet_intake_2.0_sport",
+        "covet_turbo_2.0_stage2"
+    ],
+    "covet_wheeldata_R": [
+        "covet_wheeldata_R"
+    ],
+    "covet_interior_3wheel": [
+        "covet_interior_3wheel"
+    ],
+    "covet_boxutility_suspension": [
+        "covet_boxutility_suspension"
+    ],
+    "covet_engine_internals_2.0": [
+        "covet_engine_internals_2.0_heavy",
+        "covet_engine_internals_2.0",
+        "covet_engine_internals_2.0_stage1",
+        "covet_engine_internals_2.0_ultra",
+        "covet_engine_internals_2.0_stage3",
+        "covet_engine_internals_2.0_stage2"
+    ],
+    "covet_brake_R": [
+        "covet_brake_R",
+        "covet_brake_R_sport",
+        "covet_brake_R_turbo",
+        "covet_brake_R_race"
+    ],
+    "covet_grp_switches_rhd": [
+        "covet_grp_switches_drag_rhd",
+        "covet_grp_switches_race_rhd"
+    ],
+    "covet_hub_R": [
+        "covet_hub_R_5",
+        "covet_hub_R_4"
+    ],
+    "covet_trim": [
+        "covet_trim",
+        "covet_trim_alt"
+    ],
+    "covet_boxutility_springs": [
+        "covet_boxutility_springs"
+    ],
+    "covet_exhaust_midengine": [
+        "covet_exhaust_midengine",
+        "covet_exhaust_midengine_race"
+    ],
+    "covet_headlight_L": [
+        "covet_headlight_b_L_jdm",
+        "covet_headlight_L_jdm",
+        "covet_headlight_L_b",
+        "covet_headlight_L",
+        "covet_headlightcover_L",
+        "covet_headlightintake_L_CF"
+    ],
+    "covet_finaldrive_R": [
+        "covet_finaldrive_R_race",
+        "covet_finaldrive_R_358",
+        "covet_finaldrive_R_410",
+        "covet_finaldrive_R_389"
+    ],
+    "etk_engine_i6_3.0_diesel_internals": [
+        "etk_engine_i6_3.0_diesel_internals_heavy",
+        "etk_engine_i6_3.0_diesel_internals"
+    ],
+    "covet_coilover_R": [
+        "covet_coilover_R",
+        "covet_coilover_R_race",
+        "covet_coilover_R_rally",
+        "covet_coilover_R_sport",
+        "covet_coilover_R_gtz"
+    ],
+    "covet_boxutility_fueltank_L": [
+        "covet_boxutility_fueltank_L"
+    ],
+    "etk_engine_i6_3.0_petrol_ecu": [
+        "etk_engine_i6_3.0_petrol_ecu_360_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_460_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage3",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_340",
+        "etk_engine_i6_3.0_petrol_ecu_360_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_360",
+        "etk_engine_i6_3.0_petrol_ecu_300",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_na_270",
+        "etk_engine_i6_3.0_petrol_ecu_440_ttsport"
+    ],
+    "covet_brake_FR": [
+        "covet_brake_FR"
+    ],
+    "etk_engine_v8_4.4_petrol_internals": [
+        "etk_engine_v8_4.4_petrol_internals_ttsport",
+        "etk_engine_v8_4.4_petrol_internals_heavy"
+    ],
+    "etk_engine_ecu_speedlimit": [
+        "etk_engine_ecu_speedlimit_270",
+        "etk_engine_ecu_speedlimit_off",
+        "etk_engine_ecu_speedlimit_250",
+        "etk_engine_ecu_speedlimit_330",
+        "etk_engine_ecu_speedlimit_230",
+        "etk_engine_ecu_speedlimit_310",
+        "etk_engine_ecu_speedlimit_210",
+        "etk_engine_ecu_speedlimit_290"
+    ],
+    "covet_quarterglass_L": [
+        "covet_quarterglass_L",
+        "covet_quarterglass_L_light"
+    ],
+    "covet_wheeldata_R_midengine": [
+        "covet_wheeldata_R_midengine"
+    ],
+    "covet_boxutility_armchairs_straps": [
+        "covet_boxutility_armchairs_straps"
+    ],
+    "covet_boxutility_brakes_RR": [
+        "covet_boxutility_brakes_RR"
+    ],
+    "covet_police_radar": [
+        "covet_police_radar"
+    ],
+    "covet_radiator_midengine": [
+        "covet_radiator_midengine_ultra",
+        "covet_radiator_midengine",
+        "covet_radiator_midengine_race"
+    ],
+    "covet_shiftknob_sq_b_padding_rhd": [
+        "covet_shiftknob_sq_b_padding_rhd"
+    ],
+    "covet_fascia_F_lights_midengine": [
+        "covet_fascia_F_lightcovers_midengine",
+        "covet_fascia_F_lights_midengine"
+    ],
+    "covet_suspension_R": [
+        "covet_suspension_R"
+    ],
+    "covet_ABS": [
+        "covet_ABS"
+    ],
+    "covet_windshield": [
+        "covet_windshield",
+        "covet_windshield_light"
+    ],
+    "covet_innerfender_FR": [
+        "covet_innerfender_FR"
+    ],
+    "covet_flywheel": [
+        "covet_flywheel",
+        "covet_flywheel_light",
+        "covet_flywheel_race"
+    ],
+    "covet_suspension_R_mid": [
+        "covet_suspension_R_mid"
+    ],
+    "covet_hub_F": [
+        "covet_hub_F_4",
+        "covet_hub_F_5",
+        "covet_hub_F_centerlug"
+    ],
+    "covet_hub_R_3wheel": [
+        "covet_hub_R_3wheel"
+    ],
+    "covet_limitstrap_R_3wheel": [
+        "covet_limitstrap_R_3wheel"
+    ],
+    "covet_doorpanel_R": [
+        "covet_doorpanel_R",
+        "covet_doorpanel_R_race"
+    ],
+    "covet_handbrake_race": [
+        "covet_handbrake_race_b",
+        "covet_handbrake_race_a"
+    ],
+    "covet_shiftlight_rhd": [
+        "covet_shiftlight_single_rhd"
+    ],
+    "covet_licenseplate_R_cut": [
+        "covet_licenseplate_R_cut",
+        "covet_licenseplate_R_EU_cut"
+    ],
+    "covet_tailgateglass": [
+        "covet_tailgateglass",
+        "covet_tailgateglass_light"
+    ],
+    "covet_bumper_R_midengine": [
+        "covet_bumper_R_midengine"
+    ],
+    "n2o_bottle_midengine": [
+        "n2o_bottle_10lb_midengine",
+        "n2o_bottle_10lb_midengine_alt"
+    ],
+    "covet_taillight_L_3wheel": [
+        "covet_taillight_L_3wheel"
+    ],
+    "covet_transmission": [
+        "covet_transmission_5M",
+        "covet_transmission_4M",
+        "covet_transmission_5M_ee",
+        "covet_transmission_5M_sport",
+        "covet_transmission_4A",
+        "covet_transmission_5M_sequential",
+        "covet_transmission_6M_race"
+    ],
+    "covet_fender_R": [
+        "covet_fender_R_midengine",
+        "covet_fender_R"
+    ],
+    "covet_hub_R_midengine": [
+        "covet_hub_R_midengine_5",
+        "covet_hub_R_midengine_centerlug",
+        "covet_hub_R_midengine_4"
+    ],
+    "covet_pedalbox_pad_clutch": [
+        "covet_pedalbox_pad_clutch",
+        "covet_pedalbox_pad_clutch_b"
+    ],
+    "pickup_suspension_R": [
+        "pickup_axle_R",
+        "pickup_axle_R_4link",
+        "pickup_axle_R_heavy"
+    ],
+    "covet_firewallglass": [
+        "covet_firewallglass"
+    ],
+    "covet_swaybar_R_midengine": [
+        "covet_swaybar_R_midengine_race",
+        "covet_swaybar_R_midengine"
+    ],
+    "covet_lip_F": [
+        "covet_lip_F_sport",
+        "covet_lip_F"
+    ],
+    "covet_gauges_rhd": [
+        "covet_gauges_rhd",
+        "covet_gauges_metric_rhd"
+    ],
+    "covet_taillight_R": [
+        "covet_taillight_R_jdm",
+        "covet_taillight_R"
+    ],
+    "covet_innerfender_FL_wide": [
+        "covet_innerfender_FL_wide"
+    ],
+    "covet_seats_R": [
+        "covet_seats_R_cargo_load_floor",
+        "covet_seats_R"
+    ],
+    "covet_innerfender_FL": [
+        "covet_innerfender_FL"
+    ],
+    "covet_doordetent_R": [
+        "covet_doordetent_R"
+    ],
+    "covet_boxutility_brakes_R": [
+        "covet_boxutility_brakes_R"
+    ],
+    "covet_grp_switches": [
+        "covet_grp_switches_drag",
+        "covet_grp_switches_race"
+    ],
+    "covet_wheeldata_R_3wheel": [
+        "covet_wheeldata_R_3wheel"
+    ],
+    "covet_body": [
+        "covet_body",
+        "covet_body_mid",
+        "covet_body_trailer",
+        "covet_body_3wheel"
+    ],
+    "covet_fueltank": [
+        "covet_fueltank"
+    ],
+    "etk_enginemounts": [
+        "etk_enginemounts_ultra",
+        "etk_enginemounts_heavy",
+        "etk_enginemounts"
+    ],
+    "covet_oilpan_midengine": [
+        "covet_oilpan_midengine",
+        "covet_oilpan_midengine_race"
+    ],
+    "covet_rollcage_midengine": [
+        "covet_rollcage_midengine"
+    ],
+    "covet_fendersignal_FL": [
+        "covet_fendersignal_FL"
+    ],
+    "pickup_transmission": [
+        "pickup_transmission_3A_race",
+        "pickup_transmission_5M",
+        "pickup_transmission_4A_drag",
+        "pickup_transmission_5M_diesel",
+        "pickup_transmission_4A",
+        "pickup_transmission_6A",
+        "pickup_transmission_6M_race",
+        "pickup_transmission_6A_Diesel"
+    ],
+    "covet_engine_ecu": [
+        "covet_engine_ecu_evolution",
+        "covet_engine_ecu",
+        "covet_engine_ecu_sport",
+        "covet_engine_ecu_race"
+    ],
+    "covet_headlight_R": [
+        "covet_headlight_b_R_jdm",
+        "covet_headlight_R_jdm",
+        "covet_headlight_b_R",
+        "covet_headlight_R",
+        "covet_headlightcover_R",
+        "covet_headlightintake_R_CF"
+    ],
+    "covet_exhaust": [
+        "covet_exhaust_sport",
+        "covet_exhaust",
+        "covet_exhaust_race",
+        "covet_exhaust_custom"
+    ],
+    "covet_intake_1.3": [
+        "covet_turbo_1.3_stage1",
+        "covet_intake_1.3_carb",
+        "covet_intake_1.3_sport",
+        "covet_turbo_1.3_stage3",
+        "covet_turbo_1,3_stock",
+        "covet_turbo_1.3_stage2",
+        "covet_intake_1.3",
+        "covet_intake_1.3_itb"
+    ]
+}

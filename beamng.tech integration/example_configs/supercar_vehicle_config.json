@@ -1,0 +1,10 @@
+{
+    "vehicle": "bolide",
+    "parts": {
+        "bolide_engine": "bolide_engine_3.9_v8",
+        "bolide_coilover_F": "bolide_coilover_F_race",
+        "bolide_coilover_R": "bolide_coilover_R_race",
+        "bolide_brake_F": "bolide_brake_F_race",
+        "bolide_brake_R": "bolide_brake_R_race"
+    }
+}

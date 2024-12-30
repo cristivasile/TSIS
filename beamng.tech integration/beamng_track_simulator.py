@@ -27,7 +27,7 @@ def main(beamng_path):
         vehicle = Vehicle('ego_vehicle', model=vehicle_name)
 
         # Start the scenario
-        simulation.start_scenario(beamng_runtime, vehicle, vehicle_parts)
+        simulation.start_scenario(beamng_runtime, vehicle, vehicle_name, vehicle_parts)
 
         # Run the scenario and capture the result
         result = simulation.run_scenario(vehicle)

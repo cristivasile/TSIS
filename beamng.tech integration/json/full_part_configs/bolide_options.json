@@ -1,0 +1,1081 @@
+{
+    "bolide_innerfender_c_RR": [
+        "bolide_innerfender_c_RR"
+    ],
+    "bolide_fendersignal_c_FR": [
+        "bolide_fendersignal_c_FR"
+    ],
+    "bolide_chmsl_b": [
+        "bolide_chmsl_b"
+    ],
+    "bolide_licenseplate_a_F": [
+        "bolide_licenseplate_a_F",
+        "bolide_licenseplate_a_F_EU"
+    ],
+    "bolide_rallylights": [
+        "bolide_rallylights",
+        "bolide_rallylights_covered"
+    ],
+    "bolide_engine_internals": [
+        "bolide_engine_internals_race",
+        "bolide_engine_internals_ultra",
+        "bolide_engine_internals_heavy",
+        "bolide_engine_internals"
+    ],
+    "bolide_hood": [
+        "bolide_hood_c",
+        "bolide_hood_a",
+        "bolide_hood_b",
+        "bolide_hood_junk"
+    ],
+    "bolide_licenseplate_c_F": [
+        "bolide_licenseplate_c_F",
+        "bolide_licenseplate_c_F_EU"
+    ],
+    "bolide_doordetent_R": [
+        "bolide_doordetent_R"
+    ],
+    "bolide_enginemounts": [
+        "bolide_enginemounts_ultra",
+        "bolide_enginemounts"
+    ],
+    "bolide_windowframe_L": [
+        "bolide_windowframe_L_coupe",
+        "bolide_windowframe_L_targa"
+    ],
+    "bolide_licenseplate_b_F": [
+        "bolide_licenseplate_b_F",
+        "bolide_licenseplate_b_F_EU"
+    ],
+    "bolide_fueltank_L": [
+        "bolide_fueltank_L"
+    ],
+    "bolide_sparewheel": [
+        "bolide_sparewheel_offroadwheel_03d_15x8_alt",
+        "bolide_sparewheel_offroadwheel_03a_15x8_alt",
+        "bolide_sparewheel_offroadwheel_03b_15x8_alt",
+        "bolide_sparewheel_offroadwheel_03c_15x8_alt",
+        "bolide_sparewheel_autobello_wheel_03_15x8"
+    ],
+    "bolide_roof_accessory": [
+        "bolide_beaconlight_blue",
+        "bolide_flashers"
+    ],
+    "bolide_flashers_nosecone_a": [
+        "bolide_flashers_nosecone_a"
+    ],
+    "bolide_fendersignal_a_RR": [
+        "bolide_fendersignal_a_RR"
+    ],
+    "bolide_rearglass": [
+        "bolide_rearglass",
+        "bolide_rearglass_lightweight"
+    ],
+    "bolide_wheeldata_RR": [
+        "bolide_wheeldata_RR"
+    ],
+    "bolide_taillight_b_R": [
+        "bolide_taillight_b_R"
+    ],
+    "bolide_headlight_a_L": [
+        "bolide_headlight_a_L"
+    ],
+    "bolide_roofspoiler": [
+        "bolide_roofspoiler"
+    ],
+    "etk_engine_i4_2.0_diesel_ecu": [
+        "etk_engine_i4_2.0_diesel_ecu_190",
+        "etk_engine_i4_2.0_diesel_ecu_230_stage1",
+        "etk_engine_i4_2.0_diesel_ecu_150",
+        "etk_engine_i4_2.0_diesel_ecu_230"
+    ],
+    "bolide_doorglass_targa_R": [
+        "bolide_doorglass_targa_R",
+        "bolide_doorglass_targa_R_lightweight"
+    ],
+    "bolide_noselight_b_FR": [
+        "bolide_noselight_b_FR",
+        "bolide_noselight_b_FR_us"
+    ],
+    "bolide_doorpanel_L": [
+        "bolide_doorpanel_L_lightweight",
+        "bolide_doorpanel_L"
+    ],
+    "pigeon_i4_transmission": [
+        "pigeon_i4_transmission_5M",
+        "pigeon_i4_transmission_5M_race"
+    ],
+    "bolide_mudflap_a_RR": [
+        "bolide_mudflap_a_RR"
+    ],
+    "bolide_noselight_a_FL": [
+        "bolide_noselight_a_FL"
+    ],
+    "bolide_receiver_attachment": [
+        "bolide_receiver_ball"
+    ],
+    "bolide_enginemounts_v6": [
+        "bolide_v6_enginemounts_ultra",
+        "bolide_enginemounts_v6"
+    ],
+    "bolide_bedrack": [
+        "bolide_cargo_load_bedrack"
+    ],
+    "bolide_bumperlight_a_FR": [
+        "bolide_bumperlight_a_FR"
+    ],
+    "etk_engine_v8_4.4_petrol_ecu": [
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage2",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage1",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_630",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_470",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_550",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_500"
+    ],
+    "bolide_quarterglass_RL": [
+        "bolide_quarterglass_RL",
+        "bolide_quarterglass_RL_lightweight"
+    ],
+    "bolide_engine_ecu": [
+        "bolide_engine_ecu_race",
+        "bolide_engine_ecu"
+    ],
+    "bolide_shifter": [
+        "bolide_shifter_A",
+        "bolide_shifter_M"
+    ],
+    "bolide_innerfender_b_RL": [
+        "bolide_innerfender_b_RL"
+    ],
+    "bolide_race_brake_F": [
+        "bolide_race_brake_F"
+    ],
+    "etk_engine_i4_2.0_internals": [
+        "etk_engine_i4_2.0_internals_heavy",
+        "etk_engine_i4_2.0_internals"
+    ],
+    "bolide_chmsl_a": [
+        "bolide_chmsl_a"
+    ],
+    "bolide_fenderflare_a_RR": [
+        "bolide_fenderflare_bolted_RR",
+        "bolide_fenderflare_RR"
+    ],
+    "bolide_roof_targa": [
+        "bolide_roof_targa"
+    ],
+    "bolide_fender_L": [
+        "bolide_fender_a_L",
+        "bolide_fender_c_L",
+        "bolide_fender_b_L",
+        "bolide_fender_junk_L"
+    ],
+    "bolide_intake": [
+        "bolide_intake",
+        "bolide_turbo",
+        "bolide_turbo_stage3",
+        "bolide_intake_race",
+        "bolide_turbo_stage2"
+    ],
+    "bolide_v6_flywheel": [
+        "bolide_v6_flywheel",
+        "bolide_v6_flywheel_race",
+        "bolide_v6_flywheel_light"
+    ],
+    "bolide_fueltank_R": [
+        "bolide_fueltank_R"
+    ],
+    "bolide_quarterpanel_L": [
+        "bolide_quarterpanel_a_L",
+        "bolide_quarterpanel_c_L",
+        "bolide_quarterpanel_d_L",
+        "bolide_quarterpanel_b_L"
+    ],
+    "bolide_doorglass_L": [
+        "bolide_doorglass_L",
+        "bolide_doorglass_L_lightweight"
+    ],
+    "pigeon_engine": [
+        "pigeon_engine_i3_550",
+        "pigeon_engine_i4_1300"
+    ],
+    "etk_enginelogo_v8.4.4": [
+        "etk_enginelogo_v8.4.4_rennspecht",
+        "etk_enginelogo_v8.4.4_etk"
+    ],
+    "bolide_doorglass_targa_L": [
+        "bolide_doorglass_targa_L",
+        "bolide_doorglass_targa_L_lightweight"
+    ],
+    "bolide_noselight_a_FR": [
+        "bolide_noselight_a_FR"
+    ],
+    "bolide_coilover_RR": [
+        "bolide_coilover_RR_tt",
+        "bolide_coilover_RR_race",
+        "bolide_coilover_RR_lifted",
+        "bolide_coilover_RR_sport",
+        "bolide_coilover_RR_rally"
+    ],
+    "bolide_skidplate": [
+        "bolide_skidplate"
+    ],
+    "bolide_gauges_race": [
+        "bolide_gauges_race_turbo",
+        "bolide_gauges_race_metric_turbo",
+        "bolide_gauges_race_na",
+        "bolide_gauges_race_metric_na"
+    ],
+    "bolide_innerfender_c_FR": [
+        "bolide_innerfender_c_FR"
+    ],
+    "bolide_headers_na": [
+        "bolide_headers_na"
+    ],
+    "bolide_mudflap_d_RR": [
+        "bolide_mudflap_d_RR"
+    ],
+    "pickup_engine_v8_internals": [
+        "pickup_engine_v8_internals_stage3",
+        "pickup_engine_v8_internals_ultra",
+        "pickup_engine_v8_internals_stage1",
+        "pickup_engine_v8_internals_heavy",
+        "pickup_engine_v8_internals",
+        "pickup_engine_v8_internals_stage2"
+    ],
+    "bolide_steering": [
+        "bolide_steering",
+        "bolide_steering_rally",
+        "bolide_steering_race"
+    ],
+    "bolide_seat_FR": [
+        "bolide_seat_FR",
+        "bolide_seat_FR_race"
+    ],
+    "bolide_quarterglass_RR": [
+        "bolide_quarterglass_RR",
+        "bolide_quarterglass_RR_lightweight"
+    ],
+    "bolide_mudflap_a_FR": [
+        "bolide_mudflap_a_FR"
+    ],
+    "bolide_tailgate": [
+        "bolide_tailgate_b",
+        "bolide_tailgate_a"
+    ],
+    "bolide_race_brake_R": [
+        "bolide_race_brake_R"
+    ],
+    "bolide_bumper_a_F": [
+        "bolide_rallylights_lower_covered",
+        "bolide_rallylights_lower",
+        "bolide_bumper_a_F"
+    ],
+    "bolide_innerfender_b_RR": [
+        "bolide_innerfender_b_RR"
+    ],
+    "bolide_differential_RR": [
+        "bolide_differential_RR_welded",
+        "bolide_differential_RR_LSD",
+        "bolide_differential_RR",
+        "bolide_differential_RR_race"
+    ],
+    "bolide_flashers_nosecone_b": [
+        "bolide_flashers_nosecone_b"
+    ],
+    "bolide_race_swaybar_R": [
+        "bolide_race_swaybar_R"
+    ],
+    "bolide_race_hub_R": [
+        "bolide_race_hub_R_5",
+        "bolide_race_hub_R_centerlug"
+    ],
+    "bolide_fendersignal_b_FL": [
+        "bolide_fendersignal_b_FL"
+    ],
+    "etk_enginemounts": [
+        "etk_enginemounts_ultra",
+        "etk_enginemounts_heavy",
+        "etk_enginemounts"
+    ],
+    "bolide_sideskirt_L": [
+        "bolide_sideskirt_a_L",
+        "bolide_sideskirt_c_L",
+        "bolide_sideskirt_b_L"
+    ],
+    "bolide_mudflap_a_RL": [
+        "bolide_mudflap_a_RL"
+    ],
+    "bolide_halfshafts_R": [
+        "bolide_halfshafts_R"
+    ],
+    "bolide_spoiler_b": [
+        "bolide_spoiler_b"
+    ],
+    "bolide_gutters": [
+        "bolide_gutters"
+    ],
+    "bolide_taillight_c_R": [
+        "bolide_taillight_c_R"
+    ],
+    "bolide_race_steering": [
+        "bolide_race_steering"
+    ],
+    "bolide_intake_vent": [
+        "bolide_intake_vent",
+        "bolide_intake_vent_turbo"
+    ],
+    "bolide_jerrycan_L": [
+        "bolide_jerrycan_L"
+    ],
+    "bolide_brake_F": [
+        "bolide_brake_F",
+        "bolide_brake_F_race"
+    ],
+    "bolide_fenders_R": [
+        "bolide_fenders_R"
+    ],
+    "bastion_engine": [
+        "bastion_engine_v6",
+        "bastion_engine_v8_large",
+        "bastion_engine_v8"
+    ],
+    "bolide_subframe_F": [
+        "bolide_subframe_F",
+        "bolide_race_subframe_F"
+    ],
+    "bolide_licenseplate_bb_F": [
+        "bolide_licenseplate_bb_F",
+        "bolide_licenseplate_bb_F_EU"
+    ],
+    "bolide_fenderflare_FL": [
+        "bolide_fenderflare_bolted_FL",
+        "bolide_fenderflare_FL"
+    ],
+    "bolide_halfshaft_RR": [
+        "bolide_halfshaft_RR"
+    ],
+    "bolide_innerfender_a_RR": [
+        "bolide_innerfender_a_RR"
+    ],
+    "pickup_engine_v8_6.9_ecu": [
+        "pickup_engine_v8_6.9_ecu_sport",
+        "pickup_engine_v8_6.9_ecu_race",
+        "pickup_engine_v8_6.9_ecu"
+    ],
+    "etk_engine_i4_2.0_diesel_internals": [
+        "etk_engine_i4_2.0_diesel_internals_heavy",
+        "etk_engine_i4_2.0_diesel_internals"
+    ],
+    "bolide_hub_F": [
+        "bolide_hub_F_centerlug",
+        "bolide_hub_F_5"
+    ],
+    "bolide_licenseplate_a_R": [
+        "bolide_licenseplate_a_R",
+        "bolide_licenseplate_a_R_EU"
+    ],
+    "bolide_tailgate_c": [
+        "bolide_tailgate_c"
+    ],
+    "bolide_mudflaps_6L": [
+        "bolide_mudflaps_6L"
+    ],
+    "pickup_engine_v8_diesel_ecu": [
+        "pickup_engine_v8_diesel_ecu",
+        "pickup_engine_v8_diesel_ecu_race"
+    ],
+    "bolide_intake_v6": [
+        "bolide_intake_v6_sport",
+        "bolide_supercharger_stage1",
+        "bolide_supercharger_stage2",
+        "bolide_intake_v6"
+    ],
+    "pickup_engine_i6_internals": [
+        "pickup_engine_i6_internals"
+    ],
+    "bolide_nosecone": [
+        "bolide_nosecone_a",
+        "bolide_nosecone_c",
+        "bolide_nosecone_d",
+        "bolide_nosecone_b"
+    ],
+    "bolide_fenderflare_d_RL": [
+        "bolide_fenderflare_bolted_cut_RL",
+        "bolide_fenderflare_cut_RL"
+    ],
+    "bolide_licenseplate_c_R": [
+        "bolide_licenseplate_c_R",
+        "bolide_licenseplate_c_R_EU"
+    ],
+    "bolide_innerfender_b_FL": [
+        "bolide_innerfender_b_FL"
+    ],
+    "bolide_taillight_a_R": [
+        "bolide_taillight_a_R_us",
+        "bolide_taillight_a_R"
+    ],
+    "bolide_tailconelight_b_L": [
+        "bolide_tailconelight_b_L_us",
+        "bolide_tailconelight_b_L"
+    ],
+    "bolide_sunstrip": [
+        "bolide_sunstrip"
+    ],
+    "bolide_windowframe_R": [
+        "bolide_windowframe_R_targa",
+        "bolide_windowframe_R_coupe"
+    ],
+    "bolide_licenseplate_b_R": [
+        "bolide_licenseplate_b_R",
+        "bolide_licenseplate_b_R_EU"
+    ],
+    "bolide_quarterglass_FR": [
+        "bolide_quarterglass_FR",
+        "bolide_quarterglass_FR_lightweight"
+    ],
+    "bolide_sideskirt_R": [
+        "bolide_sideskirt_a_R",
+        "bolide_sideskirt_c_R",
+        "bolide_sideskirt_b_R"
+    ],
+    "bolide_int_accessories": [
+        "bolide_police_accessories"
+    ],
+    "bolide_finaldrive_R": [
+        "bolide_finaldrive_R_312",
+        "bolide_finaldrive_R_race",
+        "bolide_finaldrive_R_290",
+        "bolide_finaldrive_R_345",
+        "bolide_finaldrive_R_397"
+    ],
+    "bolide_door_L": [
+        "bolide_door_a_L",
+        "bolide_door_b_L"
+    ],
+    "bolide_innerfender_a_RL": [
+        "bolide_innerfender_a_RL"
+    ],
+    "bolide_doordetent_L": [
+        "bolide_doordetent_L"
+    ],
+    "bolide_seat_FL": [
+        "bolide_seat_FL_race",
+        "bolide_seat_FL"
+    ],
+    "bolide_taillight_b_L": [
+        "bolide_taillight_b_L"
+    ],
+    "bolide_fenderflare_d_RR": [
+        "bolide_fenderflare_cut_RR",
+        "bolide_fenderflare_bolted_cut_RR"
+    ],
+    "bolide_innerfender_d_RL": [
+        "bolide_innerfender_d_RL"
+    ],
+    "pickup_engine_i6_ecu": [
+        "pickup_engine_i6_ecu_late",
+        "pickup_engine_i6_ecu"
+    ],
+    "bolide_headlight_b_R": [
+        "bolide_headlight_b_R"
+    ],
+    "bolide_brake_RR": [
+        "bolide_brake_RR",
+        "bolide_brake_RR_race"
+    ],
+    "bolide_headlight_a_R": [
+        "bolide_headlight_a_R"
+    ],
+    "pigeon_transmission": [
+        "pigeon_transmission_3M",
+        "pigeon_transmission_5M"
+    ],
+    "bolide_oilcooler": [
+        "bolide_oilcooler"
+    ],
+    "bolide_licenseplate_e_R": [
+        "bolide_licenseplate_e_R"
+    ],
+    "bolide_fendersignal_b_RR": [
+        "bolide_fendersignal_b_RR"
+    ],
+    "etk_engine_i6_3.0_diesel_ecu": [
+        "etk_engine_i6_3.0_diesel_ecu_260",
+        "etk_engine_i6_3.0_diesel_ecu_310_stage1",
+        "etk_engine_i6_3.0_diesel_ecu_310"
+    ],
+    "bolide_hub_RR": [
+        "bolide_hub_RR_5"
+    ],
+    "bolide_mudflap_a_FL": [
+        "bolide_mudflap_a_FL"
+    ],
+    "bolide_flashers_tailgate_a": [
+        "bolide_flashers_tailgate_a"
+    ],
+    "etk_engine_ecu_speedlimit": [
+        "etk_engine_ecu_speedlimit_270",
+        "etk_engine_ecu_speedlimit_off",
+        "etk_engine_ecu_speedlimit_250",
+        "etk_engine_ecu_speedlimit_330",
+        "etk_engine_ecu_speedlimit_230",
+        "etk_engine_ecu_speedlimit_310",
+        "etk_engine_ecu_speedlimit_210",
+        "etk_engine_ecu_speedlimit_290"
+    ],
+    "bolide_bumperlight_a_FL": [
+        "bolide_bumperlight_a_FL"
+    ],
+    "bolide_licenseplate_d_R": [
+        "bolide_licenseplate_d_R",
+        "bolide_licenseplate_d_R_EU"
+    ],
+    "bolide_towhitch_6": [
+        "bolide_towhitch_6"
+    ],
+    "etk_engine_v8_4.4_petrol_internals": [
+        "etk_engine_v8_4.4_petrol_internals_ttsport",
+        "etk_engine_v8_4.4_petrol_internals_heavy"
+    ],
+    "bolide_jerrycan_R": [
+        "bolide_jerrycan_R"
+    ],
+    "bolide_wheeldata_F": [
+        "bolide_wheeldata_F"
+    ],
+    "bolide_flywheel": [
+        "bolide_flywheel",
+        "bolide_flywheel_race",
+        "bolide_flywheel_light"
+    ],
+    "bolide_6_taillights": [
+        "bolide_6_taillights"
+    ],
+    "bolide_spoiler_a": [
+        "bolide_spoiler_a",
+        "bolide_spoiler_d"
+    ],
+    "bolide_finaldrive_F": [
+        "bolide_finaldrive_F_342",
+        "bolide_finaldrive_F_race",
+        "bolide_finaldrive_F_306",
+        "bolide_finaldrive_F_428",
+        "bolide_finaldrive_F_333",
+        "bolide_finaldrive_F_354",
+        "bolide_finaldrive_F_323"
+    ],
+    "pickup_suspension_F": [
+        "pickup_IFS",
+        "pickup_beamaxle_F",
+        "pickup_4link",
+        "pickup_SFA",
+        "pickup_IFS_offroad"
+    ],
+    "bolide_coilover_R": [
+        "bolide_coilover_R_sport",
+        "bolide_coilover_R_race",
+        "bolide_coilover_R_rally",
+        "bolide_coilover_R_lifted",
+        "bolide_coilover_R_tt"
+    ],
+    "etk_engine": [
+        "etk_engine_i4_2.0_diesel",
+        "etk_engine_i4_2.0",
+        "etk_engine_i6_3.0_diesel",
+        "etk_engine_i6_3.0",
+        "etk_engine_v8_4.4_petrol"
+    ],
+    "bolide_bumperlights_F": [
+        "bolide_bumperlights_F"
+    ],
+    "bolide_sparetire_15x8": [
+        "bolide_sparetire_tire_RR_27_10_15_alt_offroad"
+    ],
+    "pigeon_enginemounts": [
+        "pigeon_enginemounts",
+        "pigeon_enginemounts_heavy",
+        "pigeon_enginemounts_ultra"
+    ],
+    "bolide_fueltank_L_6": [
+        "bolide_fueltank_L_6"
+    ],
+    "bolide_suspension_R": [
+        "bolide_suspension_R"
+    ],
+    "bolide_spoiler_c": [
+        "bolide_spoiler_c"
+    ],
+    "pickup_enginemounts": [
+        "pickup_enginemounts",
+        "pickup_enginemounts_ultra",
+        "pickup_enginemounts_heavy"
+    ],
+    "bolide_v6_transmission": [
+        "bolide_v6_transmission_5M",
+        "bolide_v6_transmission_4A",
+        "bolide_transmission_5M_race",
+        "bolide_v6_transmission_3A"
+    ],
+    "bolide_race_suspension_F": [
+        "bolide_race_suspension_F"
+    ],
+    "bolide_tailconelight_c_R": [
+        "bolide_tailconelight_c_R"
+    ],
+    "bolide_tailconelight_b_R": [
+        "bolide_tailconelight_b_R_us",
+        "bolide_tailconelight_b_R"
+    ],
+    "bolide_bumper_b_R": [
+        "bolide_bumper_b_R"
+    ],
+    "bolide_suspension_RR": [
+        "bolide_suspension_RR"
+    ],
+    "bolide_v6_differential_M": [
+        "bolide_v6_differential_M_LSD",
+        "bolide_v6_differential_M_welded",
+        "bolide_v6_differential_M",
+        "bolide_v6_differential_M_race"
+    ],
+    "bolide_engine": [
+        "bolide_engine_3.5_v8",
+        "bolide_engine_3.9_v8",
+        "bolide_engine_3.2_v8"
+    ],
+    "bolide_finaldrive_RR": [
+        "bolide_finaldrive_RR_342",
+        "bolide_finaldrive_RR_306",
+        "bolide_finaldrive_RR_333",
+        "bolide_finaldrive_RR_race",
+        "bolide_finaldrive_RR_428",
+        "bolide_finaldrive_RR_354",
+        "bolide_finaldrive_RR_323"
+    ],
+    "bolide_tailconelight_c_L": [
+        "bolide_tailconelight_c_L"
+    ],
+    "bolide_suspension_RF": [
+        "bolide_suspension_RF"
+    ],
+    "bolide_tailcone": [
+        "bolide_tailcone_a",
+        "bolide_tailcone_c",
+        "bolide_tailcone_d",
+        "bolide_tailcone_b"
+    ],
+    "bolide_rollcage": [
+        "bolide_rollcage"
+    ],
+    "bolide_v6_transfer_case": [
+        "bolide_v6_transfer_case_AWD_race",
+        "bolide_v6_transfer_case_AWD",
+        "bolide_v6_transfer_case_AWD_locking"
+    ],
+    "bolide_quarterpanel_R": [
+        "bolide_quarterpanel_a_R",
+        "bolide_quarterpanel_c_R",
+        "bolide_quarterpanel_d_R",
+        "bolide_quarterpanel_b_R"
+    ],
+    "bolide_fenderflare_FR": [
+        "bolide_fenderflare_bolted_FR",
+        "bolide_fenderflare_FR"
+    ],
+    "bolide_exhaust_v6": [
+        "bolide_exhaust_v6"
+    ],
+    "etk_transmission": [
+        "etk_transmission_8A",
+        "etk_transmission_6M_diesel",
+        "etk_transmission_6M_race",
+        "etk_transmission_6M_sq",
+        "etk_transmission_6M_sport",
+        "etk_transmission_7DCT",
+        "etk_transmission_8A_diesel",
+        "etk_transmission_6M"
+    ],
+    "bolide_swaybar_R": [
+        "bolide_swaybar_R_race",
+        "bolide_swaybar_R",
+        "bolide_swaybar_R_tt"
+    ],
+    "bolide_door_R": [
+        "bolide_door_a_R",
+        "bolide_door_b_R"
+    ],
+    "bolide_mirror_R": [
+        "bolide_mirror_b_R",
+        "bolide_mirror_a_R",
+        "bolide_mirror_c_R"
+    ],
+    "bolide_clutchpedal": [
+        "bolide_clutchpedal",
+        "bolide_clutchpedal_sport"
+    ],
+    "bolide_flashers_tailgate_b": [
+        "bolide_flashers_tailgate_b"
+    ],
+    "bolide_suspension_F": [
+        "bolide_suspension_F"
+    ],
+    "bolide_race_coilover_R": [
+        "bolide_race_coilover_R"
+    ],
+    "bolide_engine_v6_ecu": [
+        "bolide_engine_v6_ecu",
+        "bolide_engine_v6_ecu_race"
+    ],
+    "bolide_engine_v6_internals": [
+        "bolide_engine_internals_v6_heavy",
+        "bolide_engine_v6_internals"
+    ],
+    "pickup_engine_v8_diesel_internals": [
+        "pickup_engine_v8_diesel_internals_stage1",
+        "pickup_engine_v8_diesel_internals_stage2",
+        "pickup_engine_v8_diesel_internals_ultra",
+        "pickup_engine_v8_diesel_internals_heavy",
+        "pickup_engine_v8_diesel_internals_stage3",
+        "pickup_engine_v8_diesel_internals"
+    ],
+    "bolide_transaxle": [
+        "bolide_transaxle_5M",
+        "bolide_transaxle_5M_race"
+    ],
+    "bolide_taillight_c_L": [
+        "bolide_taillight_c_L"
+    ],
+    "bolide_oilpan": [
+        "bolide_oilpan_race",
+        "bolide_oilpan"
+    ],
+    "bolide_spoiler_6": [
+        "bolide_spoiler_6"
+    ],
+    "bolide_mudflaps_6R": [
+        "bolide_mudflaps_6R"
+    ],
+    "bolide_fendersignal_a_FL": [
+        "bolide_fendersignal_a_FL"
+    ],
+    "etk_engine_i6_3.0_diesel_internals": [
+        "etk_engine_i6_3.0_diesel_internals_heavy",
+        "etk_engine_i6_3.0_diesel_internals"
+    ],
+    "bolide_race_coilover_F": [
+        "bolide_race_coilover_F"
+    ],
+    "bolide_rearpanel_6": [
+        "bolide_rearpanel_6"
+    ],
+    "etk_engine_i4_2.0_ecu": [
+        "etk_engine_i4_2.0_ecu_150",
+        "etk_engine_i4_2.0_ecu_190",
+        "etk_engine_i4_2.0_ecu_250",
+        "etk_engine_i4_2.0_ecu_250_stage1"
+    ],
+    "bolide_intcarpet": [
+        "bolide_intcarpet_race",
+        "bolide_intcarpet",
+        "bolide_intcarpet_stripped"
+    ],
+    "etk_engine_i6_3.0_petrol_ecu": [
+        "etk_engine_i6_3.0_petrol_ecu_360_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_460_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage3",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_340",
+        "etk_engine_i6_3.0_petrol_ecu_360_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_360",
+        "etk_engine_i6_3.0_petrol_ecu_300",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_na_270",
+        "etk_engine_i6_3.0_petrol_ecu_440_ttsport"
+    ],
+    "bolide_frunk": [
+        "bolide_frunk",
+        "bolide_airduct",
+        "bolide_airduct_turbo"
+    ],
+    "bolide_windshield": [
+        "bolide_windshield",
+        "bolide_windshield_lightweight"
+    ],
+    "bolide_fendersignal_b_RL": [
+        "bolide_fendersignal_b_RL"
+    ],
+    "bolide_doorpanel_R": [
+        "bolide_doorpanel_R_lightweight",
+        "bolide_doorpanel_R"
+    ],
+    "pickup_engine": [
+        "pickup_engine_i6_4.1",
+        "pickup_engine_v8_4.5",
+        "pickup_engine_v8_5.5",
+        "pickup_engine_v8_6.9",
+        "pickup_engine_v8_6.0_diesel"
+    ],
+    "bolide_steer": [
+        "bolide_steer",
+        "bolide_steer_02a",
+        "bolide_steer_03a",
+        "bolide_steer_02b",
+        "bolide_steer_01a",
+        "bolide_steer_02c",
+        "bolide_steer_05a",
+        "bolide_steer_04a"
+    ],
+    "bolide_driveshaft": [
+        "bolide_driveshaft"
+    ],
+    "bolide_fendersignal_b_FR": [
+        "bolide_fendersignal_b_FR"
+    ],
+    "bolide_fendersignal_c_FL": [
+        "bolide_fendersignal_c_FL"
+    ],
+    "bolide_roof_lightbar": [
+        "bolide_roof_lightbar"
+    ],
+    "bolide_wheeldata_R": [
+        "bolide_wheeldata_R"
+    ],
+    "bolide_halfshafts_R_race": [
+        "bolide_halfshafts_R_race"
+    ],
+    "bolide_quarterglass_FL": [
+        "bolide_quarterglass_FL",
+        "bolide_quarterglass_FL_lightweight"
+    ],
+    "bolide_race_swaybar_F": [
+        "bolide_race_swaybar_F"
+    ],
+    "bolide_engine_alt": [
+        "bolide_engine_v6_3.8",
+        "bolide_engine_v6_3.3"
+    ],
+    "bolide_chassis": [
+        "bolide_chassis"
+    ],
+    "bolide_innerfender_c_RL": [
+        "bolide_innerfender_c_RL"
+    ],
+    "bolide_engine_ecu_3.9_v8": [
+        "bolide_engine_ecu_race_3.9_v8",
+        "bolide_engine_ecu_3.9_v8"
+    ],
+    "bolide_nosecone_support": [
+        "bolide_nosecone_support",
+        "bolide_nosecone_support_cut"
+    ],
+    "bolide_swaybar_RR": [
+        "bolide_swaybar_RR_race",
+        "bolide_swaybar_RR",
+        "bolide_swaybar_RR_tt"
+    ],
+    "bolide_innerfender_c_FL": [
+        "bolide_innerfender_c_FL"
+    ],
+    "bolide_exhaust_turbo": [
+        "bolide_exhaust_turbo_c",
+        "bolide_exhaust_turbo_b"
+    ],
+    "bolide_hub_RF": [
+        "bolide_hub_RF_5"
+    ],
+    "bolide_doorglass_R": [
+        "bolide_doorglass_R",
+        "bolide_doorglass_R_lightweight"
+    ],
+    "bolide_radiator": [
+        "bolide_radiator",
+        "bolide_radiator_race",
+        "bolide_radiator_ultra"
+    ],
+    "bolide_licenseplate_ab_F": [
+        "bolide_licenseplate_ab_F",
+        "bolide_licenseplate_ab_F_EU"
+    ],
+    "bolide_race_hub_F": [
+        "bolide_race_hub_F_5",
+        "bolide_race_hub_F_centerlug"
+    ],
+    "bolide_mirror_L": [
+        "bolide_mirror_c_L",
+        "bolide_mirror_b_L",
+        "bolide_mirror_a_L"
+    ],
+    "bolide_oilpan_v6": [
+        "bolide_oilpan_v6",
+        "bolide_oilpan_v6_race"
+    ],
+    "bolide_subframe_R": [
+        "bolide_subframe_R",
+        "bolide_race_subframe_R",
+        "bolide_subframe_R_6"
+    ],
+    "bolide_v6_converter": [
+        "bolide_v6_converter_locking",
+        "bolide_v6_converter"
+    ],
+    "bolide_bumper_b_F": [
+        "bolide_bumper_b_F"
+    ],
+    "bolide_hub_R": [
+        "bolide_hub_R_5",
+        "bolide_hub_R_centerlug"
+    ],
+    "bolide_headlight_b_L": [
+        "bolide_headlight_b_L"
+    ],
+    "bolide_tailcone_support": [
+        "bolide_tailcone_support"
+    ],
+    "bolide_pedals": [
+        "bolide_pedals_sport",
+        "bolide_pedals"
+    ],
+    "bolide_bumper_a_R": [
+        "bolide_bumper_a_R"
+    ],
+    "bolide_innerfender_a_FL": [
+        "bolide_innerfender_a_FL"
+    ],
+    "bolide_differential_R": [
+        "bolide_differential_R_race",
+        "bolide_differential_R_LSD"
+    ],
+    "etk_engine_i6_3.0_petrol_internals": [
+        "etk_engine_i6_3.0_petrol_internals",
+        "etk_engine_i6_3.0_petrol_internals_heavy",
+        "etk_engine_i6_3.0_petrol_internals_ttsport"
+    ],
+    "bolide_gauges": [
+        "bolide_gauges_metric_turbo",
+        "bolide_gauges_imperial",
+        "bolide_gauges_metric",
+        "bolide_gauges_imperial_turbo"
+    ],
+    "bolide_sparetire_holder": [
+        "bolide_gooseneck_6",
+        "bolide_sparetire_holder"
+    ],
+    "bolide_intcarpet_targa": [
+        "bolide_intcarpet_targa_stripped",
+        "bolide_intcarpet_targa",
+        "bolide_intcarpet_targa_race"
+    ],
+    "bolide_fueltank_R_6": [
+        "bolide_fueltank_R_6"
+    ],
+    "bolide_exhaust_na": [
+        "bolide_exhaust_na_a",
+        "bolide_exhaust_na_d"
+    ],
+    "bolide_noselight_b_FL": [
+        "bolide_noselight_b_FL",
+        "bolide_noselight_b_FL_us"
+    ],
+    "bolide_brake_R": [
+        "bolide_brake_R_race",
+        "bolide_brake_R"
+    ],
+    "pickup_engine_v8_ecu": [
+        "pickup_engine_v8_ecu",
+        "pickup_engine_v8_ecu_late",
+        "pickup_engine_v8_ecu_sport",
+        "pickup_engine_v8_ecu_race"
+    ],
+    "bolide_mudflap_d_RL": [
+        "bolide_mudflap_d_RL"
+    ],
+    "pickup_suspension_R": [
+        "pickup_axle_R",
+        "pickup_axle_R_4link",
+        "pickup_axle_R_heavy"
+    ],
+    "bolide_body": [
+        "bolide_body",
+        "bolide_body_targa"
+    ],
+    "bolide_rearbody": [
+        "bolide_rearbody",
+        "bolide_rearbody_b"
+    ],
+    "bolide_innerfender_d_RR": [
+        "bolide_innerfender_d_RR"
+    ],
+    "bolide_innerfender_a_FR": [
+        "bolide_innerfender_a_FR"
+    ],
+    "bolide_taillight_a_L": [
+        "bolide_taillight_a_L",
+        "bolide_taillight_a_L_us"
+    ],
+    "bolide_wheeldata_M": [
+        "bolide_wheeldata_M"
+    ],
+    "bolide_header_v6": [
+        "bolide_header_v6"
+    ],
+    "bolide_swaybar_F": [
+        "bolide_swaybar_F",
+        "bolide_swaybar_F_race",
+        "bolide_swaybar_F_tt"
+    ],
+    "bolide_fendersignal_a_RL": [
+        "bolide_fendersignal_a_RL"
+    ],
+    "bolide_fendersignal_a_FR": [
+        "bolide_fendersignal_a_FR"
+    ],
+    "bolide_halfshafts_M": [
+        "bolide_halfshafts_M"
+    ],
+    "bolide_noselight_c_FL": [
+        "bolide_noselight_c_FL"
+    ],
+    "bolide_fender_R": [
+        "bolide_fender_a_R",
+        "bolide_fender_c_R",
+        "bolide_fender_b_R",
+        "bolide_fender_junk_R"
+    ],
+    "pickup_transmission": [
+        "pickup_transmission_3A_race",
+        "pickup_transmission_5M",
+        "pickup_transmission_4A_drag",
+        "pickup_transmission_5M_diesel",
+        "pickup_transmission_4A",
+        "pickup_transmission_6A",
+        "pickup_transmission_6M_race",
+        "pickup_transmission_6A_Diesel"
+    ],
+    "bolide_innerfender_b_FR": [
+        "bolide_innerfender_b_FR"
+    ],
+    "bolide_fenderflare_a_RL": [
+        "bolide_fenderflare_RL",
+        "bolide_fenderflare_bolted_RL"
+    ],
+    "bolide_coilover_F": [
+        "bolide_coilover_F_lifted",
+        "bolide_coilover_F_sport",
+        "bolide_coilover_F_race",
+        "bolide_coilover_F_rally",
+        "bolide_coilover_F_tt"
+    ],
+    "bolide_noselight_c_FR": [
+        "bolide_noselight_c_FR"
+    ],
+    "bolide_dash": [
+        "bolide_dash_lightweight",
+        "bolide_dash"
+    ],
+    "bolide_race_suspension_R": [
+        "bolide_race_suspension_R"
+    ]
+}

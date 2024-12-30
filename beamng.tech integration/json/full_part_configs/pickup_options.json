@@ -1,0 +1,1989 @@
+{
+    "pickup_desert_rearframe": [
+        "pickup_desert_rearframe",
+        "pickup_desert_rearframe_alt"
+    ],
+    "pickup_differential_F": [
+        "pickup_differential_F",
+        "pickup_differential_F_welded",
+        "pickup_differential_F_LSD",
+        "pickup_differential_F_locking"
+    ],
+    "pickup_frame": [
+        "pickup_frame",
+        "pickup_frame_ext",
+        "pickup_frame_crew",
+        "pickup_frame_heavy",
+        "pickup_frame_short",
+        "pickup_frame_longbed",
+        "pickup_frame_ext_heavy",
+        "pickup_frame_short_ext",
+        "pickup_frame_crew_heavy",
+        "pickup_frame_extlongbed",
+        "pickup_frame_crewlongbed",
+        "pickup_frame_short_heavy",
+        "pickup_frame_upfit_heavy",
+        "pickup_frame_longbed_heavy",
+        "pickup_frame_short_ext_heavy",
+        "pickup_frame_extlongbed_heavy",
+        "pickup_frame_crewlongbed_heavy",
+        "pickup_desert_frame",
+        "pickup_desert_frame_ext",
+        "pickup_desert_frame_crew"
+    ],
+    "pickup_doordetent_RR_ext": [
+        "pickup_doordetent_RR_ext"
+    ],
+    "pickup_doorpanel_RR": [
+        "pickup_doorpanel_RR",
+        "pickup_doorpanel_RR_facelift"
+    ],
+    "pickup_towhitch_bumper": [
+        "pickup_towhitch_bumper"
+    ],
+    "pickup_rollcage_crew": [
+        "pickup_rollcage_crew"
+    ],
+    "pickup_quarterpanel_L": [
+        "pickup_quarterpanel_L_dove",
+        "pickup_quarterpanel_L_wide"
+    ],
+    "pickup_licenseplate_F": [
+        "pickup_licenseplate_F"
+    ],
+    "pickup_tailgatepanel": [
+        "pickup_tailgatepanel"
+    ],
+    "pickup_rollbarlight_square_accessory": [
+        "pickup_rollbarlight_square_cover_tims",
+        "pickup_rollbarlight_square_cover_beamngmono",
+        "pickup_rollbarlight_square_LED",
+        "pickup_rollbarlight_square_grille",
+        "pickup_rollbarlight_square_mesh",
+        "pickup_rollbarlight_square_cover",
+        "pickup_rollbarlight_square_halogen",
+        "pickup_rollbarlight_square_cover_beamng"
+    ],
+    "pickup_desert_steering_SFA": [
+        "pickup_desert_steering_SFA"
+    ],
+    "pickup_bumper_insert_R_heavy": [
+        "pickup_bumper_insert_R_heavy"
+    ],
+    "pickup_doorhandle_RL": [
+        "pickup_doorhandle_RL",
+        "pickup_doorhandle_RL_facelift_alt",
+        "pickup_doorhandle_RL_facelift"
+    ],
+    "pickup_roofbasket_lights": [
+        "pickup_roofbasket_squarelights",
+        "pickup_roofbasketlight_round_quad",
+        "pickup_roofbasket_lights",
+        "pickup_roofbasketlight_square_quad"
+    ],
+    "pickup_fender_R": [
+        "pickup_fender_R",
+        "pickup_fender_R_offroad",
+        "pickup_fender_R_facelift",
+        "pickup_fender_R_offroad_facelift",
+        "pickup_fender_R_wide",
+        "pickup_fender_R_wide_facelift"
+    ],
+    "pickup_driveshaft_R_short_ext": [
+        "pickup_driveshaft_R_short_ext"
+    ],
+    "pickup_logs_strap_3": [
+        "pickup_logs_strap_3"
+    ],
+    "pickup_boxbed_fender_RR": [
+        "pickup_boxbed_fender_RR"
+    ],
+    "pickup_sparecover_31_12_16": [
+        "pickup_sparecover_31_12_16_a",
+        "pickup_sparecover_31_12_16_c"
+    ],
+    "pickup_lettering_grille": [
+        "pickup_lettering_grille"
+    ],
+    "pickup_muffler_short_ext": [
+        "pickup_muffler_short_ext",
+        "pickup_sidepipes_v8_short_ext",
+        "pickup_muffler_sport_short_ext"
+    ],
+    "pickup_exhaust_v8_diesel": [
+        "pickup_exhaust_v8_diesel",
+        "pickup_exhaust_v8_diesel_race"
+    ],
+    "pickup_bullbarlight_square_accessory": [
+        "pickup_bullbarlight_square_mesh",
+        "pickup_bullbarlight_square_cover_beamng",
+        "pickup_bullbarlight_square_cover_beamngmono",
+        "pickup_bullbarlight_square_cover",
+        "pickup_bullbarlight_square_cover_tims",
+        "pickup_bullbarlight_square_halogen",
+        "pickup_bullbarlight_square_grille",
+        "pickup_bullbarlight_square_LED"
+    ],
+    "pickup_doordetent_FR": [
+        "pickup_doordetent_FR"
+    ],
+    "pickup_interiorpanel_R_short": [
+        "pickup_interiorpanel_R_short"
+    ],
+    "pickup_logs_strap_flatbed_6": [
+        "pickup_logs_strap_flatbed_6"
+    ],
+    "pickup_bed_longbed_couch_straps": [
+        "pickup_bed_longbed_couch_straps"
+    ],
+    "pickup_licenseplate_R_heavy": [
+        "pickup_licenseplate_R_heavy"
+    ],
+    "pickup_desert_rooflights": [
+        "pickup_desert_rooflights"
+    ],
+    "pickup_rollcage": [
+        "pickup_rollcage"
+    ],
+    "pickup_fendersignal_L": [
+        "pickup_fendersignal_L"
+    ],
+    "pickup_sparecover_227_75_16": [
+        "pickup_sparecover_227_75_16_c",
+        "pickup_sparecover_227_75_16_a"
+    ],
+    "pickup_doorpanel_FL": [
+        "pickup_doorpanel_FL",
+        "pickup_doorpanel_FL_alt",
+        "pickup_doorpanel_FL_facelift"
+    ],
+    "pickup_bedaccessory_L": [
+        "pickup_antenna_military_L"
+    ],
+    "pickup_desert_suspension_R": [
+        "pickup_desert_suspension_R"
+    ],
+    "pickup_lightbar": [
+        "pickup_modern_lightbar_red",
+        "pickup_lightbar_red",
+        "pickup_modern_lightbar_amber",
+        "pickup_modern_lightbar",
+        "pickup_lightbar_a",
+        "pickup_lightbar_police"
+    ],
+    "pickup_trim": [
+        "pickup_trim"
+    ],
+    "pickup_halfshafts_F": [
+        "pickup_halfshafts_F"
+    ],
+    "etk_engine_i4_2.0_diesel_ecu": [
+        "etk_engine_i4_2.0_diesel_ecu_190",
+        "etk_engine_i4_2.0_diesel_ecu_230_stage1",
+        "etk_engine_i4_2.0_diesel_ecu_150",
+        "etk_engine_i4_2.0_diesel_ecu_230"
+    ],
+    "pickup_flatbed_tailgate": [
+        "pickup_flatbed_tailgate"
+    ],
+    "pickup_door_RR": [
+        "pickup_door_RR"
+    ],
+    "pickup_bumper_F_accessory": [
+        "pickup_antenna_bumper_F"
+    ],
+    "pigeon_i4_transmission": [
+        "pigeon_i4_transmission_5M",
+        "pigeon_i4_transmission_5M_race"
+    ],
+    "pickup_taillight_R_dove": [
+        "pickup_taillight_R_dove"
+    ],
+    "pickup_body_short": [
+        "pickup_body_short"
+    ],
+    "pickup_windshield": [
+        "pickup_windshield"
+    ],
+    "pickup_headlight_R_prefacelift": [
+        "pickup_headlight_R_prefacelift_alt",
+        "pickup_headlight_R_prefacelift"
+    ],
+    "pickup_bumper_accessory_F": [
+        "pickup_bullbar_chrome",
+        "pickup_bullbar",
+        "pickup_pushbar_chrome",
+        "pickup_pushbar",
+        "pickup_bullbar_zeta_alt",
+        "pickup_bullbar_zeta",
+        "pickup_towingeyes_F_bumper_alt",
+        "pickup_towingeyes_F_bumper",
+        "pickup_bullbar_military_alt",
+        "pickup_bullbar_military"
+    ],
+    "pickup_fueltank": [
+        "pickup_fueltank",
+        "pickup_fueltank_diesel"
+    ],
+    "pickup_roofbasketlight_quadround_accessory": [
+        "pickup_roofbasketlight_quadround_cover_tims",
+        "pickup_roofbasketlight_quadround_LED",
+        "pickup_roofbasketlight_quadround_grille",
+        "pickup_roofbasketlight_quadround_halogen",
+        "pickup_roofbasketlight_quadround_cover_yellow",
+        "pickup_roofbasketlight_quadround_cover",
+        "pickup_roofbasketlight_quadround_cover_beamng",
+        "pickup_roofbasketlight_quadround_mesh",
+        "pickup_roofbasketlight_quadround_cover_beamngmono"
+    ],
+    "pickup_roofrack_short_shell": [
+        "pickup_roofrack_short_shell"
+    ],
+    "pickup_rollbar_short_internal": [
+        "pickup_rollbar_short_internal",
+        "pickup_rollbar_short_internal_alt"
+    ],
+    "pickup_desert_suspension_F": [
+        "pickup_desert_suspension_IFS",
+        "pickup_desert_suspension_SFA"
+    ],
+    "pickup_duallysignals_RL": [
+        "pickup_duallysignals_RL",
+        "pickup_duallysignals_RL_alt"
+    ],
+    "pickup_fender_R_dove": [
+        "pickup_fender_R_dove"
+    ],
+    "pickup_transfer_case": [
+        "pickup_transfer_case_RWD",
+        "pickup_transfer_case_AWD",
+        "pickup_transfer_case_4WD_race",
+        "pickup_transfer_case_4WD",
+        "pickup_transfer_case_4WD_offroad"
+    ],
+    "pickup_oilpan_i6": [
+        "pickup_oilpan_i6_race",
+        "pickup_oilpan_i6"
+    ],
+    "pickup_grillebars_prefacelift": [
+        "pickup_grillebars_prefacelift",
+        "pickup_grillebars_prefacelift_altb",
+        "pickup_grillebars_prefacelift_alt"
+    ],
+    "pickup_bedextra_short": [
+        "pickup_rollbar_double_chrome_short",
+        "pickup_rollbar_chrome_short",
+        "pickup_rollbar_double_short",
+        "pickup_rollbar_short",
+        "pickup_campershell_short_alt",
+        "pickup_campershell_short"
+    ],
+    "pickup_header_v8": [
+        "pickup_header_v8_derby",
+        "pickup_header_v8",
+        "pickup_header_v8_race"
+    ],
+    "pickup_roofrack_ext": [
+        "pickup_rooflights_ext",
+        "pickup_roofrack_ext"
+    ],
+    "pickup_bumper_R": [
+        "pickup_bumper_R_altb",
+        "pickup_bumper_R",
+        "pickup_bumper_R_alt",
+        "pickup_rollpan_R_stepside",
+        "pickup_rollpan_R",
+        "pickup_bumper_R_zeta",
+        "pickup_bumper_R_zeta_alt",
+        "pickup_bumper_R_heavy",
+        "pickup_bumper_R_heavy_altb",
+        "pickup_bumper_R_heavy_alt",
+        "pickup_bumper_R_offroad",
+        "pickup_bumper_R_prefacelift",
+        "pickup_bumper_R_prefacelift_alt",
+        "pickup_bumper_R_prefacelift_altb",
+        "pickup_bumper_R_prefacelift_heavy_alt",
+        "pickup_bumper_R_prefacelift_heavy_altb",
+        "pickup_bumper_R_prefacelift_heavy"
+    ],
+    "etk_engine_v8_4.4_petrol_ecu": [
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage2",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage1",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_630",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_470",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_550",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_500"
+    ],
+    "pickup_desert_wheeldata_R": [
+        "pickup_desert_wheeldata_R"
+    ],
+    "pickup_bedtoolbox_L": [
+        "pickup_bedtoolbox_L"
+    ],
+    "pickup_rollbar_accessory": [
+        "pickup_rollbarlight_square",
+        "pickup_rollbarlight_round",
+        "pickup_rollbarlight_square_quad",
+        "pickup_rollbarlight_mixed_quad",
+        "pickup_rollbarlight_round_quad"
+    ],
+    "pickup_bedladder_longbed": [
+        "pickup_bedladder_longbed"
+    ],
+    "pickup_desert_lightbar": [
+        "pickup_desert_lightbar"
+    ],
+    "pickup_signal_FR_dove": [
+        "pickup_signal_FR_dove"
+    ],
+    "pickup_roofrack_crew": [
+        "pickup_rooflights_crew",
+        "pickup_roofrack_crew"
+    ],
+    "pickup_doorglass_RL": [
+        "pickup_doorglass_RL"
+    ],
+    "pickup_signal_FL": [
+        "pickup_signal_FL"
+    ],
+    "pickup_bedextra_stepside": [
+        "pickup_stepsidebed_armchairs",
+        "pickup_bed_stepside_woodcrate",
+        "pickup_bed_stepside_woodplanks",
+        "pickup_gooseneck_ball_stepside",
+        "pickup_rollbar_chrome_stepside",
+        "pickup_rollbar_stepside",
+        "pickup_rollbar_double_chrome_stepside",
+        "pickup_rollbar_double_stepside",
+        "pickup_bedcover_stepside",
+        "pickup_bedextra_stepside_logs_thick"
+    ],
+    "pickup_grillebars_facelift": [
+        "pickup_grillebars_facelift_alt",
+        "pickup_grillebars_facelift"
+    ],
+    "pickup_fenderflare_RR": [
+        "pickup_fenderflare_RR",
+        "pickup_fenderflare_RR_offroad_alt",
+        "pickup_fenderflare_RR_offroad",
+        "pickup_fenderflare_RR_alt"
+    ],
+    "etk_engine_i4_2.0_internals": [
+        "etk_engine_i4_2.0_internals_heavy",
+        "etk_engine_i4_2.0_internals"
+    ],
+    "pickup_trim_short": [
+        "pickup_trim_short"
+    ],
+    "pickup_fenderflare_FL_offroad": [
+        "pickup_fenderflare_FL_offroad_alt",
+        "pickup_fenderflare_FL_offroad"
+    ],
+    "pickup_desert_wheeldata_IFS": [
+        "pickup_desert_wheeldata_IFS"
+    ],
+    "pickup_airbump_IFS": [
+        "pickup_airbump_IFS"
+    ],
+    "pickup_headlight_R_facelift": [
+        "pickup_headlight_R_facelift_high",
+        "pickup_headlight_R_facelift"
+    ],
+    "pickup_body_crew": [
+        "pickup_body_crew"
+    ],
+    "pickup_driveshaft_SFA": [
+        "pickup_driveshaft_SFA"
+    ],
+    "pickup_trim_bumper_R_prefacelift_heavy": [
+        "pickup_trim_bumper_R_prefacelift_heavy"
+    ],
+    "pickup_boxbed_fender_RL": [
+        "pickup_boxbed_fender_RL"
+    ],
+    "pickup_differential_SFA": [
+        "pickup_differential_SFA_welded",
+        "pickup_differential_SFA_LSD",
+        "pickup_differential_SFA_heavy_LSD",
+        "pickup_differential_SFA",
+        "pickup_differential_SFA_locking"
+    ],
+    "pigeon_engine": [
+        "pigeon_engine_i3_550",
+        "pigeon_engine_i4_1300"
+    ],
+    "etk_enginelogo_v8.4.4": [
+        "etk_enginelogo_v8.4.4_rennspecht",
+        "etk_enginelogo_v8.4.4_etk"
+    ],
+    "pickup_intake_i6": [
+        "pickup_intake_i6_early",
+        "pickup_intake_i6_late",
+        "pickup_intake_i6"
+    ],
+    "etk_enginemounts": [
+        "etk_enginemounts_ultra",
+        "etk_enginemounts_heavy",
+        "etk_enginemounts"
+    ],
+    "pickup_headlight_L_facelift": [
+        "pickup_headlight_L_facelift",
+        "pickup_headlight_L_facelift_high"
+    ],
+    "pickup_rollbarlight_quadround_accessory": [
+        "pickup_rollbarlight_quadround_halogen",
+        "pickup_rollbarlight_quadround_cover_beamngmono",
+        "pickup_rollbarlight_quadround_cover_tims",
+        "pickup_rollbarlight_quadround_LED",
+        "pickup_rollbarlight_quadround_cover_beamng",
+        "pickup_rollbarlight_quadround_mesh",
+        "pickup_rollbarlight_quadround_cover_yellow",
+        "pickup_rollbarlight_quadround_cover",
+        "pickup_rollbarlight_quadround_grille"
+    ],
+    "pickup_coilover_R": [
+        "pickup_coilover_R_heavy",
+        "roamer_coilover_R",
+        "pickup_coilover_R_sport",
+        "pickup_coilover_R_lifted",
+        "pickup_coilover_R_super",
+        "pickup_coilover_R",
+        "pickup_coilover_R_race",
+        "pickup_coilover_R_offroad"
+    ],
+    "pickup_seat_F": [
+        "pickup_seat_F",
+        "pickup_seat_F_bucket",
+        "pickup_seat_F_facelift"
+    ],
+    "pickup_bullbarlight_round_accessory": [
+        "pickup_bullbarlight_round_mesh",
+        "pickup_bullbarlight_round_halogen",
+        "pickup_bullbarlight_round_cover_beamngmono",
+        "pickup_bullbarlight_round_grille",
+        "pickup_bullbarlight_round_cover_tims",
+        "pickup_bullbarlight_round_cover_beamng",
+        "pickup_bullbarlight_round_LED",
+        "pickup_bullbarlight_round_cover_yellow",
+        "pickup_bullbarlight_round_cover"
+    ],
+    "pickup_door_RR_crew": [
+        "pickup_door_RR_crew"
+    ],
+    "pickup_doorpanel_FR": [
+        "pickup_doorpanel_FR_facelift",
+        "pickup_doorpanel_FR",
+        "pickup_doorpanel_FR_alt"
+    ],
+    "pickup_ESC": [
+        "pickup_ESC"
+    ],
+    "pickup_sidesteps": [
+        "pickup_sidesteps"
+    ],
+    "pickup_engine_v8_internals": [
+        "pickup_engine_v8_internals_stage3",
+        "pickup_engine_v8_internals_ultra",
+        "pickup_engine_v8_internals_stage1",
+        "pickup_engine_v8_internals_heavy",
+        "pickup_engine_v8_internals",
+        "pickup_engine_v8_internals_stage2"
+    ],
+    "pickup_rollbar_longbed_gooseneck": [
+        "pickup_gooseneck_ball_long_rollbar"
+    ],
+    "pickup_door_RL_crew": [
+        "pickup_door_RL_crew"
+    ],
+    "pickup_ABS": [
+        "pickup_ABS"
+    ],
+    "pickup_muffler_upfit": [
+        "pickup_muffler_upfit"
+    ],
+    "pickup_mirror_R": [
+        "pickup_mirror_R_alt",
+        "pickup_mirror_R",
+        "pickup_mirror_R_heavy_alt",
+        "pickup_mirror_R_heavy",
+        "pickup_mirror_R_XLheavy_alt",
+        "pickup_mirror_R_XLheavy_altb",
+        "pickup_mirror_R_XLheavy",
+        "pickup_mirror_R_facelift_alt",
+        "pickup_mirror_R_facelift",
+        "pickup_mirror_R_prefacelift_altb",
+        "pickup_mirror_R_prefacelift",
+        "pickup_mirror_R_prefacelift_alt",
+        "pickup_mirror_R_heavy_prefacelift_altb",
+        "pickup_mirror_R_heavy_prefacelift",
+        "pickup_mirror_R_heavy_prefacelift_alt"
+    ],
+    "pickup_towingeyes_R": [
+        "pickup_towingeyes_R",
+        "pickup_towingeyes_R_alt"
+    ],
+    "pickup_wheeldata_F": [
+        "pickup_wheeldata_F"
+    ],
+    "pickup_duallysignals_R": [
+        "pickup_duallysignals_R"
+    ],
+    "pickup_backlight_crew": [
+        "pickup_backlight_crew"
+    ],
+    "pickup_fascia": [
+        "pickup_fascia_alt",
+        "pickup_fascia_altb",
+        "pickup_fascia",
+        "pickup_fascia_facelift_altb",
+        "pickup_fascia_facelift_alt",
+        "pickup_fascia_facelift",
+        "pickup_fascia_prefacelift",
+        "pickup_fascia_prefacelift_alt",
+        "pickup_fascia_prefacelift_altb"
+    ],
+    "pickup_spring_F": [
+        "pickup_spring_F_offroad",
+        "pickup_spring_F_heavy_lifted",
+        "pickup_spring_F",
+        "pickup_spring_F_heavy",
+        "pickup_spring_F_medium",
+        "pickup_spring_F_lifted"
+    ],
+    "pickup_engine_v8_6.9_ecu": [
+        "pickup_engine_v8_6.9_ecu_sport",
+        "pickup_engine_v8_6.9_ecu_race",
+        "pickup_engine_v8_6.9_ecu"
+    ],
+    "pickup_logs_strap_flatbed_5": [
+        "pickup_logs_strap_flatbed_5"
+    ],
+    "pickup_door_FR": [
+        "pickup_door_FR",
+        "pickup_door_FR_tube",
+        "pickup_door_FR_fabric"
+    ],
+    "pickup_swaybar_F_offroad": [
+        "pickup_swaybar_F_offroad"
+    ],
+    "pickup_steering_offroad": [
+        "pickup_steering_offroad"
+    ],
+    "pickup_logs_strap_flatbed_3": [
+        "pickup_logs_strap_flatbed_3"
+    ],
+    "pickup_sparetire": [
+        "pickup_sparetire_5l",
+        "pickup_sparetire_6l",
+        "pickup_sparetire_8l",
+        "pickup_sparetire_8l_heavy"
+    ],
+    "pickup_muffler_sport_tip": [
+        "pickup_muffler_sport_tip_b",
+        "pickup_muffler_sport_tip_a",
+        "pickup_muffler_sport_tip_c"
+    ],
+    "pickup_engine_i6_internals": [
+        "pickup_engine_i6_internals"
+    ],
+    "pickup_driveshaft_R_crewlongbed": [
+        "pickup_driveshaft_R_crewlongbed"
+    ],
+    "pickup_doordetent_RL_ext": [
+        "pickup_doordetent_RL_ext"
+    ],
+    "pickup_body_ext": [
+        "pickup_body_ext"
+    ],
+    "pickup_spareholder": [
+        "pickup_spareholder"
+    ],
+    "pickup_desert_body": [
+        "pickup_desert_body"
+    ],
+    "pickup_fueltank_upfit": [
+        "pickup_fueltank_upfit",
+        "pickup_fueltank_upfit_diesel"
+    ],
+    "pickup_signal_FR_prefacelift": [
+        "pickup_signal_FR_prefacelift",
+        "pickup_signal_FR_prefacelift_alt"
+    ],
+    "pickup_rollbarlight_quadsquare_accessory": [
+        "pickup_rollbarlight_quadsquare_mesh",
+        "pickup_rollbarlight_quadsquare_LED",
+        "pickup_rollbarlight_quadsquare_grille",
+        "pickup_rollbarlight_quadsquare_cover_tims",
+        "pickup_rollbarlight_quadsquare_cover_beamng",
+        "pickup_rollbarlight_quadsquare_halogen",
+        "pickup_rollbarlight_quadsquare_cover_beamngmono",
+        "pickup_rollbarlight_quadsquare_cover"
+    ],
+    "pickup_roofracklight_round_accessory": [
+        "pickup_roofracklight_round_cover_beamng",
+        "pickup_roofracklight_round_LED",
+        "pickup_roofracklight_round_cover_yellow",
+        "pickup_roofracklight_round_grille",
+        "pickup_roofracklight_round_cover",
+        "pickup_roofracklight_round_halogen",
+        "pickup_roofracklight_round_mesh",
+        "pickup_roofracklight_round_cover_beamngmono",
+        "pickup_roofracklight_round_cover_tims"
+    ],
+    "pickup_valance_cut": [
+        "pickup_valance_cut",
+        "pickup_valance_cut_facelift",
+        "pickup_valance_cut_prefacelift"
+    ],
+    "pickup_desert_body_crew": [
+        "pickup_desert_body_crew"
+    ],
+    "pickup_headlight_L": [
+        "pickup_headlight_L"
+    ],
+    "pickup_desert_windownet_L": [
+        "pickup_desert_windownet_L"
+    ],
+    "pickup_trim_short_ext": [
+        "pickup_trim_short_ext"
+    ],
+    "pickup_trunk_load": [
+        "pickup_cargo_load_box_2L_2M_trunk"
+    ],
+    "pickup_swaybar_F_SFA": [
+        "pickup_swaybar_F_SFA",
+        "pickup_swaybar_F_SFA_heavy",
+        "pickup_swaybar_F_SFA_offroad"
+    ],
+    "pickup_bed_flatbed_woodcrate_straps": [
+        "pickup_bed_flatbed_woodcrate_straps"
+    ],
+    "pickup_steering_4link": [
+        "pickup_steering_4link"
+    ],
+    "pickup_muffler_short": [
+        "pickup_muffler_short",
+        "pickup_sidepipes_v8_short",
+        "pickup_muffler_sport_short"
+    ],
+    "pickup_sparewheel_rear": [
+        "pickup_sparewheel_28a_16x7",
+        "pickup_sparewheel_steelwheel_02a_16x8",
+        "pickup_sparewheel_pickup_alloy_16x7",
+        "pickup_sparewheel_steelwheel_02b_16x8",
+        "pickup_sparewheel_steelwheel_15b_15x7",
+        "pickup_sparewheel_steelwheel_15c_15x7",
+        "pickup_sparewheel_roamer_alloy_16x7",
+        "pickup_sparewheel_25a_16x7",
+        "pickup_sparewheel_25b_16x7",
+        "pickup_sparewheel_28b_16x7",
+        "pickup_sparewheel_steelwheel_15a_15x7"
+    ],
+    "pickup_driveshaft_R_ext": [
+        "pickup_driveshaft_R_ext"
+    ],
+    "pickup_fenderflare_FR": [
+        "pickup_fenderflare_FR",
+        "pickup_fenderflare_FR_alt"
+    ],
+    "pickup_converter_diesel": [
+        "pickup_converter_diesel"
+    ],
+    "pickup_roofbasketlight_round_accessory": [
+        "pickup_roofbasketlight_round_cover_beamng",
+        "pickup_roofbasketlight_round_mesh",
+        "pickup_roofbasketlight_round_cover",
+        "pickup_roofbasketlight_round_halogen",
+        "pickup_roofbasketlight_round_cover_beamngmono",
+        "pickup_roofbasketlight_round_cover_yellow",
+        "pickup_roofbasketlight_round_cover_tims",
+        "pickup_roofbasketlight_round_grille",
+        "pickup_roofbasketlight_round_LED"
+    ],
+    "pickup_doorhandle_FL": [
+        "pickup_doorhandle_FL_facelift_alt",
+        "pickup_doorhandle_FL",
+        "pickup_doorhandle_FL_facelift"
+    ],
+    "pickup_axleshafts_F": [
+        "pickup_axleshafts_F"
+    ],
+    "pickup_grillebars": [
+        "pickup_grillebars_sparse",
+        "pickup_grillebars",
+        "pickup_grillebars_alt",
+        "pickup_grillebars_sparse_altb",
+        "pickup_grillebars_mesh",
+        "pickup_grillebars_altb",
+        "pickup_grillebars_sparse_alt"
+    ],
+    "pickup_roofrack_accessory": [
+        "pickup_roofracklight_round_quad",
+        "pickup_roofrack_lights",
+        "pickup_roofracklight_square_quad",
+        "pickup_roofrack_squarelights"
+    ],
+    "pickup_engine_i6_ecu": [
+        "pickup_engine_i6_ecu_late",
+        "pickup_engine_i6_ecu"
+    ],
+    "pickup_airbump_SFA": [
+        "pickup_airbump_SFA"
+    ],
+    "pickup_logs_strap_stepside": [
+        "pickup_logs_strap_stepside"
+    ],
+    "pickup_brake_F": [
+        "pickup_brake_F",
+        "pickup_brake_F_offroad",
+        "pickup_brake_F_heavy",
+        "pickup_brake_F_race"
+    ],
+    "bastion_engine": [
+        "bastion_engine_v6",
+        "bastion_engine_v8_large",
+        "bastion_engine_v8"
+    ],
+    "pickup_signal_FR": [
+        "pickup_signal_FR"
+    ],
+    "pickup_engine": [
+        "pickup_engine_i6_4.1",
+        "pickup_engine_v8_4.5",
+        "pickup_engine_v8_5.5",
+        "pickup_engine_v8_6.9",
+        "pickup_engine_v8_6.0_diesel"
+    ],
+    "pickup_spring_R": [
+        "pickup_spring_R",
+        "roamer_spring_R",
+        "pickup_spring_R_lifted",
+        "pickup_spring_R_base",
+        "pickup_spring_R_sport",
+        "pickup_spring_R_medium",
+        "roamer_spring_R_lifted",
+        "pickup_spring_R_super_lifted",
+        "pickup_spring_R_ultra",
+        "pickup_spring_R_heavy",
+        "pickup_spring_R_super",
+        "pickup_spring_R_offroad"
+    ],
+    "pickup_desert_fire_extinguisher_R": [
+        "pickup_desert_fire_extinguisher_R"
+    ],
+    "pickup_doorpanel_RR_crew": [
+        "pickup_doorpanel_RR_crew_facelift",
+        "pickup_doorpanel_RR_crew"
+    ],
+    "pickup_taillight_R": [
+        "pickup_taillight_R",
+        "pickup_taillight_R_facelift"
+    ],
+    "pickup_desert_spring_SFA": [
+        "pickup_desert_spring_SFA"
+    ],
+    "pickup_licenseplate_F_prefacelift": [
+        "pickup_licenseplate_F_prefacelift"
+    ],
+    "pickup_licenseplate_R_prefacelift_heavy": [
+        "pickup_licenseplate_R_prefacelift_heavy"
+    ],
+    "pickup_trim_bumper_R_heavy": [
+        "pickup_trim_bumper_R_heavy"
+    ],
+    "etk_engine_i4_2.0_diesel_internals": [
+        "etk_engine_i4_2.0_diesel_internals_heavy",
+        "etk_engine_i4_2.0_diesel_internals"
+    ],
+    "pickup_hood": [
+        "pickup_hood_cut",
+        "pickup_hood",
+        "pickup_hood_cowl",
+        "pickup_hood_facelift",
+        "pickup_hood_roadsport",
+        "pickup_desert_hood_cowl_dove",
+        "pickup_desert_hood_dove"
+    ],
+    "pickup_trim_bumper_R": [
+        "pickup_trim_bumper_R"
+    ],
+    "pickup_doorglass_RL_crew": [
+        "pickup_doorglass_RL_crew"
+    ],
+    "pickup_trim_ext": [
+        "pickup_trim_ext"
+    ],
+    "etk_engine_i6_3.0_diesel_ecu": [
+        "etk_engine_i6_3.0_diesel_ecu_260",
+        "etk_engine_i6_3.0_diesel_ecu_310_stage1",
+        "etk_engine_i6_3.0_diesel_ecu_310"
+    ],
+    "pickup_desert_wheeldata_SFA": [
+        "pickup_desert_wheeldata_SFA"
+    ],
+    "pickup_body": [
+        "pickup_body"
+    ],
+    "pickup_valance": [
+        "pickup_valance_prefacelift",
+        "pickup_valance",
+        "pickup_valance_facelift"
+    ],
+    "pickup_desert_halfshafts_F": [
+        "pickup_desert_halfshafts_F"
+    ],
+    "pickup_engine_v8_diesel_ecu": [
+        "pickup_engine_v8_diesel_ecu",
+        "pickup_engine_v8_diesel_ecu_race"
+    ],
+    "pickup_licenseplate_R_prefacelift": [
+        "pickup_licenseplate_R_prefacelift"
+    ],
+    "pickup_header_i6": [
+        "pickup_header_i6"
+    ],
+    "pickup_desert_coilover_IFS": [
+        "pickup_desert_coilover_IFS"
+    ],
+    "pickup_swaybar_F": [
+        "pickup_swaybar_F",
+        "pickup_swaybar_F_sport"
+    ],
+    "pickup_rollbar_gooseneck": [
+        "pickup_gooseneck_ball_rollbar"
+    ],
+    "pickup_innerfender_R": [
+        "pickup_innerfender_R"
+    ],
+    "pickup_headlight_L_prefacelift": [
+        "pickup_headlight_L_prefacelift_alt",
+        "pickup_headlight_L_prefacelift"
+    ],
+    "pickup_doorglass_FL": [
+        "pickup_doorglass_FL"
+    ],
+    "pickup_signal_FL_dove": [
+        "pickup_signal_FL_dove"
+    ],
+    "pickup_brake_R_heavy": [
+        "pickup_brake_R_heavy_alt",
+        "pickup_brake_R_drum_heavy_alt"
+    ],
+    "pickup_driveshaft_R_upfit": [
+        "pickup_driveshaft_R_upfit"
+    ],
+    "pickup_driveshaft_F": [
+        "pickup_driveshaft_F"
+    ],
+    "pickup_bumperstep_R_heavy": [
+        "pickup_bumperstep_R_heavy"
+    ],
+    "pickup_finaldrive_R": [
+        "pickup_finaldrive_R_410",
+        "pickup_finaldrive_R_444",
+        "pickup_finaldrive_R_355",
+        "pickup_finaldrive_R_race"
+    ],
+    "pickup_doorglass_RR_crew": [
+        "pickup_doorglass_RR_crew"
+    ],
+    "pickup_rollcage_bedbars": [
+        "pickup_rollcage_bedbars"
+    ],
+    "pickup_facelift_shifter_T_alt": [
+        "pickup_facelift_ashtray_alt",
+        "pickup_facelift_shifter_T_button_alt",
+        "pickup_facelift_shifter_T_alt"
+    ],
+    "pickup_rollbarlight_round_accessory": [
+        "pickup_rollbarlight_round_cover_beamngmono",
+        "pickup_rollbarlight_round_halogen",
+        "pickup_rollbarlight_round_LED",
+        "pickup_rollbarlight_round_cover_tims",
+        "pickup_rollbarlight_round_cover_yellow",
+        "pickup_rollbarlight_round_cover_beamng",
+        "pickup_rollbarlight_round_grille",
+        "pickup_rollbarlight_round_cover",
+        "pickup_rollbarlight_round_mesh"
+    ],
+    "pickup_lettering_grille_prefacelift": [
+        "pickup_lettering_grille_prefacelift_alt",
+        "pickup_lettering_grille_prefacelift"
+    ],
+    "pickup_muffler_extlongbed": [
+        "pickup_muffler_extlongbed",
+        "pickup_sidepipes_v8_extlongbed",
+        "pickup_muffler_sport_extlongbed"
+    ],
+    "pickup_facelift_shifter_alt": [
+        "pickup_facelift_shifter_M_alt",
+        "pickup_facelift_shifter_A_alt",
+        "pickup_facelift_shifter_M_alt_sport"
+    ],
+    "pickup_links_R_4link": [
+        "pickup_links_R_4link_offroad",
+        "pickup_links_R_4link"
+    ],
+    "pickup_bed_woodcrate_straps": [
+        "pickup_bed_woodcrate_straps"
+    ],
+    "pickup_shifter": [
+        "pickup_shifter_M",
+        "pickup_shifter_A",
+        "pickup_shifter_M_sport"
+    ],
+    "pickup_desert_driveshaft_R": [
+        "pickup_desert_driveshaft_R"
+    ],
+    "pickup_pushbumper_F": [
+        "pickup_pushbumper_F"
+    ],
+    "pickup_transmission": [
+        "pickup_transmission_3A_race",
+        "pickup_transmission_5M",
+        "pickup_transmission_4A_drag",
+        "pickup_transmission_5M_diesel",
+        "pickup_transmission_4A",
+        "pickup_transmission_6A",
+        "pickup_transmission_6M_race",
+        "pickup_transmission_6A_Diesel"
+    ],
+    "pickup_steering_SFA": [
+        "pickup_steering_SFA",
+        "pickup_steering_SFA_offroad"
+    ],
+    "pickup_roofbasketlight_quadsquare_accessory": [
+        "pickup_roofbasketlight_quadsquare_cover_beamng",
+        "pickup_roofbasketlight_quadsquare_grille",
+        "pickup_roofbasketlight_quadsquare_mesh",
+        "pickup_roofbasketlight_quadsquare_LED",
+        "pickup_roofbasketlight_quadsquare_cover_tims",
+        "pickup_roofbasketlight_quadsquare_cover",
+        "pickup_roofbasketlight_quadsquare_halogen",
+        "pickup_roofbasketlight_quadsquare_cover_beamngmono"
+    ],
+    "pickup_muffler_crewlongbed": [
+        "pickup_muffler_crewlongbed",
+        "pickup_sidepipes_v8_crewlongbed",
+        "pickup_muffler_sport_crewlongbed"
+    ],
+    "pickup_desert_brake_IFS": [
+        "pickup_desert_brake_IFS"
+    ],
+    "pickup_shock_F": [
+        "pickup_shock_F_lifted",
+        "pickup_shock_F_heavy",
+        "pickup_shock_F_medium",
+        "pickup_shock_F",
+        "pickup_shock_F_offroad"
+    ],
+    "pickup_facelift_shifter": [
+        "pickup_facelift_shifter_A",
+        "pickup_facelift_shifter_M_sport",
+        "pickup_facelift_shifter_M"
+    ],
+    "pickup_licenseplate_R_alt_offroad": [
+        "pickup_licenseplate_R_alt_offroad",
+        "pickup_licenseplate_R_EU_alt_offroad"
+    ],
+    "pigeon_transmission": [
+        "pigeon_transmission_3M",
+        "pigeon_transmission_5M"
+    ],
+    "pickup_desert_oilbottles": [
+        "pickup_desert_oilbottles"
+    ],
+    "pickup_bedtoolbox_R": [
+        "pickup_bedtoolbox_R"
+    ],
+    "pickup_trim_bed": [
+        "pickup_trim_bed"
+    ],
+    "pickup_sparetire_16x7": [
+        "pickup_sparetire_rear_227_75_16",
+        "pickup_sparetire_rear_31_12_16"
+    ],
+    "pickup_fenderflare_RL": [
+        "pickup_fenderflare_RL_alt",
+        "pickup_fenderflare_RL",
+        "pickup_fenderflare_RL_offroad_alt",
+        "pickup_fenderflare_RL_offroad"
+    ],
+    "pickup_desert_differential_IFS": [
+        "pickup_desert_differential_IFS_locking",
+        "pickup_desert_differential_IFS_LSD",
+        "pickup_desert_differential_IFS_welded",
+        "pickup_desert_differential_IFS"
+    ],
+    "pickup_radiator": [
+        "pickup_radiator",
+        "pickup_radiator_ultra",
+        "pickup_radiator_race",
+        "pickup_radiator_heavy"
+    ],
+    "pickup_trim_bed_long": [
+        "pickup_trim_bed_long"
+    ],
+    "pickup_swaybar_R": [
+        "pickup_swaybar_R_heavy",
+        "pickup_swaybar_R",
+        "pickup_swaybar_R_sport",
+        "pickup_swaybar_R_offroad"
+    ],
+    "pickup_intake_v8": [
+        "pickup_intake_v8_sport",
+        "pickup_intake_v8",
+        "pickup_supercharger_v8_stage3",
+        "pickup_supercharger_v8_stage1",
+        "pickup_intake_v8_race",
+        "pickup_intake_v8_prefacelift",
+        "pickup_intake_v8_late",
+        "pickup_supercharger_v8_stage2"
+    ],
+    "pickup_bumperstep_R": [
+        "pickup_bumperstep_R"
+    ],
+    "pickup_lettering_fender": [
+        "pickup_lettering_d35",
+        "pickup_lettering_d20",
+        "pickup_lettering_d15",
+        "pickup_lettering_roadsport_fender",
+        "pickup_lettering_d45",
+        "pickup_lettering_d25",
+        "pickup_lettering_d30",
+        "pickup_lettering_d10"
+    ],
+    "pickup_bullbar_accessory": [
+        "pickup_bullbar_roundlights",
+        "pickup_bullbar_squarelights"
+    ],
+    "pickup_bumper_F_roadsport_foglights": [
+        "pickup_bumper_F_roadsport_foglights"
+    ],
+    "pickup_seat_R": [
+        "pickup_seat_R",
+        "pickup_seat_R_facelift",
+        "pickup_seat_R_cargo_load_floor"
+    ],
+    "pickup_rollbarlight_quadmixed_accessory": [
+        "pickup_rollbarlight_quadmixed_cover_beamngmono",
+        "pickup_rollbarlight_quadmixed_cover_tims",
+        "pickup_rollbarlight_quadmixed_cover_beamng",
+        "pickup_rollbarlight_quadmixed_cover_yellow",
+        "pickup_rollbarlight_quadmixed_cover",
+        "pickup_rollbarlight_quadmixed_mesh",
+        "pickup_rollbarlight_quadmixed_grille",
+        "pickup_rollbarlight_quadmixed_LED",
+        "pickup_rollbarlight_quadmixed_halogen"
+    ],
+    "pickup_desert_toolbox": [
+        "pickup_desert_toolbox"
+    ],
+    "etk_engine_i6_3.0_petrol_ecu": [
+        "etk_engine_i6_3.0_petrol_ecu_360_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_460_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage3",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_340",
+        "etk_engine_i6_3.0_petrol_ecu_360_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_360",
+        "etk_engine_i6_3.0_petrol_ecu_300",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_na_270",
+        "etk_engine_i6_3.0_petrol_ecu_440_ttsport"
+    ],
+    "pickup_runningboard_short_ext": [
+        "pickup_runningboard_short_ext"
+    ],
+    "pickup_spotlight_R": [
+        "pickup_spotlight_R"
+    ],
+    "pickup_campershellglass_L_short": [
+        "pickup_campershellglass_L_short"
+    ],
+    "pickup_door_RL": [
+        "pickup_door_RL"
+    ],
+    "pickup_fenderflare_FR_offroad": [
+        "pickup_fenderflare_FR_offroad_alt",
+        "pickup_fenderflare_FR_offroad"
+    ],
+    "pickup_receiver_attachment": [
+        "pickup_receiver_drop",
+        "pickup_receiver_ball"
+    ],
+    "pickup_desert_muffler_crew": [
+        "pickup_desert_muffler_crew_i6",
+        "pickup_desert_muffler_crew_v8"
+    ],
+    "pickup_shock_R": [
+        "pickup_shock_R_lifted",
+        "pickup_shock_R_medium",
+        "pickup_shock_R_sport",
+        "pickup_shock_R",
+        "pickup_shock_R_super",
+        "pickup_shock_R_heavy",
+        "pickup_shock_R_offroad"
+    ],
+    "pickup_trim_bed_cut": [
+        "pickup_trim_bed_cut"
+    ],
+    "pickup_interior_accessory": [
+        "pickup_dino",
+        "pickup_interior_accessories_police"
+    ],
+    "pickup_campershellglass_L_short_alt": [
+        "pickup_campershellglass_L_short_alt"
+    ],
+    "pickup_driveshaft_R_crew": [
+        "pickup_driveshaft_R_crew"
+    ],
+    "pickup_runningboard_crew": [
+        "pickup_runningboard_crew",
+        "pickup_rockslider_crew"
+    ],
+    "pickup_exhaust_v8": [
+        "pickup_exhaust_v8",
+        "pickup_exhaust_v8_race",
+        "pickup_exhaust_v8_race_tip"
+    ],
+    "pickup_desert_steering_IFS": [
+        "pickup_desert_steering_IFS"
+    ],
+    "etk_engine_i6_3.0_diesel_internals": [
+        "etk_engine_i6_3.0_diesel_internals_heavy",
+        "etk_engine_i6_3.0_diesel_internals"
+    ],
+    "pickup_roofracklight_quadsquare_accessory": [
+        "pickup_roofracklight_quadsquare_halogen",
+        "pickup_roofracklight_quadsquare_mesh",
+        "pickup_roofracklight_quadsquare_cover_beamng",
+        "pickup_roofracklight_quadsquare_LED",
+        "pickup_roofracklight_quadsquare_cover_tims",
+        "pickup_roofracklight_quadsquare_cover",
+        "pickup_roofracklight_quadsquare_cover_beamngmono",
+        "pickup_roofracklight_quadsquare_grille"
+    ],
+    "pickup_brake_R": [
+        "pickup_brake_R_drum_heavy",
+        "pickup_brake_R_race",
+        "pickup_brake_R",
+        "pickup_brake_R_heavy",
+        "pickup_brake_R_offroad",
+        "pickup_brake_R_drum"
+    ],
+    "pickup_driveshaft_R": [
+        "pickup_driveshaft_R"
+    ],
+    "pickup_bedpipes_longbed": [
+        "pickup_bedpipes_longbed"
+    ],
+    "pickup_taillights_flatbed": [
+        "pickup_taillights_flatbed"
+    ],
+    "pickup_coilover_IFS": [
+        "pickup_coilover_IFS_heavy",
+        "pickup_coilover_IFS_lifted",
+        "pickup_coilover_IFS_base",
+        "pickup_coilover_IFS_medium",
+        "pickup_coilover_IFS",
+        "pickup_coilover_IFS_sport",
+        "pickup_coilover_IFS_race"
+    ],
+    "pickup_bumperstep_R_prefacelift": [
+        "pickup_bumperstep_R_prefacelift"
+    ],
+    "pickup_enginemounts": [
+        "pickup_enginemounts",
+        "pickup_enginemounts_ultra",
+        "pickup_enginemounts_heavy"
+    ],
+    "pickup_muffler_crew": [
+        "pickup_muffler_crew",
+        "pickup_sidepipes_v8_crew",
+        "pickup_muffler_sport_crew"
+    ],
+    "pickup_headlight_R": [
+        "pickup_headlight_R"
+    ],
+    "pickup_doorglass_RR": [
+        "pickup_doorglass_RR"
+    ],
+    "pickup_trim_crew": [
+        "pickup_trim_crew"
+    ],
+    "pickup_bed": [
+        "pickup_bed",
+        "pickup_bed_dually",
+        "pickup_flatbed",
+        "pickup_bed_stepside"
+    ],
+    "etk_engine": [
+        "etk_engine_i4_2.0_diesel",
+        "etk_engine_i4_2.0",
+        "etk_engine_i6_3.0_diesel",
+        "etk_engine_i6_3.0",
+        "etk_engine_v8_4.4_petrol"
+    ],
+    "pickup_logs_strap_6": [
+        "pickup_logs_strap_6"
+    ],
+    "pickup_bed_long_woodcrate_straps": [
+        "pickup_bed_long_woodcrate_straps"
+    ],
+    "pickup_lettering_grille_facelift": [
+        "pickup_lettering_grille_facelift"
+    ],
+    "pickup_fueltank_flatbed": [
+        "pickup_fueltank_flatbed",
+        "pickup_fueltank_flatbed_diesel"
+    ],
+    "pickup_backlight_ext": [
+        "pickup_backlight_ext"
+    ],
+    "pickup_oilpan_v8": [
+        "pickup_oilpan_v8",
+        "pickup_oilpan_v8_race"
+    ],
+    "pickup_desert_numberplates": [
+        "pickup_desert_numberplates_alt",
+        "pickup_desert_numberplates"
+    ],
+    "pickup_differential_R": [
+        "pickup_differential_R_welded",
+        "pickup_differential_R_heavy_LSD",
+        "pickup_differential_R_LSD",
+        "pickup_differential_R_locking",
+        "pickup_differential_R"
+    ],
+    "pickup_fendersignal_R": [
+        "pickup_fendersignal_R"
+    ],
+    "pigeon_enginemounts": [
+        "pigeon_enginemounts",
+        "pigeon_enginemounts_heavy",
+        "pigeon_enginemounts_ultra"
+    ],
+    "pickup_exhaust_i6": [
+        "pickup_exhaust_i6",
+        "pickup_exhaust_i6_race"
+    ],
+    "pickup_desert_driveshaft_IFS": [
+        "pickup_desert_driveshaft_IFS"
+    ],
+    "pickup_flatbed_extra": [
+        "pickup_flatbed_armchairs",
+        "pickup_bed_flatbed_woodcrate",
+        "pickup_bed_flatbed_woodplanks",
+        "pickup_flatbed_cargo_load_box_XL",
+        "pickup_flatbed_cargo_load_box_XL_4L",
+        "pickup_flatbed_extra_logs_thick",
+        "pickup_flatbed_extra_logs_medium",
+        "pickup_flatbed_extra_logs_thin"
+    ],
+    "pickup_chmsl": [
+        "pickup_chmsl"
+    ],
+    "pickup_licenseplate_R_flatbed": [
+        "pickup_licenseplate_R_flatbed",
+        "pickup_licenseplate_R_EU_flatbed"
+    ],
+    "pickup_desert_brake_R": [
+        "pickup_desert_brake_R"
+    ],
+    "pickup_seat_R_short": [
+        "pickup_seat_R_short",
+        "pickup_facelift_seat_R_short",
+        "pickup_seat_R_short_cargo_load_floor"
+    ],
+    "pickup_desert_swaybar_SFA": [
+        "pickup_desert_swaybar_SFA"
+    ],
+    "pickup_hub_F": [
+        "pickup_hub_F_5",
+        "pickup_hub_F_6",
+        "pickup_hub_F_8_locking",
+        "pickup_hub_F_6_locking",
+        "pickup_hub_F_8_heavy_locking",
+        "pickup_hub_F_8_heavy",
+        "pickup_hub_F_8"
+    ],
+    "pickup_spotlight_L": [
+        "pickup_spotlight_L"
+    ],
+    "pickup_muffler": [
+        "pickup_muffler",
+        "pickup_sidepipes_v8",
+        "pickup_muffler_sport"
+    ],
+    "pickup_desert_shock_SFA": [
+        "pickup_desert_shock_SFA"
+    ],
+    "pickup_bedaccessory_R": [
+        "pickup_antenna_military_R"
+    ],
+    "pickup_hub_R": [
+        "pickup_hub_R_8",
+        "pickup_hub_R_5",
+        "pickup_hub_R_6",
+        "pickup_hub_R_8_heavy"
+    ],
+    "pickup_desert_sparetire": [
+        "pickup_desert_sparetire_17x9_40",
+        "pickup_desert_sparetire_17x9_42_alt",
+        "pickup_desert_sparetire_17x9_38",
+        "pickup_desert_sparetire_17x9_38_alt",
+        "pickup_desert_sparetire_17x9_36"
+    ],
+    "pickup_fueltank_short": [
+        "pickup_fueltank_short",
+        "pickup_fueltank_diesel_short"
+    ],
+    "pickup_trim_bumper_F_prefacelift": [
+        "pickup_trim_bumper_F_prefacelift"
+    ],
+    "pickup_interior_accessory_late": [
+        "pickup_interior_accessories_police_late"
+    ],
+    "pickup_doordetent_RR": [
+        "pickup_doordetent_RR"
+    ],
+    "pickup_flatbed_accessory": [
+        "pickup_flatbed_walls",
+        "pickup_rollbar_flatbed_chrome",
+        "pickup_rollbar_flatbed"
+    ],
+    "pickup_driveshaft_R_longbed": [
+        "pickup_driveshaft_R_longbed"
+    ],
+    "pickup_converter_alt": [
+        "pickup_converter_alt_med",
+        "pickup_converter_alt_hi",
+        "pickup_converter_alt_heavy",
+        "pickup_converter_alt_low"
+    ],
+    "pickup_interior": [
+        "pickup_interior",
+        "pickup_interior_alt_facelift",
+        "pickup_interior_facelift"
+    ],
+    "etk_transmission": [
+        "etk_transmission_8A",
+        "etk_transmission_6M_diesel",
+        "etk_transmission_6M_race",
+        "etk_transmission_6M_sq",
+        "etk_transmission_6M_sport",
+        "etk_transmission_7DCT",
+        "etk_transmission_8A_diesel",
+        "etk_transmission_6M"
+    ],
+    "pickup_doorpanel_RL": [
+        "pickup_doorpanel_RL_facelift",
+        "pickup_doorpanel_RL"
+    ],
+    "pickup_fenderflare_FL": [
+        "pickup_fenderflare_FL",
+        "pickup_fenderflare_FL_alt"
+    ],
+    "pickup_door_FL": [
+        "pickup_door_FL",
+        "pickup_door_FL_tube",
+        "pickup_door_FL_fabric"
+    ],
+    "pickup_licenseplate_R": [
+        "pickup_licenseplate_R",
+        "pickup_licenseplate_R_EU"
+    ],
+    "etk_engine_v8_4.4_petrol_internals": [
+        "etk_engine_v8_4.4_petrol_internals_ttsport",
+        "etk_engine_v8_4.4_petrol_internals_heavy"
+    ],
+    "pickup_converter": [
+        "pickup_converter_heavy",
+        "pickup_converter_hi",
+        "pickup_converter"
+    ],
+    "etk_engine_ecu_speedlimit": [
+        "etk_engine_ecu_speedlimit_270",
+        "etk_engine_ecu_speedlimit_off",
+        "etk_engine_ecu_speedlimit_250",
+        "etk_engine_ecu_speedlimit_330",
+        "etk_engine_ecu_speedlimit_230",
+        "etk_engine_ecu_speedlimit_310",
+        "etk_engine_ecu_speedlimit_210",
+        "etk_engine_ecu_speedlimit_290"
+    ],
+    "etk_engine_i4_2.0_ecu": [
+        "etk_engine_i4_2.0_ecu_150",
+        "etk_engine_i4_2.0_ecu_190",
+        "etk_engine_i4_2.0_ecu_250",
+        "etk_engine_i4_2.0_ecu_250_stage1"
+    ],
+    "pickup_towhitch": [
+        "pickup_towhitch",
+        "pickup_fasteners"
+    ],
+    "pickup_bumper_guards_F": [
+        "pickup_bumper_guards_F",
+        "pickup_bumper_guards_F_facelift"
+    ],
+    "pickup_towingeyes_F": [
+        "pickup_towingeyes_F",
+        "pickup_towingeyes_F_alt"
+    ],
+    "pickup_suspension_F": [
+        "pickup_IFS",
+        "pickup_beamaxle_F",
+        "pickup_4link",
+        "pickup_SFA",
+        "pickup_IFS_offroad"
+    ],
+    "pickup_tailgate": [
+        "pickup_bed_jato",
+        "pickup_tailgate",
+        "pickup_tailgate_facelift_alt"
+    ],
+    "pickup_antenna": [
+        "pickup_antenna"
+    ],
+    "pickup_rollcage_ext": [
+        "pickup_rollcage_ext"
+    ],
+    "pickup_taillight_L": [
+        "pickup_taillight_L",
+        "pickup_taillight_L_facelift"
+    ],
+    "pickup_reversewarn": [
+        "pickup_reversewarn"
+    ],
+    "pickup_hood_accessory": [
+        "pickup_bugshield"
+    ],
+    "pickup_body_short_ext": [
+        "pickup_body_short_ext"
+    ],
+    "pickup_engine_v8_diesel_internals": [
+        "pickup_engine_v8_diesel_internals_stage1",
+        "pickup_engine_v8_diesel_internals_stage2",
+        "pickup_engine_v8_diesel_internals_ultra",
+        "pickup_engine_v8_diesel_internals_heavy",
+        "pickup_engine_v8_diesel_internals_stage3",
+        "pickup_engine_v8_diesel_internals"
+    ],
+    "pickup_roofrack": [
+        "pickup_roofrack",
+        "pickup_rooflights"
+    ],
+    "pickup_muffler_longbed": [
+        "pickup_muffler_longbed",
+        "pickup_sidepipes_v8_longbed",
+        "pickup_muffler_sport_longbed"
+    ],
+    "pickup_fenderflare_RL_dually": [
+        "pickup_fenderflare_RL_dually"
+    ],
+    "pickup_desert_driveshaft_R_ext": [
+        "pickup_desert_driveshaft_R_ext"
+    ],
+    "pickup_trim_bed_long_cut": [
+        "pickup_trim_bed_long_cut"
+    ],
+    "pickup_doorhandle_RR": [
+        "pickup_doorhandle_RR_facelift_alt",
+        "pickup_doorhandle_RR_facelift",
+        "pickup_doorhandle_RR"
+    ],
+    "pickup_signal_FL_prefacelift": [
+        "pickup_signal_FL_prefacelift",
+        "pickup_signal_FL_prefacelift_alt"
+    ],
+    "pickup_quarterpanel_R": [
+        "pickup_quarterpanel_R_dove",
+        "pickup_quarterpanel_R_wide"
+    ],
+    "pickup_runningboard": [
+        "pickup_rockslider",
+        "pickup_runningboard",
+        "pickup_runningboard_alt"
+    ],
+    "pickup_desert_gps_dome": [
+        "pickup_desert_gps_dome"
+    ],
+    "pickup_fender_L": [
+        "pickup_fender_L",
+        "pickup_fender_L_offroad",
+        "pickup_fender_L_facelift",
+        "pickup_fender_L_offroad_facelift",
+        "pickup_fender_L_wide",
+        "pickup_fender_L_wide_facelift"
+    ],
+    "pickup_bed_longbed_armchairs_straps": [
+        "pickup_bed_longbed_armchairs_straps"
+    ],
+    "pickup_licenseplate_R_zeta": [
+        "pickup_licenseplate_R_zeta"
+    ],
+    "pickup_desert_shock_R": [
+        "pickup_desert_shock_R"
+    ],
+    "pickup_desert_muffler_ext": [
+        "pickup_desert_muffler_ext_i6",
+        "pickup_desert_muffler_ext_v8"
+    ],
+    "pickup_lettering_facelift": [
+        "pickup_lettering_roadsport_facelift",
+        "pickup_lettering_facelift",
+        "pickup_lettering_4WD_facelift",
+        "pickup_lettering_v8_sport_facelift"
+    ],
+    "pickup_driveshaft_R_short": [
+        "pickup_driveshaft_R_short"
+    ],
+    "pickup_licenseplate_F_bullbar": [
+        "pickup_licenseplate_F_bullbar",
+        "pickup_licenseplate_F_EU_bullbar"
+    ],
+    "pickup_duallysignals_RR": [
+        "pickup_duallysignals_RR",
+        "pickup_duallysignals_RR_alt"
+    ],
+    "pickup_driveshaft_R_extlongbed": [
+        "pickup_driveshaft_R_extlongbed"
+    ],
+    "pickup_headlight_L_dove": [
+        "pickup_headlight_L_dove"
+    ],
+    "pickup_flywheel": [
+        "pickup_flywheel_light",
+        "pickup_flywheel_race",
+        "pickup_flywheel_heavy",
+        "pickup_flywheel"
+    ],
+    "pickup_bed_flatbed_armchairs_straps": [
+        "pickup_bed_flatbed_armchairs_straps"
+    ],
+    "pickup_doorpanel_RL_crew": [
+        "pickup_doorpanel_RL_crew",
+        "pickup_doorpanel_RL_crew_facelift"
+    ],
+    "pickup_engine_v8_ecu": [
+        "pickup_engine_v8_ecu",
+        "pickup_engine_v8_ecu_late",
+        "pickup_engine_v8_ecu_sport",
+        "pickup_engine_v8_ecu_race"
+    ],
+    "pickup_desert_swaybar_R": [
+        "pickup_desert_swaybar_R"
+    ],
+    "pickup_desert_limitstrap_R": [
+        "pickup_desert_limitstrap_R"
+    ],
+    "pickup_doorhandle_FR": [
+        "pickup_doorhandle_FR_facelift_alt",
+        "pickup_doorhandle_FR_facelift",
+        "pickup_doorhandle_FR"
+    ],
+    "pickup_desert_fire_extinguisher_L": [
+        "pickup_desert_fire_extinguisher_L"
+    ],
+    "pickup_police_radar_late": [
+        "pickup_police_radar_late"
+    ],
+    "pickup_fender_L_dove": [
+        "pickup_fender_L_dove"
+    ],
+    "pickup_runningboard_short": [
+        "pickup_runningboard_short"
+    ],
+    "pickup_desert_taillight_bar": [
+        "pickup_desert_taillight_bar"
+    ],
+    "pickup_rollcage_short": [
+        "pickup_rollcage_short"
+    ],
+    "pickup_desert_brake_SFA": [
+        "pickup_desert_brake_SFA"
+    ],
+    "pickup_taillightguard_L": [
+        "pickup_taillightguard_L_chrome",
+        "pickup_taillightguard_L"
+    ],
+    "pickup_desert_radsupport": [
+        "pickup_desert_fascia_dove_altb",
+        "pickup_desert_fascia_dove",
+        "pickup_desert_fascia_dove_alt",
+        "pickup_desert_fendersupport"
+    ],
+    "pickup_licenseplate_R_alt": [
+        "pickup_licenseplate_R_alt",
+        "pickup_licenseplate_R_EU_alt"
+    ],
+    "pickup_bedextra": [
+        "pickup_bedrack",
+        "pickup_rollbar",
+        "pickup_rollbar_double_chrome",
+        "pickup_rollbar_double",
+        "pickup_rollbar_chrome",
+        "pickup_bedcover",
+        "pickup_shortbed_armchairs",
+        "pickup_bed_woodcrate",
+        "pickup_bed_woodplanks",
+        "pickup_campershell",
+        "pickup_gooseneck_ball",
+        "pickup_bed_cargo_load_box_XL_4L",
+        "pickup_bed_cargo_load_box_XL",
+        "pickup_bedextra_logs_thin",
+        "pickup_bedextra_logs_thick"
+    ],
+    "pickup_trim_bumper_R_prefacelift": [
+        "pickup_trim_bumper_R_prefacelift"
+    ],
+    "pickup_police_radar": [
+        "pickup_police_radar"
+    ],
+    "pickup_seat_FL": [
+        "pickup_race_seat_FL",
+        "pickup_facelift_seat_FL"
+    ],
+    "pickup_bedladder": [
+        "pickup_bedladder"
+    ],
+    "pickup_lip_F_prefacelift": [
+        "pickup_lip_F_prefacelift",
+        "pickup_airdam_F_prefacelift_alt",
+        "pickup_airdam_F_prefacelift"
+    ],
+    "pickup_desert_coilover_R": [
+        "pickup_desert_coilover_R"
+    ],
+    "pickup_snorkel": [
+        "pickup_snorkel"
+    ],
+    "pickup_desert_driveshaft_R_crew": [
+        "pickup_desert_driveshaft_R_crew"
+    ],
+    "pickup_coilover_IFS_offroad": [
+        "pickup_coilover_IFS_offroad"
+    ],
+    "pickup_bedpipes": [
+        "pickup_bedpipes"
+    ],
+    "pickup_roofracklight_square_accessory": [
+        "pickup_roofracklight_square_cover",
+        "pickup_roofracklight_square_grille",
+        "pickup_roofracklight_square_cover_beamng",
+        "pickup_roofracklight_square_mesh",
+        "pickup_roofracklight_square_cover_beamngmono",
+        "pickup_roofracklight_square_LED",
+        "pickup_roofracklight_square_halogen",
+        "pickup_roofracklight_square_cover_tims"
+    ],
+    "pickup_steer": [
+        "pickup_steer_01a",
+        "pickup_steer_02a",
+        "pickup_steer_03a",
+        "pickup_steer_04a",
+        "pickup_steer_05a",
+        "pickup_steer_airbag",
+        "pickup_steer",
+        "roamer_steer",
+        "pickup_steer_02c",
+        "pickup_steer_02b"
+    ],
+    "pickup_grillebars_dove": [
+        "pickup_grillebars_dove_altb",
+        "pickup_grillebars_dove_alt",
+        "pickup_grillebars_dove"
+    ],
+    "pickup_finaldrive_F": [
+        "pickup_finaldrive_F_444",
+        "pickup_finaldrive_F_355",
+        "pickup_finaldrive_F_410",
+        "pickup_finaldrive_F_race"
+    ],
+    "pickup_innerfender_L": [
+        "pickup_innerfender_L"
+    ],
+    "pickup_bed_stepside_woodcrate_straps": [
+        "pickup_bed_stepside_woodcrate_straps"
+    ],
+    "pickup_campershellglass_R_short_alt": [
+        "pickup_campershellglass_R_short_alt"
+    ],
+    "pickup_campershell_tailgate_short": [
+        "pickup_campershell_tailgate_short"
+    ],
+    "pickup_roofbasketlight_square_accessory": [
+        "pickup_roofbasketlight_square_halogen",
+        "pickup_roofbasketlight_square_cover_beamngmono",
+        "pickup_roofbasketlight_square_cover",
+        "pickup_roofbasketlight_square_mesh",
+        "pickup_roofbasketlight_square_cover_beamng",
+        "pickup_roofbasketlight_square_cover_tims",
+        "pickup_roofbasketlight_square_grille",
+        "pickup_roofbasketlight_square_LED"
+    ],
+    "pickup_duallysignals_R_alt": [
+        "pickup_duallysignals_R_alt"
+    ],
+    "pickup_bumperstep_R_prefacelift_heavy": [
+        "pickup_bumperstep_R_prefacelift_heavy"
+    ],
+    "pickup_sparetire_15x7": [
+        "pickup_sparetire_rear_225_75_15"
+    ],
+    "pickup_bumper_F": [
+        "pickup_bullbar_chrome_bumper",
+        "pickup_bullbar_bumper",
+        "pickup_pushbar_chrome_bumper",
+        "pickup_pushbar_bumper",
+        "pickup_bumper_F_altb",
+        "pickup_bumper_F_alt",
+        "pickup_bumper_F",
+        "pickup_frontguard",
+        "pickup_bumper_F_tube_alt",
+        "pickup_bumper_F_tube",
+        "pickup_bumper_F_offroad",
+        "pickup_bumper_F_roadsport",
+        "pickup_pushbumper_F_inner",
+        "pickup_bumper_F_prefacelift_altb",
+        "pickup_bumper_F_prefacelift",
+        "pickup_bumper_F_prefacelift_alt"
+    ],
+    "pickup_shifter_T": [
+        "pickup_shifter_T"
+    ],
+    "pickup_taillightguard_R": [
+        "pickup_taillightguard_R",
+        "pickup_taillightguard_R_chrome"
+    ],
+    "pickup_desert_driveshaft_SFA": [
+        "pickup_desert_driveshaft_SFA"
+    ],
+    "pickup_runningboard_ext": [
+        "pickup_runningboard_ext",
+        "pickup_rockslider_ext"
+    ],
+    "pickup_bedextra_long": [
+        "pickup_longbed_couch_sideways",
+        "pickup_longbed_armchairs",
+        "pickup_bed_long_woodcrate",
+        "pickup_bed_long_woodplanks",
+        "pickup_gooseneck_ball_long",
+        "pickup_bedrack_longbed",
+        "pickup_rollbar_double_chrome_longbed",
+        "pickup_rollbar_longbed",
+        "pickup_rollbar_chrome_longbed",
+        "pickup_rollbar_double_longbed",
+        "pickup_bedcover_longbed",
+        "pickup_bed_long_cargo_load_box_2XL",
+        "pickup_bed_cargo_load_box_XL_4L",
+        "pickup_bed_cargo_load_box_XL",
+        "pickup_campershell_longbed",
+        "pickup_bedextra_long_logs_thick",
+        "pickup_bedextra_long_logs_thin"
+    ],
+    "etk_engine_i6_3.0_petrol_internals": [
+        "etk_engine_i6_3.0_petrol_internals",
+        "etk_engine_i6_3.0_petrol_internals_heavy",
+        "etk_engine_i6_3.0_petrol_internals_ttsport"
+    ],
+    "pickup_desert_fuelcell": [
+        "pickup_desert_fuelcell",
+        "pickup_desert_fuelcell_diesel"
+    ],
+    "pickup_wheeldata_R_dually": [
+        "pickup_wheeldata_R_dually"
+    ],
+    "pickup_mirror_L": [
+        "pickup_mirror_L_alt",
+        "pickup_mirror_L",
+        "pickup_mirror_L_heavy_alt",
+        "pickup_mirror_L_heavy",
+        "pickup_mirror_L_XLheavy",
+        "pickup_mirror_L_XLheavy_altb",
+        "pickup_mirror_L_XLheavy_alt",
+        "pickup_mirror_L_facelift",
+        "pickup_mirror_L_facelift_alt",
+        "pickup_mirror_L_prefacelift_altb",
+        "pickup_mirror_L_prefacelift",
+        "pickup_mirror_L_prefacelift_alt",
+        "pickup_mirror_L_heavy_prefacelift_alt",
+        "pickup_mirror_L_heavy_prefacelift_altb",
+        "pickup_mirror_L_heavy_prefacelift"
+    ],
+    "pickup_tailgate_stepside": [
+        "pickup_tailgate_stepside",
+        "pickup_tailgate_facelift_stepside_alt"
+    ],
+    "pickup_desert_floorjack": [
+        "pickup_desert_floorjack"
+    ],
+    "pickup_power_steering": [
+        "pickup_power_steering"
+    ],
+    "pickup_converter_drag": [
+        "pickup_converter_drag_lo",
+        "pickup_converter_drag_med",
+        "pickup_converter_drag_hi"
+    ],
+    "pickup_coilover_4link_F": [
+        "pickup_coilover_4link_F",
+        "pickup_coilover_4link_F_lifted",
+        "pickup_coilover_4link_F_heavy",
+        "pickup_coilover_4link_F_offroad"
+    ],
+    "pickup_suspension_R": [
+        "pickup_axle_R",
+        "pickup_axle_R_4link",
+        "pickup_axle_R_heavy"
+    ],
+    "pickup_spoiler": [
+        "pickup_bigwing_01a",
+        "pickup_bigwing_02a",
+        "pickup_bigwing_03a",
+        "pickup_dragwing_carbon",
+        "pickup_dragwing",
+        "pickup_stockcarwing_carbon",
+        "pickup_stockcarwing"
+    ],
+    "pickup_intake_v8_diesel": [
+        "pickup_intake_v8_diesel_stage3",
+        "pickup_intake_v8_diesel_stage2",
+        "pickup_intake_v8_diesel",
+        "pickup_intake_v8_diesel_late",
+        "pickup_intake_v8_diesel_prefacelift",
+        "pickup_intake_v8_diesel_stage1"
+    ],
+    "pickup_doordetent_FL": [
+        "pickup_doordetent_FL"
+    ],
+    "pickup_finaldrive_SFA": [
+        "pickup_finaldrive_SFA_444",
+        "pickup_finaldrive_SFA_410",
+        "pickup_finaldrive_SFA_race",
+        "pickup_finaldrive_SFA_355"
+    ],
+    "pickup_desert_sparewheel": [
+        "pickup_desert_sparewheel_01a_17x9",
+        "pickup_desert_sparewheel_04a_17x9",
+        "pickup_desert_sparewheel_05a_17x9",
+        "pickup_desert_sparewheel_03a_17x9",
+        "pickup_desert_sparewheel_faser_02b_17x9",
+        "pickup_desert_sparewheel_faser_02a_17x9",
+        "pickup_desert_sparewheel_05b_17x9",
+        "pickup_desert_sparewheel_05c_17x9",
+        "pickup_desert_sparewheel_02a_17x9"
+    ],
+    "pickup_desert_windownet_R": [
+        "pickup_desert_windownet_R"
+    ],
+    "pickup_airbump_R": [
+        "pickup_airbump_R"
+    ],
+    "pickup_desert_body_ext": [
+        "pickup_desert_body_ext"
+    ],
+    "pickup_headlight_R_dove": [
+        "pickup_headlight_R_dove"
+    ],
+    "pickup_rollcage_short_bedbars": [
+        "pickup_rollcage_short_bedbars"
+    ],
+    "pickup_steering": [
+        "pickup_steering",
+        "pickup_steering_drift",
+        "pickup_steering_sport"
+    ],
+    "pickup_bumper_guards_R": [
+        "pickup_bumper_guards_R_facelift",
+        "pickup_bumper_guards_R"
+    ],
+    "pickup_roofracklight_quadround_accessory": [
+        "pickup_roofracklight_quadround_halogen",
+        "pickup_roofracklight_quadround_cover_beamngmono",
+        "pickup_roofracklight_quadround_grille",
+        "pickup_roofracklight_quadround_cover_beamng",
+        "pickup_roofracklight_quadround_cover_yellow",
+        "pickup_roofracklight_quadround_LED",
+        "pickup_roofracklight_quadround_cover_tims",
+        "pickup_roofracklight_quadround_cover",
+        "pickup_roofracklight_quadround_mesh"
+    ],
+    "pickup_wheeldata_R": [
+        "pickup_wheeldata_R"
+    ],
+    "pickup_muffler_ext": [
+        "pickup_muffler_ext",
+        "pickup_sidepipes_v8_ext",
+        "pickup_muffler_sport_ext"
+    ],
+    "pickup_bed_shortbed_armchairs_straps": [
+        "pickup_bed_shortbed_armchairs_straps"
+    ],
+    "pickup_bumpergrille_F_roadsport": [
+        "pickup_bumpergrille_F_roadsport_alt",
+        "pickup_bumpergrille_F_roadsport"
+    ],
+    "pickup_desert_muffler": [
+        "pickup_desert_muffler_i6",
+        "pickup_desert_muffler_v8"
+    ],
+    "pickup_backlight": [
+        "pickup_backlight"
+    ],
+    "pickup_doorglass_FR": [
+        "pickup_doorglass_FR"
+    ],
+    "pickup_seat_FR": [
+        "pickup_race_seat_FR",
+        "pickup_facelift_seat_FR"
+    ],
+    "pickup_licenseplate_F_alt_offroad": [
+        "pickup_licenseplate_F_alt_offroad",
+        "pickup_licenseplate_F_EU_alt_offroad"
+    ],
+    "pickup_taillight_L_dove": [
+        "pickup_taillight_L_dove"
+    ],
+    "pickup_lettering": [
+        "pickup_lettering_v8_sport",
+        "pickup_lettering_v8_4WD",
+        "pickup_lettering_v8_roadsport",
+        "pickup_lettering_v8",
+        "pickup_lettering",
+        "pickup_lettering_4WD"
+    ],
+    "pickup_desert_shock_IFS": [
+        "pickup_desert_shock_IFS"
+    ],
+    "pickup_doordetent_RL": [
+        "pickup_doordetent_RL"
+    ],
+    "pickup_desert_swaybar_IFS": [
+        "pickup_desert_swaybar_IFS"
+    ],
+    "pickup_lip_F": [
+        "pickup_lip_F",
+        "pickup_airdam_F",
+        "pickup_airdam_F_alt"
+    ],
+    "pickup_campershellglass_R_short": [
+        "pickup_campershellglass_R_short"
+    ],
+    "pickup_bed_long": [
+        "pickup_bed_long",
+        "pickup_bed_long_dually"
+    ],
+    "pickup_radsupport": [
+        "pickup_radsupport"
+    ],
+    "pickup_trim_bumper_F": [
+        "pickup_trim_bumper_F"
+    ],
+    "pickup_fenderflare_RR_dually": [
+        "pickup_fenderflare_RR_dually"
+    ]
+}

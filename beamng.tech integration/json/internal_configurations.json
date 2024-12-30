@@ -35,5 +35,27 @@
                 "etk800_shock_R_wide_race": "etk800_suspension_R_wide"
             }
         }
+    },
+    "van": {
+        "parts": {
+            "van_fueltank": {
+                "van_engine_i6_4.1": "van_fueltank_gasoline",
+                "van_engine_v8_4.5": "van_fueltank_gasoline",
+                "van_engine_v8_5.5": "van_fueltank_gasoline",
+                "van_engine_v8_6.9": "van_fueltank_gasoline",
+                "van_engine_v8_6.0_diesel": "van_fueltank_diesel"
+            }
+        }
+    },
+    "pickup": {
+        "parts": {
+            "pickup_fueltank": {
+                "pickup_engine_i6_4.1": "pickup_fueltank",
+                "pickup_engine_v8_4.5": "pickup_fueltank",
+                "pickup_engine_v8_5.5": "pickup_fueltank",
+                "pickup_engine_v8_6.9": "pickup_fueltank",
+                "pickup_engine_v8_6.0_diesel": "pickup_fueltank_diesel"
+            }
+        }
     }
 }

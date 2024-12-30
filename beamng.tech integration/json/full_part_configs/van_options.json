@@ -1,0 +1,1091 @@
+{
+    "van_finaldrive_SFA": [
+        "van_finaldrive_SFA_410",
+        "van_finaldrive_SFA_race",
+        "van_finaldrive_SFA_355",
+        "van_finaldrive_SFA_444"
+    ],
+    "van_snorkel": [
+        "van_snorkel"
+    ],
+    "van_rollback_lightbar": [
+        "van_modern_lightbar_amber_rollback",
+        "van_rollback_lightbar_red",
+        "van_rollback_lightbar_police",
+        "van_rollback_lightbar_a"
+    ],
+    "van_seat_2R_ext": [
+        "van_seat_2R_ext"
+    ],
+    "van_sidedoor_RR": [
+        "van_sidedoor_RR_alt",
+        "van_sidedoor_RR"
+    ],
+    "van_bumper_R": [
+        "van_bumper_R",
+        "van_bumper_R_alt",
+        "van_bumper_R_altb",
+        "van_bumper_R_late",
+        "van_bumper_R_late_alt",
+        "van_bumper_R_kit",
+        "van_bumper_R_offroad"
+    ],
+    "van_exhaust_i6": [
+        "van_exhaust_i6"
+    ],
+    "van_upfit_heavy": [
+        "van_flatbed_heavy",
+        "van_cargobox_heavy",
+        "van_ambulance",
+        "van_rollback"
+    ],
+    "van_intake_i6": [
+        "van_intake_i6",
+        "van_intake_i6_late"
+    ],
+    "van_door_FR": [
+        "van_door_FR"
+    ],
+    "van_rollcage_cab": [
+        "van_rollcage_cab"
+    ],
+    "van_swaybar_F_SFA": [
+        "van_swaybar_F_SFA_heavy",
+        "van_swaybar_F_SFA_offroad",
+        "van_swaybar_F_SFA"
+    ],
+    "van_ext_load": [
+        "van_ext_cargo_load_box_XL"
+    ],
+    "van_doorpanel_FR": [
+        "van_doorpanel_FR"
+    ],
+    "van_swaybar_F_offroad": [
+        "van_swaybar_F_offroad"
+    ],
+    "van_finaldrive_F": [
+        "van_finaldrive_F_410",
+        "van_finaldrive_F_444",
+        "van_finaldrive_F_race",
+        "van_finaldrive_F_355"
+    ],
+    "van_doordetent_FR": [
+        "van_doordetent_FR"
+    ],
+    "pickup_engine_v8_ecu": [
+        "pickup_engine_v8_ecu",
+        "pickup_engine_v8_ecu_late",
+        "pickup_engine_v8_ecu_sport",
+        "pickup_engine_v8_ecu_race"
+    ],
+    "van_axleshafts_F": [
+        "van_axleshafts_F"
+    ],
+    "etk_engine_i4_2.0_diesel_ecu": [
+        "etk_engine_i4_2.0_diesel_ecu_190",
+        "etk_engine_i4_2.0_diesel_ecu_230_stage1",
+        "etk_engine_i4_2.0_diesel_ecu_150",
+        "etk_engine_i4_2.0_diesel_ecu_230"
+    ],
+    "van_ambulance_taillight": [
+        "van_ambulance_taillight"
+    ],
+    "van_steering": [
+        "van_steering_drift",
+        "van_steering_sport",
+        "van_steering"
+    ],
+    "van_wheeldata_R_dually": [
+        "van_wheeldata_R_dually"
+    ],
+    "van_hub_F": [
+        "van_hub_F_8_heavy",
+        "van_hub_F_6",
+        "van_hub_F_8",
+        "van_hub_F_5",
+        "van_hub_F_6_locking",
+        "van_hub_F_8_locking",
+        "van_hub_F_8_heavy_locking"
+    ],
+    "van_body_ext": [
+        "van_body_ext",
+        "van_body_door_ext",
+        "van_body_passenger_ext"
+    ],
+    "van_licenseplate_R_kit": [
+        "van_licenseplate_R_kit",
+        "van_licenseplate_R_kit_EU"
+    ],
+    "van_exhaust_v8": [
+        "van_exhaust_v8",
+        "van_exhaust_v8_race"
+    ],
+    "van_cargobox_towhitch": [
+        "van_cargobox_towhitch"
+    ],
+    "van_radio": [
+        "van_interior_accessories_police",
+        "van_radio",
+        "van_radio_facelift"
+    ],
+    "van_muffler_upfit": [
+        "van_muffler_upfit",
+        "van_sidepipes_v8_upfit"
+    ],
+    "van_ESC": [
+        "van_ESC"
+    ],
+    "van_bumper_accessory_F": [
+        "van_bullbar_chrome",
+        "van_bullbar",
+        "van_pushbar",
+        "van_pushbar_chrome"
+    ],
+    "van_fenderflare_RR": [
+        "van_fenderflare_RR",
+        "van_fenderflare_RR_kit",
+        "van_fenderflare_RR_alt"
+    ],
+    "etk_engine_v8_4.4_petrol_ecu": [
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage2",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600_stage1",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_630",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_470",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_600",
+        "etk_engine_v8_4.4_petrol_ecu_ttSport_550",
+        "etk_engine_v8_4.4_petrol_ecu_rennspecht_500"
+    ],
+    "van_seat_FL": [
+        "van_seat_FL",
+        "van_race_seat_FL"
+    ],
+    "van_taillight_L": [
+        "van_taillight_L"
+    ],
+    "etk_engine_i4_2.0_ecu": [
+        "etk_engine_i4_2.0_ecu_150",
+        "etk_engine_i4_2.0_ecu_190",
+        "etk_engine_i4_2.0_ecu_250",
+        "etk_engine_i4_2.0_ecu_250_stage1"
+    ],
+    "van_signal_FR": [
+        "van_signal_FR"
+    ],
+    "van_finaldrive_R": [
+        "van_finaldrive_R_410",
+        "van_finaldrive_R_444",
+        "van_finaldrive_R_race",
+        "van_finaldrive_R_355"
+    ],
+    "van_intcarpet_roof": [
+        "van_intcarpet_roof"
+    ],
+    "van_licenseplate_F_late": [
+        "van_licenseplate_F_late",
+        "van_licenseplate_F_late_EU"
+    ],
+    "van_lightbar": [
+        "van_modern_lightbar",
+        "van_lightbar_c",
+        "van_modern_lightbar_c",
+        "van_lightbar_b",
+        "van_modern_lightbar_b",
+        "van_lightbar_a"
+    ],
+    "van_reardoor_L": [
+        "van_reardoor_L"
+    ],
+    "van_intake_v8": [
+        "van_supercharger_v8_stage3",
+        "van_intake_v8_race",
+        "van_intake_v8_sport",
+        "van_supercharger_v8_stage1",
+        "van_intake_v8_late",
+        "van_supercharger_v8_stage2",
+        "van_intake_v8"
+    ],
+    "van_lettering_reardoor_R": [
+        "van_lettering_H25_xt_reardoor_R",
+        "van_lettering_H35_xt_4wd_reardoor_R",
+        "van_lettering_h15_reardoor_R",
+        "van_lettering_H45_xt_4wd_reardoor_R",
+        "van_lettering_H25_4wd_reardoor_R",
+        "van_lettering_H25_xt_4wd_reardoor_R",
+        "van_lettering_H35_xt_reardoor_R",
+        "van_lettering_H45_4wd_reardoor_R",
+        "van_lettering_H45_xt_reardoor_R",
+        "van_lettering_h45_reardoor_R",
+        "van_lettering_H25_reardoor_R",
+        "van_lettering_h15_4wd_reardoor_R",
+        "van_lettering_H35_reardoor_R",
+        "van_lettering_h15_xt_4wd_reardoor_R",
+        "van_lettering_H35_4wd_reardoor_R",
+        "van_lettering_h15_xt_reardoor_R"
+    ],
+    "van_engine": [
+        "van_engine_i6_4.1",
+        "van_engine_v8_4.5",
+        "van_engine_v8_5.5",
+        "van_engine_v8_6.9",
+        "van_engine_v8_6.0_diesel"
+    ],
+    "van_sidedoor_FR": [
+        "van_sidedoor_FR",
+        "van_sidedoor_FR_alt"
+    ],
+    "pigeon_engine": [
+        "pigeon_engine_i3_550",
+        "pigeon_engine_i4_1300"
+    ],
+    "van_headlight_R_late": [
+        "van_headlight_R_late_high",
+        "van_headlight_R_late"
+    ],
+    "van_intcarpet_roof_ext": [
+        "van_intcarpet_roof_ext"
+    ],
+    "van_reardoorglass_L": [
+        "van_reardoorglass_L"
+    ],
+    "van_links_R_4link": [
+        "van_links_R_4link",
+        "van_links_R_4link_offroad"
+    ],
+    "etk_engine_ecu_speedlimit": [
+        "etk_engine_ecu_speedlimit_270",
+        "etk_engine_ecu_speedlimit_off",
+        "etk_engine_ecu_speedlimit_250",
+        "etk_engine_ecu_speedlimit_330",
+        "etk_engine_ecu_speedlimit_230",
+        "etk_engine_ecu_speedlimit_310",
+        "etk_engine_ecu_speedlimit_210",
+        "etk_engine_ecu_speedlimit_290"
+    ],
+    "van_ac": [
+        "van_ac"
+    ],
+    "van_doorglass_R": [
+        "van_doorglass_R"
+    ],
+    "van_seat_3R": [
+        "van_seat_3R"
+    ],
+    "van_fascia_F": [
+        "van_fascia_F",
+        "van_fascia_F_high",
+        "van_fascia_F_high_alt",
+        "van_fascia_F_late_alt",
+        "van_fascia_F_late"
+    ],
+    "van_shifter": [
+        "van_shifter_M",
+        "van_shifter_A"
+    ],
+    "van_ambulance_reardoors": [
+        "van_ambulance_reardoors"
+    ],
+    "van_bumper_F_lip": [
+        "van_bumper_F_lip"
+    ],
+    "van_brake_F": [
+        "van_brake_F_offroad",
+        "van_brake_F_race",
+        "van_brake_F",
+        "van_brake_F_heavy"
+    ],
+    "van_ambulance_stretcher": [
+        "van_ambulance_stretcher"
+    ],
+    "van_fender_R": [
+        "van_fender_R"
+    ],
+    "van_reardoorpanel_R": [
+        "van_reardoorpanel_R"
+    ],
+    "van_doordetent_RL": [
+        "van_doordetent_RL"
+    ],
+    "van_seat_1R": [
+        "van_seat_1R"
+    ],
+    "van_sparetire": [
+        "van_sparetire"
+    ],
+    "van_sideglass_FL": [
+        "van_sideglass_FL"
+    ],
+    "van_sideglass_RR": [
+        "van_sideglass_RR"
+    ],
+    "van_coilover_IFS_offroad": [
+        "van_coilover_IFS_offroad"
+    ],
+    "van_fenderflare_RR_sidedoor": [
+        "van_fenderflare_RR_alt_sidedoor",
+        "van_fenderflare_RR_sidedoor",
+        "van_fenderflare_RR_kit_sidedoor"
+    ],
+    "van_frame": [
+        "van_frame",
+        "van_frame_ext",
+        "van_frame_heavy",
+        "van_frame_ext_heavy",
+        "van_frame_upfit_heavy"
+    ],
+    "van_driveshaft_R": [
+        "van_driveshaft_R"
+    ],
+    "van_licenseplate_F_alt_offroad": [
+        "van_licenseplate_F_alt_offroad",
+        "van_licenseplate_F_EU_alt_offroad"
+    ],
+    "van_steering_SFA": [
+        "van_steering_SFA_offroad",
+        "van_steering_SFA"
+    ],
+    "van_runningboard_ext": [
+        "van_runningboard_short_ext",
+        "van_runningboard_ext"
+    ],
+    "van_fender_L": [
+        "van_fender_L"
+    ],
+    "van_ladders": [
+        "van_ladders"
+    ],
+    "van_hub_R": [
+        "van_hub_R_8_heavy",
+        "van_hub_R_6",
+        "van_hub_R_5",
+        "van_hub_R_8"
+    ],
+    "etk_engine_v8_4.4_petrol_internals": [
+        "etk_engine_v8_4.4_petrol_internals_ttsport",
+        "etk_engine_v8_4.4_petrol_internals_heavy"
+    ],
+    "bastion_engine": [
+        "bastion_engine_v6",
+        "bastion_engine_v8_large",
+        "bastion_engine_v8"
+    ],
+    "van_licenseplate_R_alt": [
+        "van_licenseplate_R_alt",
+        "van_licenseplate_R_alt_EU"
+    ],
+    "van_ambulance_cabinetdoors": [
+        "van_ambulance_cabinetdoors"
+    ],
+    "van_converter": [
+        "van_converter_hi",
+        "van_converter_heavy",
+        "van_converter"
+    ],
+    "etk_enginemounts": [
+        "etk_enginemounts_ultra",
+        "etk_enginemounts_heavy",
+        "etk_enginemounts"
+    ],
+    "etk_engine_i6_3.0_diesel_internals": [
+        "etk_engine_i6_3.0_diesel_internals_heavy",
+        "etk_engine_i6_3.0_diesel_internals"
+    ],
+    "van_grille_F_late": [
+        "van_grille_F_late",
+        "van_grille_F_late_mesh",
+        "van_grille_F_late_alt"
+    ],
+    "van_fenderflare_RR_ext": [
+        "van_fenderflare_RR_ext_kit",
+        "van_fenderflare_RR_ext_alt",
+        "van_fenderflare_RR_ext"
+    ],
+    "pickup_engine_v8_diesel_ecu": [
+        "pickup_engine_v8_diesel_ecu",
+        "pickup_engine_v8_diesel_ecu_race"
+    ],
+    "van_taillightguard_L": [
+        "van_taillightguard_L_chrome",
+        "van_taillightguard_L"
+    ],
+    "van_cargobox_load_R": [
+        "van_cargobox_load_R_cargo_load_box_2XL",
+        "van_cargobox_woodcrate_load_R",
+        "van_cargobox_woodplanks_load_R"
+    ],
+    "etk_transmission": [
+        "etk_transmission_8A",
+        "etk_transmission_6M_diesel",
+        "etk_transmission_6M_race",
+        "etk_transmission_6M_sq",
+        "etk_transmission_6M_sport",
+        "etk_transmission_7DCT",
+        "etk_transmission_8A_diesel",
+        "etk_transmission_6M"
+    ],
+    "van_fueltank_upfit": [
+        "van_fueltank_upfit",
+        "van_fueltank_upfit_diesel"
+    ],
+    "van_coilover_R": [
+        "van_coilover_R_sport",
+        "van_coilover_R_heavy",
+        "van_coilover_R_super",
+        "van_coilover_R_race",
+        "van_coilover_R_lifted",
+        "van_coilover_R_offroad",
+        "van_coilover_R"
+    ],
+    "van_roofbasket_load": [
+        "van_load_woodcrate_roofbasket",
+        "van_load_woodplanks_roofbasket"
+    ],
+    "van_header_i6": [
+        "van_exhmanifold_i6"
+    ],
+    "van_fenderflare_RL": [
+        "van_fenderflare_RL",
+        "van_fenderflare_RL_alt",
+        "van_fenderflare_RL_kit"
+    ],
+    "van_rollback_feet": [
+        "van_rollback_feet"
+    ],
+    "van_door_FL": [
+        "van_door_FL"
+    ],
+    "van_mirror_L": [
+        "van_mirror_L",
+        "van_mirror_L_heavy"
+    ],
+    "van_bumper_F": [
+        "van_bullbar_bumper",
+        "van_bullbar_chrome_bumper",
+        "van_pushbar_chrome_bumper",
+        "van_pushbar_bumper",
+        "van_bumper_F",
+        "van_bumper_F_alt",
+        "van_bumper_F_altb",
+        "van_frontguard",
+        "van_bumper_F_late",
+        "van_bumper_F_late_alt",
+        "van_bumper_F_kit",
+        "van_bumper_F_offroad",
+        "van_pushbumper_F_inner"
+    ],
+    "van_hood": [
+        "van_hood",
+        "van_hood_late",
+        "van_hood_cut"
+    ],
+    "van_swaybar_R": [
+        "van_swaybar_R_sport",
+        "van_swaybar_R_heavy",
+        "van_swaybar_R",
+        "van_swaybar_R_offroad"
+    ],
+    "van_bumper_F_lip_late": [
+        "van_bumper_F_lip_late"
+    ],
+    "etk_enginelogo_v8.4.4": [
+        "etk_enginelogo_v8.4.4_rennspecht",
+        "etk_enginelogo_v8.4.4_etk"
+    ],
+    "van_doordetent_FL": [
+        "van_doordetent_FL"
+    ],
+    "van_driveshaft_SFA": [
+        "van_driveshaft_SFA"
+    ],
+    "van_sideglass_ML": [
+        "van_sideglass_ML"
+    ],
+    "pickup_transmission": [
+        "pickup_transmission_3A_race",
+        "pickup_transmission_5M",
+        "pickup_transmission_4A_drag",
+        "pickup_transmission_5M_diesel",
+        "pickup_transmission_4A",
+        "pickup_transmission_6A",
+        "pickup_transmission_6M_race",
+        "pickup_transmission_6A_Diesel"
+    ],
+    "van_wheeldata_F": [
+        "van_wheeldata_F"
+    ],
+    "van_driveshaft_R_upfit": [
+        "van_driveshaft_R_upfit"
+    ],
+    "van_tubs": [
+        "van_tubs"
+    ],
+    "van_lettering_doors_F": [
+        "van_lettering_doors_F_h45",
+        "van_lettering_doors_F_h25",
+        "van_lettering_doors_F_h15",
+        "van_lettering_doors_F_h35"
+    ],
+    "van_header": [
+        "van_exhmanifold",
+        "van_exhmanifold_derby"
+    ],
+    "pigeon_transmission": [
+        "pigeon_transmission_3M",
+        "pigeon_transmission_5M"
+    ],
+    "van_licenseplate_R_alt2": [
+        "van_licenseplate_R_alt2",
+        "van_licenseplate_R_alt2_EU"
+    ],
+    "van_backlight": [
+        "van_backlight"
+    ],
+    "van_seat_4R_ext": [
+        "van_seat_4R_ext"
+    ],
+    "van_brake_R_heavy": [
+        "van_brake_R_drum_heavy_alt",
+        "van_brake_R_heavy_alt"
+    ],
+    "pickup_engine_v8_diesel_internals": [
+        "pickup_engine_v8_diesel_internals_stage1",
+        "pickup_engine_v8_diesel_internals_stage2",
+        "pickup_engine_v8_diesel_internals_ultra",
+        "pickup_engine_v8_diesel_internals_heavy",
+        "pickup_engine_v8_diesel_internals_stage3",
+        "pickup_engine_v8_diesel_internals"
+    ],
+    "pickup_engine_v8_internals": [
+        "pickup_engine_v8_internals_stage3",
+        "pickup_engine_v8_internals_ultra",
+        "pickup_engine_v8_internals_stage1",
+        "pickup_engine_v8_internals",
+        "pickup_engine_v8_internals_heavy",
+        "pickup_engine_v8_internals_stage2"
+    ],
+    "van_power_steering": [
+        "van_power_steering"
+    ],
+    "van_roof_accessory": [
+        "van_spoiler",
+        "van_cargo_load_roofbars",
+        "van_roofbasket",
+        "van_roofrack",
+        "van_modern_lightbar_rear",
+        "van_lightbar_rear_b",
+        "van_lightbar_rear_c",
+        "van_modern_lightbar_rear_c",
+        "van_modern_lightbar_rear_b",
+        "van_lightbar_rear_a"
+    ],
+    "van_flywheel": [
+        "van_flywheel_race",
+        "van_flywheel",
+        "van_flywheel_heavy",
+        "van_flywheel_light"
+    ],
+    "van_licenseplate_R_rollback": [
+        "van_licenseplate_R_rollback_EU",
+        "van_licenseplate_R_rollback"
+    ],
+    "van_coilover_IFS": [
+        "van_coilover_IFS",
+        "van_coilover_IFS_lifted",
+        "van_coilover_IFS_heavy",
+        "van_coilover_IFS_sport",
+        "van_coilover_IFS_race",
+        "van_coilover_IFS_base"
+    ],
+    "van_suspension_R": [
+        "van_axle_R",
+        "van_axle_R_4link",
+        "van_axle_R_heavy"
+    ],
+    "van_differential_F": [
+        "van_differential_F_locking",
+        "van_differential_F_LSD",
+        "van_differential_F",
+        "van_differential_F_welded"
+    ],
+    "van_swaybar_F": [
+        "van_swaybar_F_sport",
+        "van_swaybar_F"
+    ],
+    "van_lettering_reardoor_L": [
+        "van_lettering_gavril_reardoor_L"
+    ],
+    "van_cargobox_reardoor_L": [
+        "van_cargobox_reardoor_L"
+    ],
+    "pickup_engine_i6_ecu": [
+        "pickup_engine_i6_ecu_late",
+        "pickup_engine_i6_ecu"
+    ],
+    "pickup_engine": [
+        "pickup_engine_i6_4.1",
+        "pickup_engine_v8_4.5",
+        "pickup_engine_v8_5.5",
+        "pickup_engine_v8_6.9",
+        "pickup_engine_v8_6.0_diesel"
+    ],
+    "pickup_suspension_F": [
+        "pickup_IFS",
+        "pickup_beamaxle_F",
+        "pickup_4link",
+        "pickup_SFA",
+        "pickup_IFS_offroad"
+    ],
+    "van_wheeldata_R": [
+        "van_wheeldata_R"
+    ],
+    "van_rollback_headboard": [
+        "van_rollback_headboard",
+        "van_rollback_headboard_short"
+    ],
+    "van_licenseplate_F_bullbar": [
+        "van_licenseplate_F_bullbar",
+        "van_licenseplate_F_bullbar_EU"
+    ],
+    "etk_engine": [
+        "etk_engine_i4_2.0_diesel",
+        "etk_engine_i4_2.0",
+        "etk_engine_i6_3.0_diesel",
+        "etk_engine_i6_3.0",
+        "etk_engine_v8_4.4_petrol"
+    ],
+    "etk_engine_i6_3.0_diesel_ecu": [
+        "etk_engine_i6_3.0_diesel_ecu_260",
+        "etk_engine_i6_3.0_diesel_ecu_310_stage1",
+        "etk_engine_i6_3.0_diesel_ecu_310"
+    ],
+    "van_shock_F": [
+        "van_shock_F_heavy",
+        "van_shock_F",
+        "van_shock_F_offroad",
+        "van_shock_F_medium"
+    ],
+    "van_fenderflare_FR": [
+        "van_fenderflare_FR",
+        "van_fenderflare_FR_kit",
+        "van_fenderflare_FR_alt"
+    ],
+    "van_sidedoorglass_RR": [
+        "van_sidedoorglass_RR"
+    ],
+    "pickup_engine_i6_internals": [
+        "pickup_engine_i6_internals"
+    ],
+    "pigeon_enginemounts": [
+        "pigeon_enginemounts",
+        "pigeon_enginemounts_heavy",
+        "pigeon_enginemounts_ultra"
+    ],
+    "van_licenseplate_R_late": [
+        "van_licenseplate_R_late",
+        "van_licenseplate_R_late_EU"
+    ],
+    "skin_van_cargobox": [
+        "van_cargobox_skin_truckitup",
+        "van_cargobox_skin_moving"
+    ],
+    "pickup_enginemounts": [
+        "pickup_enginemounts",
+        "pickup_enginemounts_ultra",
+        "pickup_enginemounts_heavy"
+    ],
+    "van_windshield": [
+        "van_windshield"
+    ],
+    "van_sidedoorglass_FR": [
+        "van_sidedoorglass_FR"
+    ],
+    "van_coilover_4link_F": [
+        "van_coilover_4link_F_lifted",
+        "van_coilover_4link_F",
+        "van_coilover_4link_F_heavy",
+        "van_coilover_4link_F_offroad"
+    ],
+    "van_transmission": [
+        "van_transmission_5M_diesel",
+        "van_transmission_5M",
+        "van_transmission_6A_Diesel",
+        "van_transmission_6A",
+        "van_transmission_4A"
+    ],
+    "pickup_engine_v8_6.9_ecu": [
+        "pickup_engine_v8_6.9_ecu_sport",
+        "pickup_engine_v8_6.9_ecu_race",
+        "pickup_engine_v8_6.9_ecu"
+    ],
+    "van_muffler": [
+        "van_muffler",
+        "van_sidepipes_v8",
+        "van_muffler_sport"
+    ],
+    "van_reardoorglass_R": [
+        "van_reardoorglass_R"
+    ],
+    "van_suspension_F": [
+        "van_IFS",
+        "van_beamaxle_F",
+        "van_4link",
+        "van_SFA",
+        "van_IFS_offroad"
+    ],
+    "van_doorglass_L": [
+        "van_doorglass_L"
+    ],
+    "van_police_laptop": [
+        "van_dash_laptop"
+    ],
+    "van_reardoor_R": [
+        "van_reardoor_R"
+    ],
+    "van_interior": [
+        "van_interior"
+    ],
+    "van_radiator": [
+        "van_radiator_heavy",
+        "van_radiator_race",
+        "van_radiator_ultra",
+        "van_radiator"
+    ],
+    "van_licenseplate_F": [
+        "van_licenseplate_F",
+        "van_licenseplate_F_EU"
+    ],
+    "van_steering_4link": [
+        "van_steering_4link"
+    ],
+    "van_ambulance_bumper_R": [
+        "van_ambulance_bumper_R"
+    ],
+    "van_ABS": [
+        "van_ABS"
+    ],
+    "van_body": [
+        "van_cab",
+        "van_body",
+        "van_body_sidedoor",
+        "van_body_passenger"
+    ],
+    "van_reardoorpanel_L": [
+        "van_reardoorpanel_L"
+    ],
+    "van_fenderflare_FL": [
+        "van_fenderflare_FL_alt",
+        "van_fenderflare_FL_kit",
+        "van_fenderflare_FL"
+    ],
+    "van_headlight_L": [
+        "van_headlight_L"
+    ],
+    "van_rollcage": [
+        "van_rollcage"
+    ],
+    "van_bumper_accessory_F_late": [
+        "van_bullbar_late_chrome",
+        "van_bullbar_late",
+        "van_pushbar_late",
+        "van_pushbar_late_chrome"
+    ],
+    "van_driveshaft_F": [
+        "van_driveshaft_F"
+    ],
+    "van_seat_2R": [
+        "van_seat_2R"
+    ],
+    "van_rollback_winch": [
+        "van_rollback_winch"
+    ],
+    "van_brake_R": [
+        "van_brake_R_offroad",
+        "van_brake_R_drum",
+        "van_brake_R_race",
+        "van_brake_R",
+        "van_brake_R_drum_heavy",
+        "van_brake_R_heavy"
+    ],
+    "van_pipes": [
+        "van_pipes"
+    ],
+    "van_runningboard_heavy": [
+        "van_runningboard_heavy"
+    ],
+    "van_seat_FR": [
+        "van_seat_FR",
+        "van_race_seat_FR"
+    ],
+    "van_exhaust_v8_diesel": [
+        "van_exhaust_v8_diesel"
+    ],
+    "van_bumpersignal_FR": [
+        "van_bumpersignal_FR"
+    ],
+    "van_ambulance_sidedoor": [
+        "van_ambulance_sidedoor"
+    ],
+    "van_steer": [
+        "van_steer_01a",
+        "van_steer_03a",
+        "van_steer_05a",
+        "van_steer_02a",
+        "van_steer_04a",
+        "van_steer_02b",
+        "van_steer_facelift",
+        "van_steer",
+        "van_steer_02c"
+    ],
+    "van_transfer_case": [
+        "van_transfer_case_4WD_race",
+        "van_transfer_case_4WD",
+        "van_transfer_case_RWD",
+        "van_transfer_case_4WD_offroad",
+        "van_transfer_case_AWD"
+    ],
+    "van_shock_R": [
+        "van_shock_R_sport",
+        "van_shock_R_medium",
+        "van_shock_R",
+        "van_shock_R_super",
+        "van_shock_R_heavy",
+        "van_shock_R_offroad"
+    ],
+    "van_sideglass_RR_ext": [
+        "van_sideglass_RR_ext"
+    ],
+    "van_cargobox_load_F": [
+        "van_cargobox_load_F_cargo_load_box_2XL",
+        "van_cargobox_load_F_cargo_load_box_4XL",
+        "van_cargobox_woodcrate_load_F",
+        "van_cargobox_woodplanks_load_F"
+    ],
+    "etk_engine_i6_3.0_petrol_ecu": [
+        "etk_engine_i6_3.0_petrol_ecu_360_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_460_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage3",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_340",
+        "etk_engine_i6_3.0_petrol_ecu_360_stage2",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport",
+        "etk_engine_i6_3.0_petrol_ecu_360",
+        "etk_engine_i6_3.0_petrol_ecu_300",
+        "etk_engine_i6_3.0_petrol_ecu_500_ttsport_stage1",
+        "etk_engine_i6_3.0_petrol_ecu_na_270",
+        "etk_engine_i6_3.0_petrol_ecu_440_ttsport"
+    ],
+    "van_taillight_R": [
+        "van_taillight_R"
+    ],
+    "van_licenseplate_R": [
+        "van_licenseplate_R",
+        "van_licenseplate_R_EU"
+    ],
+    "van_differential_R": [
+        "van_differential_R_welded",
+        "van_differential_R",
+        "van_differential_R_LSD",
+        "van_differential_R_heavy_LSD",
+        "van_differential_R_locking"
+    ],
+    "van_fueltank": [
+        "van_fueltank_diesel",
+        "van_fueltank"
+    ],
+    "van_fenderflare_RL_ext": [
+        "van_fenderflare_RL_ext_kit",
+        "van_fenderflare_RL_ext_alt",
+        "van_fenderflare_RL_ext"
+    ],
+    "van_intake_v8_diesel": [
+        "van_intake_v8_diesel_stage1",
+        "van_intake_v8_diesel_prefacelift",
+        "van_intake_v8_diesel_stage3",
+        "van_intake_v8_diesel",
+        "van_intake_v8_diesel_stage2",
+        "van_intake_v8_diesel_late"
+    ],
+    "van_steering_offroad": [
+        "van_steering_offroad"
+    ],
+    "van_bumper_F_accessory": [
+        "van_antenna_bumper_F"
+    ],
+    "van_licenseplate_R_alt_offroad": [
+        "van_licenseplate_R_alt_offroad",
+        "van_licenseplate_R_EU_alt_offroad"
+    ],
+    "van_sparetire_heavy": [
+        "van_sparetire_heavy"
+    ],
+    "van_doordetent_RR": [
+        "van_doordetent_RR"
+    ],
+    "etk_engine_i4_2.0_diesel_internals": [
+        "etk_engine_i4_2.0_diesel_internals_heavy",
+        "etk_engine_i4_2.0_diesel_internals"
+    ],
+    "van_sidedoorpanel_RR": [
+        "van_sidedoorpanel_RR"
+    ],
+    "van_rollback_toolboxes": [
+        "van_rollback_toolboxes"
+    ],
+    "van_foglight_kit_FR": [
+        "van_foglight_kit_FR"
+    ],
+    "van_rollcage_bedbars": [
+        "van_rollcage_bedbars"
+    ],
+    "van_driveshaft_R_ext": [
+        "van_driveshaft_R_ext"
+    ],
+    "van_mirror_R": [
+        "van_mirror_R",
+        "van_mirror_R_heavy"
+    ],
+    "van_headlight_R": [
+        "van_headlight_R"
+    ],
+    "van_halfshafts_F": [
+        "van_halfshafts_F"
+    ],
+    "van_muffler_ext": [
+        "van_muffler_ext",
+        "van_sidepipes_v8_ext",
+        "van_muffler_sport_ext"
+    ],
+    "van_headlight_L_high": [
+        "van_headlight_L_high"
+    ],
+    "van_runningboard": [
+        "van_runningboard_short",
+        "van_runningboard"
+    ],
+    "van_roof": [
+        "van_roof",
+        "van_roof_high"
+    ],
+    "van_sidedoorpanel_FR": [
+        "van_sidedoorpanel_FR"
+    ],
+    "van_fenderflare_RR_sidedoor_ext": [
+        "van_fenderflare_RR_sidedoor_ext",
+        "van_fenderflare_RR_sidedoor_ext_kit",
+        "van_fenderflare_RR_sidedoor_ext_alt"
+    ],
+    "van_headlight_L_late": [
+        "van_headlight_L_late_high",
+        "van_headlight_L_late"
+    ],
+    "etk_engine_i6_3.0_petrol_internals": [
+        "etk_engine_i6_3.0_petrol_internals",
+        "etk_engine_i6_3.0_petrol_internals_heavy",
+        "etk_engine_i6_3.0_petrol_internals_ttsport"
+    ],
+    "van_spring_F": [
+        "van_spring_F_lifted",
+        "van_spring_F_medium",
+        "van_spring_F_offroad",
+        "van_spring_F",
+        "van_spring_F_heavy"
+    ],
+    "van_foglight_kit_FL": [
+        "van_foglight_kit_FL"
+    ],
+    "van_seat_3R_ext": [
+        "van_seat_3R_ext_alt",
+        "van_seat_3R_ext"
+    ],
+    "van_bumpersignal_FL": [
+        "van_bumpersignal_FL"
+    ],
+    "van_differential_SFA": [
+        "van_differential_SFA_heavy_LSD",
+        "van_differential_SFA_LSD",
+        "van_differential_SFA_welded",
+        "van_differential_SFA",
+        "van_differential_SFA_locking"
+    ],
+    "van_police_radar": [
+        "van_police_radar"
+    ],
+    "pickup_suspension_R": [
+        "pickup_axle_R",
+        "pickup_axle_R_4link",
+        "pickup_axle_R_heavy"
+    ],
+    "van_licenseplate_R_ambulance": [
+        "van_licenseplate_R_ambulance_EU",
+        "van_licenseplate_R_ambulance"
+    ],
+    "van_wheeldata_F_heavy": [
+        "van_wheeldata_F_heavy"
+    ],
+    "van_sideglass_ML_ext": [
+        "van_sideglass_ML_ext"
+    ],
+    "etk_engine_i4_2.0_internals": [
+        "etk_engine_i4_2.0_internals_heavy",
+        "etk_engine_i4_2.0_internals"
+    ],
+    "van_licenseplate_F_kit": [
+        "van_licenseplate_F_kit",
+        "van_licenseplate_F_kit_EU"
+    ],
+    "van_headlight_R_high": [
+        "van_headlight_R_high"
+    ],
+    "van_signal_FL": [
+        "van_signal_FL"
+    ],
+    "van_sideglass_RL": [
+        "van_sideglass_RL"
+    ],
+    "van_taillightguard_R": [
+        "van_taillightguard_R_chrome",
+        "van_taillightguard_R"
+    ],
+    "van_rollback_deck": [
+        "van_rollback_deck"
+    ],
+    "van_valance_F": [
+        "van_valance_F",
+        "van_valance_F_late"
+    ],
+    "van_cargobox_reardoor_R": [
+        "van_cargobox_reardoor_R"
+    ],
+    "van_load": [
+        "van_couch",
+        "van_mattress",
+        "van_load_woodcrate",
+        "van_load_woodplanks_long",
+        "van_load_woodplanks",
+        "van_cargo_load_box_2XL",
+        "van_mattress_stack",
+        "van_load_logs_thin",
+        "van_load_logs_thick",
+        "van_load_logs_medium"
+    ],
+    "van_roof_ext": [
+        "van_roof_ext",
+        "van_roof_high_ext"
+    ],
+    "van_doorpanel_FL": [
+        "van_doorpanel_FL"
+    ],
+    "van_spring_R": [
+        "van_spring_R_sport",
+        "van_spring_R",
+        "van_spring_R_lifted",
+        "van_spring_R_medium",
+        "van_spring_R_ultra",
+        "van_spring_R_heavy",
+        "van_spring_R_super",
+        "van_spring_R_offroad"
+    ],
+    "pigeon_i4_transmission": [
+        "pigeon_i4_transmission_5M",
+        "pigeon_i4_transmission_5M_race"
+    ]
+}

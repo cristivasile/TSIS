@@ -1,0 +1,11 @@
+{
+    "vehicle": "covet",
+    "parts": {
+        "covet_engine": "covet_engine_dohc",
+        "covet_transmission": "covet_transmission_5M_sport",
+        "covet_coilover_F": "covet_coilover_F_sport",
+        "covet_coilover_R": "covet_coilover_R_sport",
+        "covet_brake_F": "covet_brake_F_sport",
+        "covet_brake_R": "covet_brake_R_sport"
+    }
+}
