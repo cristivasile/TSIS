@@ -1,7 +1,15 @@
 import json
-from beamngpy import BeamNGpy, Vehicle
 import modules.simulation as simulation
 import modules.config as config
+import subprocess
+
+# Automatically install `beamngpy` if not installed
+try:
+    from beamngpy import BeamNGpy, Vehicle
+except ImportError:
+    print("beamngpy is not installed. Installing it now...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "beamngpy"])
+    from beamngpy import BeamNGpy, Vehicle
 
 # Main simulation function
 def main(beamng_path):
