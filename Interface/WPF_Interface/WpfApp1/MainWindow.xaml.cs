@@ -117,7 +117,7 @@ namespace WpfApp1
             var vehicleConfig = new
             {
                 vehicle = selectedVehicle,
-                parts = parts
+                parts
             };
 
             // Write JSON to file
@@ -125,7 +125,7 @@ namespace WpfApp1
             File.WriteAllText(@"..\..\..\..\..\..\beamng.tech integration\vehicle_config.json", jsonOutput);
 
             // Optional: Display a confirmation
-            MessageBox.Show("Configuration saved to vehicle_config.json");
+            MessageBox.Show("BeamNG will run shortly...");
 
             // Run Python script
             RunPythonScript();
@@ -137,13 +137,49 @@ namespace WpfApp1
             string selectedVehicle = ComboBoxVehicleType.SelectedItem?.ToString();
             if (selectedVehicle == null || !configurations.ContainsKey(selectedVehicle)) return;
 
-            List<string> vehicles = new List<string>();
+            // Enable relevant inputs
+            EnableInputs(selectedVehicle);
 
             // Retrieve the configuration for the selected vehicle
             var vehicleConfig = configurations[selectedVehicle].config;
 
+            // Populate combo boxes
             FillComboBoxes(vehicleConfig, selectedVehicle);
+
+            // Automatically select the first value for each combo box
+            AutoSelectFirstValue(selectedVehicle);
         }
+
+        private void EnableInputs(string selectedVehicle)
+        {
+            ComboBoxEngine.IsEnabled = true;
+            ComboBoxStrut.IsEnabled = true;
+            ComboBoxShock.IsEnabled = true;
+            ComboBoxBreakF.IsEnabled = true;
+            ComboBoxBreakR.IsEnabled = true;
+
+            // Disable transmission for bolide
+            ComboBoxTransmission.IsEnabled = selectedVehicle != "bolide";
+        }
+
+        private void AutoSelectFirstValue(string selectedVehicle)
+        {
+            ComboBoxEngine.SelectedIndex = 0;
+            ComboBoxStrut.SelectedIndex = 0;
+            ComboBoxShock.SelectedIndex = 0;
+            ComboBoxBreakF.SelectedIndex = 0;
+            ComboBoxBreakR.SelectedIndex = 0;
+
+            if (selectedVehicle != "bolide")
+            {
+                ComboBoxTransmission.SelectedIndex = 0;
+            }
+            else
+            {
+                ComboBoxTransmission.SelectedIndex = -1;
+            }
+        }
+
 
         private void FillComboBoxes(dynamic vehicleConfig, string selectedVehicle)
         {
@@ -189,7 +225,6 @@ namespace WpfApp1
                     break;
                 case "bolide":
                     ComboBoxEngine.ItemsSource = vehicleConfig["bolide_engine"].ToObject<List<string>>();
-                    ComboBoxTransmission.ItemsSource = vehicleConfig["bolide_coilover_F"].ToObject<List<string>>();
                     ComboBoxStrut.ItemsSource = vehicleConfig["bolide_coilover_F"].ToObject<List<string>>();
                     ComboBoxShock.ItemsSource = vehicleConfig["bolide_coilover_R"].ToObject<List<string>>();
                     ComboBoxBreakF.ItemsSource = vehicleConfig["bolide_brake_F"].ToObject<List<string>>();
