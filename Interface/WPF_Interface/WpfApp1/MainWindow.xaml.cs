@@ -16,7 +16,15 @@ namespace WpfApp1
         public MainWindow()
         {
             // Check if the Python script exists
-            string scriptPath = @".\beamng_track_simulator.py";
+            if (!Directory.Exists(@"D:\BeamNG.tech.v0.33.3.0"))
+            {
+                MessageBox.Show($"Beamng.tech not installed at the expected path!",
+                                    "Missing File", MessageBoxButton.OK, MessageBoxImage.Error);
+                Application.Current.Shutdown(); // Stop the program
+                return;
+            }
+
+            string scriptPath = @"..\beamng_track_simulator.py";
             if (!File.Exists(scriptPath))
             {
                 MessageBox.Show($"The required file '{Path.GetFileName(scriptPath)}' was not found in the current folder!",
@@ -132,7 +140,7 @@ namespace WpfApp1
 
             // Write JSON to file
             string jsonOutput = JsonConvert.SerializeObject(vehicleConfig, Formatting.Indented);
-            File.WriteAllText(@".\vehicle_config.json", jsonOutput);
+            File.WriteAllText(@"..\vehicle_config.json", jsonOutput);
 
             // Optional: Display a confirmation
             MessageBox.Show("BeamNG will run shortly...");
@@ -247,7 +255,7 @@ namespace WpfApp1
 
         private static void RunPythonScript()
         {
-            string scriptPath = @".\beamng_track_simulator.py";
+            string scriptPath = @"..\beamng_track_simulator.py";
             var psi = new System.Diagnostics.ProcessStartInfo
             {
                 FileName = "python",
