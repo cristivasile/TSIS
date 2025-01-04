@@ -1,3 +1,4 @@
+import os
 import json
 import modules.simulation as simulation
 import modules.config as config
@@ -20,12 +21,18 @@ def main(beamng_path):
         vehicle_config_path (str): Path to the JSON file containing vehicle and parts configuration.
         beamng_path (str): Path to the BeamNG installation.
     """
+    # Get the directory of the current script
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Construct the full path to the JSON configuration file
+    json_path = os.path.join(script_dir, "vehicle_config.json")
+    
     # Load the vehicle configuration from the JSON file
-    with open("vehicle_config.json", 'r') as file:
+    with open(json_path, 'r') as file:
         input_config = json.load(file)
 
     # Validate the configuration and handle defaults
-    vehicle_name, vehicle_parts = config.validate_and_adjust_configuration(input_config)
+    vehicle_name, vehicle_parts = config.validate_and_adjust_configuration(input_config, script_dir)
 
     # Initialize BeamNGpy instance with the provided BeamNG path
     beamng_runtime = BeamNGpy('localhost', 64256, home=beamng_path)

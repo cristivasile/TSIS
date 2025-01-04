@@ -1,18 +1,20 @@
+import os
 import json
 
 # Load configurations from JSON files
-def load_configurations():
-    with open('json/configurations.json', 'r') as config_file:
+def load_configurations(script_dir):    
+    json_dir = os.path.join(script_dir, "json")
+    with open(os.path.join(json_dir, "configurations.json"), 'r') as config_file:
         configurations = json.load(config_file)
-    with open('json/internal_configurations.json', 'r') as internal_config_file:
+    with open(os.path.join(json_dir, "internal_configurations.json"), 'r') as internal_config_file:
         internal_configurations = json.load(internal_config_file)
     return configurations, internal_configurations
 
 
 # Validate the input JSON configuration and set defaults
-def validate_and_adjust_configuration(input_config):
+def validate_and_adjust_configuration(input_config, script_dir):
     # Load configurations
-    configurations, internal_configurations = load_configurations()
+    configurations, internal_configurations = load_configurations(script_dir)
     available_parts = {}
     
     vehicle_name = input_config.get("vehicle", "etk800")
