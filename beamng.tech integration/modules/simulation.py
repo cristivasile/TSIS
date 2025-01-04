@@ -28,7 +28,7 @@ def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
     beamng.scenario.start()
 
     # dump parts to files
-    dump_parts_config(vehicle, vehicle_name)
+    # dump_parts_config(vehicle, vehicle_name)
 
     configuration = vehicle.get_part_config()
     
