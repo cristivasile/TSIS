@@ -1,0 +1,60 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="BeamNG Configuration" Height="380" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="10,10,10,10">
+                    <TextBlock Margin="0 15 0 10" Text="Vehicle Type"/>
+                    <TextBlock Margin="0 5 0 10" Text="Engine Type"/>
+                    <TextBlock Margin="0 5 0 10" Text="Transmission Type"/>
+                    <TextBlock Margin="0 5 0 10" Text="Strut Type"/>
+                    <TextBlock Margin="0 5 0 10" Text="Shock Type"/>
+                    <TextBlock Margin="0 5 0 10" Text="Front Break Type"/>
+                    <TextBlock Margin="0 5 0 10" Text="Rear Break Type"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Margin="11,10,11,10">
+                    <!-- Vehicle Type ComboBox -->
+                    <ComboBox x:Name="ComboBoxVehicleType" Width="200" Margin="0,10,0,0" 
+                      SelectionChanged="ComboBoxVehicleType_SelectionChanged"/>
+
+                    <!-- Engine ComboBox -->
+                    <ComboBox x:Name="ComboBoxEngine" Width="200" Margin="0,10,0,0"  />
+
+                    <!-- Transmission ComboBox -->
+                    <ComboBox x:Name="ComboBoxTransmission" Width="200" Margin="0,10,0,0"  />
+
+                    <!-- Strut F ComboBox -->
+                    <ComboBox x:Name="ComboBoxStrut" Width="200" Margin="0,10,0,0" />
+
+                    <!-- Shock R ComboBox -->
+                    <ComboBox x:Name="ComboBoxShock" Width="200" Margin="0,10,0,0" />
+
+                    <!-- Break ComboBoxes -->
+                    <ComboBox x:Name="ComboBoxBreakF" Width="200" Margin="0,10,0,0" />
+                    <ComboBox x:Name="ComboBoxBreakR" Width="200" Margin="0,10,0,0" />
+
+                </StackPanel>
+            </Grid>
+
+
+            <!-- Submit Button -->
+            <Button x:Name="SubmitButton" Content="Submit" Width="100" Margin="0,20,0,0" Click="SubmitButton_Click" />
+
+            <!-- Output Display -->
+            <!--<TextBox x:Name="OutputTextBox" Width="250" Height="50" Margin="0,50,0,0" 
+                     TextWrapping="Wrap" IsReadOnly="True" /> -->
+        </StackPanel>
+    </Grid>
+</Window>
