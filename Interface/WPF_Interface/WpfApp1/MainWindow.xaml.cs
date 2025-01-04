@@ -122,7 +122,7 @@ namespace WpfApp1
 
             // Write JSON to file
             string jsonOutput = JsonConvert.SerializeObject(vehicleConfig, Formatting.Indented);
-            File.WriteAllText(@"..\..\..\..\..\..\beamng.tech integration\vehicle_config.json", jsonOutput);
+            File.WriteAllText(@".\vehicle_config.json", jsonOutput);
 
             // Optional: Display a confirmation
             MessageBox.Show("BeamNG will run shortly...");
@@ -237,7 +237,7 @@ namespace WpfApp1
 
         private static void RunPythonScript()
         {
-            string scriptPath = @"..\..\..\..\..\..\beamng.tech integration\beamng_track_simulator.py";
+            string scriptPath = @".\beamng_track_simulator.py";
             var psi = new System.Diagnostics.ProcessStartInfo
             {
                 FileName = "python",
