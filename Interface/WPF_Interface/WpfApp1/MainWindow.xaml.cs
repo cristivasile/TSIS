@@ -200,7 +200,7 @@ namespace WpfApp1
             }
         }
 
-        private void RunPythonScript()
+        private static void RunPythonScript()
         {
             string scriptPath = @"..\..\..\..\..\..\beamng.tech integration\beamng_track_simulator.py";
             var psi = new System.Diagnostics.ProcessStartInfo
@@ -223,13 +223,14 @@ namespace WpfApp1
                 process.WaitForExit();
 
                 // Display output or errors
-                if (!string.IsNullOrEmpty(error))
+                if (!output.Contains("Total Time to Complete Track:"))
                 {
                     MessageBox.Show($"Error: {error}", "Script Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
                 else
                 {
-                    MessageBox.Show(output, "Script Output", MessageBoxButton.OK, MessageBoxImage.Information);
+                    var time = output.Split("Total Time to Complete Track:")[1].Trim();
+                    MessageBox.Show($"The car completed the track in {time}", "Test ran", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
             }
             catch (Exception ex)
