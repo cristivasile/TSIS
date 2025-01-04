@@ -15,6 +15,16 @@ namespace WpfApp1
         public readonly dynamic configurations = JsonConvert.DeserializeObject(ConfigurationConstants.ConfigurationString);
         public MainWindow()
         {
+            // Check if the Python script exists
+            string scriptPath = @".\beamng_track_simulator.py";
+            if (!File.Exists(scriptPath))
+            {
+                MessageBox.Show($"The required file '{Path.GetFileName(scriptPath)}' was not found in the current folder!",
+                                "Missing File", MessageBoxButton.OK, MessageBoxImage.Error);
+                Application.Current.Shutdown(); // Stop the program
+                return;
+            }
+
             InitializeComponent();
             ComboBoxVehicleType.ItemsSource = configurations.ToObject<Dictionary<string, object>>().Keys;
         }
