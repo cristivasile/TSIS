@@ -3,58 +3,69 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfApp1"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="BeamNG Configuration" Height="380" Width="400">
+        Title="BeamNG Configuration Live Test Tool" Height="580" Width="400"
+        Background="#F5F5F5">
+    <!-- Light grey background -->
     <Grid>
         <StackPanel Margin="10">
+            <!-- New Label -->
+            <TextBlock Text="Select a vehicle configuration and press run" 
+                       FontSize="16" 
+                       FontWeight="Bold" 
+                       Margin="0,0,0,10" 
+                       HorizontalAlignment="Center" 
+                       Foreground="Gray" />
+
             <Grid>
                 <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="1*"/>
-                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="3*"/>
                 </Grid.ColumnDefinitions>
 
-                <StackPanel Grid.Column="0" Margin="10,10,10,10">
-                    <TextBlock Margin="0 15 0 10" Text="Vehicle Type"/>
-                    <TextBlock Margin="0 5 0 10" Text="Engine Type"/>
-                    <TextBlock Margin="0 5 0 10" Text="Transmission Type"/>
-                    <TextBlock Margin="0 5 0 10" Text="Strut Type"/>
-                    <TextBlock Margin="0 5 0 10" Text="Shock Type"/>
-                    <TextBlock Margin="0 5 0 10" Text="Front Break Type"/>
-                    <TextBlock Margin="0 5 0 10" Text="Rear Break Type"/>
-                </StackPanel>
-
                 <StackPanel Grid.Column="1" Margin="11,10,11,10">
-                    <!-- Vehicle Type ComboBox -->
-                    <ComboBox x:Name="ComboBoxVehicleType" Width="200" Margin="0,10,0,0" 
-                      SelectionChanged="ComboBoxVehicleType_SelectionChanged"/>
+                    <ComboBox x:Name="ComboBoxVehicleType" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a vehicle"
+                      Style="{StaticResource MaterialDesignFilledComboBox}"
+                      SelectionChanged="ComboBoxVehicleType_SelectionChanged" />
 
-                    <!-- Engine ComboBox -->
-                    <ComboBox x:Name="ComboBoxEngine" Width="200" Margin="0,10,0,0"  />
+                    <ComboBox x:Name="ComboBoxEngine" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select an engine"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
 
-                    <!-- Transmission ComboBox -->
-                    <ComboBox x:Name="ComboBoxTransmission" Width="200" Margin="0,10,0,0"  />
+                    <ComboBox x:Name="ComboBoxTransmission" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a transmission"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
 
-                    <!-- Strut F ComboBox -->
-                    <ComboBox x:Name="ComboBoxStrut" Width="200" Margin="0,10,0,0" />
+                    <ComboBox x:Name="ComboBoxStrut" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
 
-                    <!-- Shock R ComboBox -->
-                    <ComboBox x:Name="ComboBoxShock" Width="200" Margin="0,10,0,0" />
+                    <ComboBox x:Name="ComboBoxShock" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
 
-                    <!-- Break ComboBoxes -->
-                    <ComboBox x:Name="ComboBoxBreakF" Width="200" Margin="0,10,0,0" />
-                    <ComboBox x:Name="ComboBoxBreakR" Width="200" Margin="0,10,0,0" />
+                    <ComboBox x:Name="ComboBoxBreakF" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                    <ComboBox x:Name="ComboBoxBreakR" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox }" 
+                      IsEnabled="False" />
 
                 </StackPanel>
             </Grid>
 
-
             <!-- Submit Button -->
-            <Button x:Name="SubmitButton" Content="Submit" Width="100" Margin="0,20,0,0" Click="SubmitButton_Click" />
-
-            <!-- Output Display -->
-            <!--<TextBox x:Name="OutputTextBox" Width="250" Height="50" Margin="0,50,0,0" 
-                     TextWrapping="Wrap" IsReadOnly="True" /> -->
+            <Button x:Name="SubmitButton" Content="Run" Width="100" Margin="0,20,0,0" 
+                    Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
+                    Click="SubmitButton_Click" />
         </StackPanel>
     </Grid>
 </Window>

@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexc\\source\\repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj": {}
+    "D:\\Toolbars\\Facultate\\Repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexc\\source\\repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj": {
+    "D:\\Toolbars\\Facultate\\Repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexc\\source\\repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj",
+        "projectUniqueName": "D:\\Toolbars\\Facultate\\Repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj",
         "projectName": "Wpf_Interface",
-        "projectPath": "C:\\Users\\alexc\\source\\repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj",
-        "packagesPath": "C:\\Users\\alexc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexc\\source\\repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\obj\\",
+        "projectPath": "D:\\Toolbars\\Facultate\\Repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj",
+        "packagesPath": "C:\\Users\\Cristi\\.nuget\\packages\\",
+        "outputPath": "D:\\Toolbars\\Facultate\\Repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alexc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cristi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0-windows7.0"
+          "net7.0-windows10.0.22621.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0-windows7.0": {
-            "targetAlias": "net8.0-windows7.0",
+          "net7.0-windows10.0.22621": {
+            "targetAlias": "net7.0-windows10.0.22621.0",
             "projectReferences": {}
           }
         },
@@ -38,18 +38,20 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
-        "net8.0-windows7.0": {
-          "targetAlias": "net8.0-windows7.0",
+        "net7.0-windows10.0.22621": {
+          "targetAlias": "net7.0-windows10.0.22621.0",
           "dependencies": {
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -70,15 +72,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.22621.28, 10.0.22621.28]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
               "privateAssets": "all"
             },
             "Microsoft.WindowsDesktop.App.WPF": {
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
