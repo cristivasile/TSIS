@@ -107,7 +107,7 @@ namespace WpfApp1
             else if (selectedVehicle == "bolide")
             {
                 parts.Add("bolide_engine", ComboBoxEngine.SelectedItem?.ToString());
-                parts.Add("bolide_coilover_F", ComboBoxTransmission.SelectedItem?.ToString());
+                parts.Add("bolide_coilover_F", ComboBoxStrut.SelectedItem?.ToString());
                 parts.Add("bolide_coilover_R", ComboBoxShock.SelectedItem?.ToString());
                 parts.Add("bolide_brake_F", ComboBoxBreakF.SelectedItem?.ToString());
                 parts.Add("bolide_brake_R", ComboBoxBreakR.SelectedItem?.ToString());
