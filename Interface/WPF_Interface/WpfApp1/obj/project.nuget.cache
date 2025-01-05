@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UhJYt/FeiUc=",
+  "dgSpecHash": "UsxOppigtC4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexc\\source\\repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj",
+  "projectFilePath": "C:\\Users\\alexc\\Source\\Repos\\TSIS\\Interface\\WPF_Interface\\WpfApp1\\Wpf_Interface.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexc\\.nuget\\packages\\materialdesigncolors\\5.2.0\\materialdesigncolors.5.2.0.nupkg.sha512",
     "C:\\Users\\alexc\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",

@@ -27,22 +27,22 @@ namespace Wpf_Interface
         public CompareConfigsWindow()
         {
             // Check if the Python script exists
-            if (!Directory.Exists(@"D:\BeamNG.tech.v0.33.3.0"))
-            {
-                MessageBox.Show($"Beamng.tech not installed at the expected path!",
-                                    "Missing File", MessageBoxButton.OK, MessageBoxImage.Error);
-                Application.Current.Shutdown(); // Stop the program
-                return;
-            }
+            //if (!Directory.Exists(@"D:\BeamNG.tech.v0.33.3.0"))
+            //{
+            //    MessageBox.Show($"Beamng.tech not installed at the expected path!",
+            //                        "Missing File", MessageBoxButton.OK, MessageBoxImage.Error);
+            //    Application.Current.Shutdown(); // Stop the program
+            //    return;
+            //}
 
-            string scriptPath = @"..\beamng_track_simulator.py";
-            if (!File.Exists(scriptPath))
-            {
-                MessageBox.Show($"The required file '{Path.GetFileName(scriptPath)}' was not found in the current folder!",
-                                "Missing File", MessageBoxButton.OK, MessageBoxImage.Error);
-                Application.Current.Shutdown(); // Stop the program
-                return;
-            }
+            //string scriptPath = @"..\beamng_track_simulator.py";
+            //if (!File.Exists(scriptPath))
+            //{
+            //    MessageBox.Show($"The required file '{Path.GetFileName(scriptPath)}' was not found in the current folder!",
+            //                    "Missing File", MessageBoxButton.OK, MessageBoxImage.Error);
+            //    Application.Current.Shutdown(); // Stop the program
+            //    return;
+            //}
 
             InitializeComponent();
             ComboBoxVehicleType1.ItemsSource = configurations.ToObject<Dictionary<string, object>>().Keys;
@@ -450,7 +450,7 @@ namespace Wpf_Interface
                     case "etk800":
                         ComboBoxEngine2.ItemsSource = vehicleConfig["etk_engine"].ToObject<List<string>>();
                         ComboBoxTransmission2.ItemsSource = vehicleConfig["etk_transmission"].ToObject<List<string>>();
-                        ComboBoxStrut1.ItemsSource =
+                        ComboBoxStrut2.ItemsSource =
                             ((IEnumerable<string>)vehicleConfig["etk800_strut_F"].ToObject<List<string>>())
                             .Concat((IEnumerable<string>)vehicleConfig["etk800_strut_F_wide"].ToObject<List<string>>())
                             .ToList();  //I'm sorry for this
