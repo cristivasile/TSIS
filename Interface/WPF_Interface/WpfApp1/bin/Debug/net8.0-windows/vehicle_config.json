@@ -1,8 +1,0 @@
-{
-  "vehicle": "etk800",
-  "parts": {
-    "etk_engine": "etk_engine_i4_2.0_diesel",
-    "etk_transmission": "etk_transmission_8A",
-    "etk800_strut_F_wide": "etk800_strut_F_wide_tt"
-  }
-}

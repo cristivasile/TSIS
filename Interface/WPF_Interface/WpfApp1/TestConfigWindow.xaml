@@ -1,0 +1,79 @@
+﻿<Window x:Class="Wpf_Interface.TestConfigWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="BeamNG Configuration Live Test Tool" Height="620" Width="400"
+        ResizeMode="NoResize"
+        Background="#F5F5F5">
+    <!-- Light grey background -->
+    <Grid>
+        <StackPanel Margin="10">
+            <!-- New Label -->
+            <TextBlock Text="Select a vehicle configuration and press run" 
+                       FontSize="16" 
+                       FontWeight="Bold" 
+                       Margin="0,0,0,10" 
+                       HorizontalAlignment="Center" 
+                       Foreground="Gray" />
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="1" Margin="11,10,11,10">
+                    <ComboBox x:Name="ComboBoxVehicleType" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a vehicle"
+                      Style="{StaticResource MaterialDesignFilledComboBox}"
+                      SelectionChanged="ComboBoxVehicleType_SelectionChanged" />
+
+                    <ComboBox x:Name="ComboBoxEngine" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select an engine"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                    <ComboBox x:Name="ComboBoxTransmission" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a transmission"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                    <ComboBox x:Name="ComboBoxStrut" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                    <ComboBox x:Name="ComboBoxShock" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                    <ComboBox x:Name="ComboBoxBreakF" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                    <ComboBox x:Name="ComboBoxBreakR" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox }" 
+                      IsEnabled="False" />
+
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock x:Name="ResultTextBox" d:Text="I am text" HorizontalAlignment="Center"/>
+            </StackPanel>
+
+            <!-- Submit Button -->
+            <Button x:Name="SubmitButton" Content="Run" Width="100" Margin="0,20,0,0" 
+                    Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
+                    Click="SubmitButton_Click" />
+            <Button x:Name="BackButton" Content="Back" Width="100" Margin="0,20,0,0" 
+                    Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
+                    HorizontalAlignment="Center" Click="BackButton_Click" />
+        </StackPanel>
+    </Grid>
+</Window>

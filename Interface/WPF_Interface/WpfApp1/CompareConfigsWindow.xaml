@@ -1,0 +1,131 @@
+﻿<Window x:Class="Wpf_Interface.CompareConfigsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="BeamNG Configuration Comparison Tool" Height="660" Width="700"
+        Background="#F5F5F5">
+    <!-- Light grey background -->
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Compare two vehicle configurations" 
+                       FontSize="16" 
+                       FontWeight="Bold" 
+                       Margin="20,0,0,10" 
+                       HorizontalAlignment="Center" 
+                       Foreground="Gray" />
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.Column="0" Margin="10">
+                    <!-- Configuration Section for Vehicle 1 -->
+                    <TextBlock Text="Vehicle 1 Configuration" FontWeight="Bold" Margin="20,10,0,5" />
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="11,10,11,10">
+                            <ComboBox x:Name="ComboBoxVehicleType1" Width="300" Margin="0,10,0,0" 
+                                      materialDesign:HintAssist.Hint="Select a vehicle"
+                                      Style="{StaticResource MaterialDesignFilledComboBox}"
+                                      SelectionChanged="ComboBoxVehicleType1_SelectionChanged"/>
+
+                            <ComboBox x:Name="ComboBoxEngine1" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select an engine"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxTransmission1" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a transmission"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxStrut1" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxShock1" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxBreakF1" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxBreakR1" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+                <StackPanel Grid.Column="1">
+                    <!-- Configuration Section for Vehicle 2 -->
+                    <TextBlock Text="Vehicle 2 Configuration" FontWeight="Bold" Margin="35,20,0,5" />
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <StackPanel Grid.Column="0" Margin="11,10,11,10">
+                            <ComboBox x:Name="ComboBoxVehicleType2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a vehicle"
+                      Style="{StaticResource MaterialDesignFilledComboBox}"
+                                      SelectionChanged="ComboBoxVehicleType2_SelectionChanged"/>
+
+                            <ComboBox x:Name="ComboBoxEngine2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select an engine"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxTransmission2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select a transmission"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxStrut2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxShock2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear suspension"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxBreakF2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the front brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+
+                            <ComboBox x:Name="ComboBoxBreakR2" Width="300" Margin="0,10,0,0" 
+                      materialDesign:HintAssist.Hint="Select the rear brakes"
+                      Style="{StaticResource MaterialDesignFilledComboBox}" 
+                      IsEnabled="False" />
+                        </StackPanel>
+                    </Grid>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock x:Name="ResultTextBox" d:Text="I am text" HorizontalAlignment="Center"/>
+            </StackPanel>
+            
+            <!-- Compare Button -->
+            <Button x:Name="CompareButton" Content="Compare" Width="150" Margin="0,20,0,0" 
+                    Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
+                    HorizontalAlignment="Center" Click="CompareButton_Click" />
+            <Button x:Name="BackButton" Content="Back" Width="150" Margin="0,20,0,0" 
+                    Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
+                    HorizontalAlignment="Center" Click="BackButton_Click" />
+        </StackPanel>
+</Grid>
+</Window>
