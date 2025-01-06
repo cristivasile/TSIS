@@ -1,8 +1,0 @@
-{
-  "vehicle": "etk800",
-  "parts": {
-    "etk_engine": "van_engine_i6_4.1",
-    "etk_transmission": "van_transmission_4A",
-    "etk800_strut_F_wide": "van_IFS"
-  }
-}
