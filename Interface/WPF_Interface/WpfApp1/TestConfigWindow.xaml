@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="BeamNG Configuration Live Test Tool" Height="600" Width="400"
+        Title="BeamNG Configuration Live Test Tool" Height="620" Width="400"
+        ResizeMode="NoResize"
         Background="#F5F5F5">
     <!-- Light grey background -->
     <Grid>
@@ -61,6 +62,10 @@
 
                 </StackPanel>
             </Grid>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock x:Name="ResultTextBox" d:Text="I am text" HorizontalAlignment="Center"/>
+            </StackPanel>
 
             <!-- Submit Button -->
             <Button x:Name="SubmitButton" Content="Run" Width="100" Margin="0,20,0,0" 

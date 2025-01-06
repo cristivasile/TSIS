@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="BeamNG Configuration Comparison Tool" Height="650" Width="700"
+        Title="BeamNG Configuration Comparison Tool" Height="660" Width="700"
         Background="#F5F5F5">
     <!-- Light grey background -->
     <Grid>
@@ -114,6 +114,11 @@
                     </Grid>
                 </StackPanel>
             </Grid>
+
+            <StackPanel Orientation="Vertical">
+                <TextBlock x:Name="ResultTextBox" d:Text="I am text" HorizontalAlignment="Center"/>
+            </StackPanel>
+            
             <!-- Compare Button -->
             <Button x:Name="CompareButton" Content="Compare" Width="150" Margin="0,20,0,0" 
                     Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"

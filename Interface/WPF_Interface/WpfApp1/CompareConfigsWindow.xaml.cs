@@ -59,16 +59,18 @@ namespace Wpf_Interface
         private void CompareButton_Click(object sender, RoutedEventArgs e)
         {
             // Get selected vehicle type
-            string selectedVehicle = ComboBoxVehicleType1.SelectedItem?.ToString();
-            if (selectedVehicle == null)
+            if (ComboBoxVehicleType1.SelectedItem?.ToString() == null ||
+                ComboBoxVehicleType2.SelectedItem?.ToString() == null)
             {
-                MessageBox.Show("Please select a vehicle type.");
+                MessageBox.Show("Please select both vehicle types.");
                 return;
             }
+
 
             // Build parts dictionary dynamically
             var parts = new Dictionary<string, string>();
 
+            string selectedVehicle = ComboBoxVehicleType1.SelectedItem?.ToString();
             // Add parts based on the selected vehicle
             if (selectedVehicle == "etk800")
             {
@@ -167,22 +169,12 @@ namespace Wpf_Interface
             // Run Python script
             var time1 = RunPythonScript();
 
-
-
-
-
-
-            // Get selected vehicle type
-            selectedVehicle = ComboBoxVehicleType2.SelectedItem?.ToString();
-            if (selectedVehicle == null)
-            {
-                MessageBox.Show("Please select a vehicle type.");
-                return;
-            }
+            // ------------------------------ Second run -----------------------------------------
 
             // Build parts dictionary dynamically
             parts = new Dictionary<string, string>();
 
+            selectedVehicle = ComboBoxVehicleType2.SelectedItem?.ToString();
             // Add parts based on the selected vehicle
             if (selectedVehicle == "etk800")
             {
@@ -275,14 +267,10 @@ namespace Wpf_Interface
             jsonOutput = JsonConvert.SerializeObject(vehicleConfig, Formatting.Indented);
             File.WriteAllText(@"..\vehicle_config.json", jsonOutput);
 
-            // Optional: Display a confirmation
-            MessageBox.Show("BeamNG will run shortly...");
-
             // Run Python script
             var time2 = RunPythonScript();
 
-            MessageBox.Show($"Total Time to Complete Track for first Vehicle: {time1}\n" +
-                $"Total Time to Complete Track for second Vehicle: {time2}");
+            ResultTextBox.Text = $"First vehicle time: {time1} | Second vehicle time: {time2}";
         }
 
         private void ComboBoxVehicleType1_SelectionChanged(object sender, SelectionChangedEventArgs e)

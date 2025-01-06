@@ -260,7 +260,7 @@ namespace Wpf_Interface
             this.Close();
         }
 
-        private static void RunPythonScript()
+        private void RunPythonScript()
         {
             string scriptPath = @"..\beamng_track_simulator.py";
             var psi = new System.Diagnostics.ProcessStartInfo
@@ -290,7 +290,7 @@ namespace Wpf_Interface
                 else
                 {
                     var time = output.Split("Total Time to Complete Track:")[1].Trim();
-                    MessageBox.Show($"The car completed the track in {time}", "Test ran", MessageBoxButton.OK, MessageBoxImage.Information);
+                    ResultTextBox.Text = $"The car completed the track in {time}";
                 }
             }
             catch (Exception ex)
