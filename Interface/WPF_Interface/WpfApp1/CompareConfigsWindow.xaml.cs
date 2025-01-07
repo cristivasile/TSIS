@@ -58,6 +58,9 @@ namespace Wpf_Interface
 
         private void CompareButton_Click(object sender, RoutedEventArgs e)
         {
+            ResultTextBox.Text = "";
+            ViewButton.IsEnabled = false;
+
             // Get selected vehicle type
             if (ComboBoxVehicleType1.SelectedItem?.ToString() == null ||
                 ComboBoxVehicleType2.SelectedItem?.ToString() == null)
@@ -169,6 +172,11 @@ namespace Wpf_Interface
             // Run Python script
             var time1 = RunPythonScript();
 
+            if (time1 == "")
+            {
+                return;
+            }
+
             // ------------------------------ Second run -----------------------------------------
 
             // Build parts dictionary dynamically
@@ -270,7 +278,13 @@ namespace Wpf_Interface
             // Run Python script
             var time2 = RunPythonScript();
 
+            if (time2 == "")
+            {
+                return;
+            }
+
             ResultTextBox.Text = $"First vehicle time: {time1} | Second vehicle time: {time2}";
+            ViewButton.IsEnabled = true;
         }
 
         private void ComboBoxVehicleType1_SelectionChanged(object sender, SelectionChangedEventArgs e)
