@@ -4,16 +4,6 @@ import time, modules.track as track
 import matplotlib.pyplot as plt
 import os
 
-def find_tsis_folder():
-    current_dir = os.path.abspath(os.path.dirname(__file__))
-    while True:
-        if os.path.basename(current_dir) == "TSIS":
-            return current_dir
-        parent_dir = os.path.dirname(current_dir)
-        if parent_dir == current_dir:  # Reached the root of the filesystem
-            raise FileNotFoundError("TSIS folder not found in the parent directories.")
-        current_dir = parent_dir
-
 def save_plot_with_incremental_name(folder, base_name):
     # Ensure the folder exists
     if not os.path.exists(folder):
@@ -28,7 +18,10 @@ def save_plot_with_incremental_name(folder, base_name):
     filename = os.path.join(folder, f"{base_name}_{next_increment}.png")
     return filename
 
-def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
+def start_scenario(beamng, 
+                   vehicle, 
+                   vehicle_name, # this is used in the commented dump_parts function 
+                   vehicle_parts):
 
     # Launch BeamNG.tech
     beamng.open()
@@ -73,7 +66,7 @@ def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
     vehicle.ai_set_mode('span')  # Let AI follow the road
     vehicle.ai_set_aggression(1)
 
-def run_scenario(vehicle, timeout=120):
+def run_scenario(vehicle, script_dir, timeout=120):
     start_line = track.track[0][:2]  # Extract the (x, y, z) coordinates of the start line
 
     # Variables to track timing
@@ -128,9 +121,7 @@ def run_scenario(vehicle, timeout=120):
 
         time.sleep(0.01)  # Pause to avoid excessive polling
 
-    # Folder path for saving plots (TSIS/plots)
-    tsis_folder = find_tsis_folder()
-    plot_folder = os.path.join(tsis_folder, "plots")
+    plot_folder = os.path.join(script_dir, "plots")
 
     # Speed plot
     plt.figure()

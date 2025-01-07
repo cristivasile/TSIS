@@ -45,7 +45,7 @@ def main(beamng_path):
         simulation.start_scenario(beamng_runtime, vehicle, vehicle_name, vehicle_parts)
 
         # Run the scenario and capture the result
-        result = simulation.run_scenario(vehicle)
+        result = simulation.run_scenario(vehicle, script_dir)
 
         print(f"Total Time to Complete Track: {result:.2f} seconds")
     finally:
