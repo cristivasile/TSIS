@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         mc:Ignorable="d"
-        Title="BeamNG Configuration Live Test Tool" Height="620" Width="400"
+        Title="BeamNG Configuration Live Test Tool" Height="575" Width="400"
         ResizeMode="NoResize"
         Background="#F5F5F5">
     <!-- Light grey background -->
@@ -67,13 +67,18 @@
                 <TextBlock x:Name="ResultTextBox" d:Text="I am text" HorizontalAlignment="Center"/>
             </StackPanel>
 
-            <!-- Submit Button -->
-            <Button x:Name="SubmitButton" Content="Run" Width="100" Margin="0,20,0,0" 
+            <!-- Buttons -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 0 0">
+                <Button x:Name="SubmitButton" Content="Run" Width="100"
                     Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
                     Click="SubmitButton_Click" />
-            <Button x:Name="BackButton" Content="Back" Width="100" Margin="0,20,0,0" 
+                <Button x:Name="ViewButton" Content="View plots" Width="100" Margin="20 0 0 0" 
+                    Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
+                    Click="ViewButton_Click" />
+                <Button x:Name="BackButton" Content="Back" Width="100" Margin="20 0 0 0" 
                     Style="{StaticResource MaterialDesignOutlinedButton}" Background="LightGray"
                     HorizontalAlignment="Center" Click="BackButton_Click" />
+            </StackPanel>
         </StackPanel>
     </Grid>
 </Window>

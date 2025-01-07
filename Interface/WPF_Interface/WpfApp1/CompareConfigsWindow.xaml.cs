@@ -526,5 +526,35 @@ namespace Wpf_Interface
                 return "";
             }
         }
+
+        private void ViewButton_Click(object sender, RoutedEventArgs e)
+        {
+            string plotPath = @"..\plots";
+            var fullPath = Path.GetFullPath(plotPath);
+
+            // Get files starting with 'combined_'
+            var files = Directory.GetFiles(fullPath, "combined_*")
+                                            .OrderByDescending(f => File.GetLastWriteTime(f))
+                                            .Take(2)
+                                            .ToList();
+
+            if (files.Count >= 2)
+            {
+                foreach (var file in files)
+                {
+                    // Open each file
+                    System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+                    {
+                        FileName = file,
+                        UseShellExecute = true // Allows opening in default image viewer
+                    });
+                }
+            }
+            else
+            {
+                MessageBox.Show("Plots were not found in the expected path.");
+            }
+        }
+
     }
 }
