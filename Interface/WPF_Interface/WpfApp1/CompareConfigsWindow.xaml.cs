@@ -58,6 +58,9 @@ namespace Wpf_Interface
 
         private void CompareButton_Click(object sender, RoutedEventArgs e)
         {
+            ResultTextBox.Text = "";
+            ViewButton.IsEnabled = false;
+
             // Get selected vehicle type
             if (ComboBoxVehicleType1.SelectedItem?.ToString() == null ||
                 ComboBoxVehicleType2.SelectedItem?.ToString() == null)
@@ -169,6 +172,11 @@ namespace Wpf_Interface
             // Run Python script
             var time1 = RunPythonScript();
 
+            if (time1 == "")
+            {
+                return;
+            }
+
             // ------------------------------ Second run -----------------------------------------
 
             // Build parts dictionary dynamically
@@ -270,7 +278,13 @@ namespace Wpf_Interface
             // Run Python script
             var time2 = RunPythonScript();
 
+            if (time2 == "")
+            {
+                return;
+            }
+
             ResultTextBox.Text = $"First vehicle time: {time1} | Second vehicle time: {time2}";
+            ViewButton.IsEnabled = true;
         }
 
         private void ComboBoxVehicleType1_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -526,5 +540,35 @@ namespace Wpf_Interface
                 return "";
             }
         }
+
+        private void ViewButton_Click(object sender, RoutedEventArgs e)
+        {
+            string plotPath = @"..\plots";
+            var fullPath = Path.GetFullPath(plotPath);
+
+            // Get files starting with 'combined_'
+            var files = Directory.GetFiles(fullPath, "combined_*")
+                                            .OrderByDescending(f => File.GetLastWriteTime(f))
+                                            .Take(2)
+                                            .ToList();
+
+            if (files.Count >= 2)
+            {
+                foreach (var file in files)
+                {
+                    // Open each file
+                    System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+                    {
+                        FileName = file,
+                        UseShellExecute = true // Allows opening in default image viewer
+                    });
+                }
+            }
+            else
+            {
+                MessageBox.Show("Plots were not found in the expected path.");
+            }
+        }
+
     }
 }

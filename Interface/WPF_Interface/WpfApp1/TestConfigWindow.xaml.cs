@@ -262,6 +262,9 @@ namespace Wpf_Interface
 
         private void RunPythonScript()
         {
+            ResultTextBox.Text = "";
+            ViewButton.IsEnabled = false;
+
             string scriptPath = @"..\beamng_track_simulator.py";
             var psi = new System.Diagnostics.ProcessStartInfo
             {
@@ -291,11 +294,37 @@ namespace Wpf_Interface
                 {
                     var time = output.Split("Total Time to Complete Track:")[1].Trim();
                     ResultTextBox.Text = $"The car completed the track in {time}";
+                    ViewButton.IsEnabled = true;
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show($"Failed to run Python script: {ex.Message}", "Execution Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void ViewButton_Click(object sender, RoutedEventArgs e)
+        {
+            string plotPath = @"..\plots";
+            var fullPath = System.IO.Path.GetFullPath(plotPath);
+
+            // Get files starting with 'combined_'
+            var files = System.IO.Directory.GetFiles(fullPath, "combined_*")
+                                            .OrderByDescending(f => System.IO.File.GetLastWriteTime(f))
+                                            .ToList();
+
+            if (files.Any())
+            {
+                // Open the latest file
+                System.Diagnostics.Process.Start(new System.Diagnostics.ProcessStartInfo
+                {
+                    FileName = files.First(),
+                    UseShellExecute = true // Allows opening in default image viewer
+                });
+            }
+            else
+            {
+                MessageBox.Show("Plots were not found in the expected path.");
             }
         }
     }

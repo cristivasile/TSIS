@@ -1,7 +1,27 @@
 from beamngpy import Scenario, Road
+from beamngpy.sensors import Electrics
 import time, modules.track as track
+import matplotlib.pyplot as plt
+import os
 
-def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
+def save_plot_with_incremental_name(folder, base_name):
+    # Ensure the folder exists
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
+    # Find the highest existing increment
+    files = [f for f in os.listdir(folder) if f.startswith(base_name) and f.endswith(".png")]
+    increments = [int(f[len(base_name)+1:-4]) for f in files if f[len(base_name)+1:-4].isdigit()]
+    next_increment = max(increments, default=0) + 1
+
+    # Construct the new filename
+    filename = os.path.join(folder, f"{base_name}_{next_increment}.png")
+    return filename
+
+def start_scenario(beamng, 
+                   vehicle, 
+                   vehicle_name, # this is used in the commented dump_parts function 
+                   vehicle_parts):
 
     # Launch BeamNG.tech
     beamng.open()
@@ -12,6 +32,12 @@ def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
     # Extract the (x, y, z) coordinates of the start line
     first_segment = track.track[0][:3]  
     second_segment = track.track[-1][:3]
+
+    # Set up sensors
+    electrics = Electrics()
+
+    # Attach them
+    vehicle.attach_sensor("electrics", electrics)
     
     # Add the vehicle halfway on the finish straight
     scenario.add_vehicle(vehicle, pos=((first_segment[0] + second_segment[0]) / 2, (first_segment[1] + second_segment[1]) / 2, first_segment[2]), rot_quat=(0, 0, 0, 1))
@@ -40,7 +66,7 @@ def start_scenario(beamng, vehicle, vehicle_name, vehicle_parts):
     vehicle.ai_set_mode('span')  # Let AI follow the road
     vehicle.ai_set_aggression(1)
 
-def run_scenario(vehicle, timeout=120):
+def run_scenario(vehicle, script_dir, timeout=120):
     start_line = track.track[0][:2]  # Extract the (x, y, z) coordinates of the start line
 
     # Variables to track timing
@@ -50,6 +76,13 @@ def run_scenario(vehicle, timeout=120):
 
     # Record the starting point of the timeout
     scenario_start_time = time.time()
+
+    # Variables to log data
+    timestamps = []
+    speeds = []
+    rpms = []
+    brakes = []
+    fuels = []
 
     while not finished:
         # Check if timeout has been reached
@@ -61,6 +94,15 @@ def run_scenario(vehicle, timeout=120):
         # Update vehicle position
         vehicle.poll_sensors()
         vehicle_pos = vehicle.state['pos']
+
+        # Log data
+        vehicle.sensors.poll()
+        sensors = vehicle.sensors
+        timestamps.append(elapsed_time)
+        speeds.append(sensors['electrics']['airspeed'])
+        rpms.append(sensors['electrics']['rpm'])
+        brakes.append(sensors['electrics']['brake'])
+        fuels.append(sensors['electrics']['fuel'])
 
         # Check if the vehicle crosses the start line
         if (abs(vehicle_pos[0] - start_line[0]) < 5 and
@@ -78,6 +120,90 @@ def run_scenario(vehicle, timeout=120):
                 finished = True
 
         time.sleep(0.01)  # Pause to avoid excessive polling
+
+    plot_folder = os.path.join(script_dir, "plots")
+
+    # Speed plot
+    plt.figure()
+    plt.plot(timestamps, speeds, label='Speed (m/s)')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Speed (m/s)')
+    plt.title('Speed vs Time')
+    plt.grid(True)
+    plt.legend()
+    plt.savefig(save_plot_with_incremental_name(plot_folder, "speed"))
+    plt.close()
+
+    # RPM plot
+    plt.figure()
+    plt.plot(timestamps, rpms, label='RPM', color='blue')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Engine RPM')
+    plt.title('RPM vs Time')
+    plt.grid(True)
+    plt.legend()
+    plt.savefig(save_plot_with_incremental_name(plot_folder, "rpm"))
+    plt.close()
+
+    # Brake plot
+    plt.figure()
+    plt.plot(timestamps, brakes, label='Brake Input', color='orange')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Brake Input')
+    plt.title('Brake Input vs Time')
+    plt.grid(True)
+    plt.legend()
+    plt.savefig(save_plot_with_incremental_name(plot_folder, "brake"))
+    plt.close()
+
+    # Fuel plot
+    plt.figure()
+    plt.plot(timestamps, fuels, label='Fuel Level', color='green')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Fuel Level')
+    plt.title('Fuel Level vs Time')
+    plt.grid(True)
+    plt.legend()
+    plt.savefig(save_plot_with_incremental_name(plot_folder, "fuel"))
+    plt.close()
+
+    # Combined plot
+    plt.figure(figsize=(12, 10))
+    plt.subplot(4, 1, 1)
+    plt.plot(timestamps, speeds, label='Speed (m/s)')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Speed (m/s)')
+    plt.title('Speed vs Time')
+    plt.grid(True)
+    plt.legend()
+
+    plt.subplot(4, 1, 2)
+    plt.plot(timestamps, rpms, label='RPM', color='blue')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Engine RPM')
+    plt.title('RPM vs Time')
+    plt.grid(True)
+    plt.legend()
+
+    plt.subplot(4, 1, 3)
+    plt.plot(timestamps, brakes, label='Brake Input', color='orange')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Brake Input')
+    plt.title('Brake Input vs Time')
+    plt.grid(True)
+    plt.legend()
+
+    plt.subplot(4, 1, 4)
+    plt.plot(timestamps, fuels, label='Fuel Level', color='green')
+    plt.xlabel('Time (s)')
+    plt.ylabel('Fuel Level')
+    plt.title('Fuel Level vs Time')
+    plt.grid(True)
+    plt.legend()
+
+    plt.tight_layout()
+    plt.savefig(save_plot_with_incremental_name(plot_folder, "combined"))
+    plt.close()
 
     # Calculate the total time
     end_time = time.time()
